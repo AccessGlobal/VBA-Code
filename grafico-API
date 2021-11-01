@@ -4,7 +4,7 @@
 ' Creación  : julio 2020
 ' Propósito : dibujar un gráfico dinámico en un formulario de Access con la API de Google charts
 '-----------------------------------------------------------------------------------------------
-'Public Function GraficoTareas() 
+Public Function GraficoTareas() 
 'Definimos la variables
 Dim objHTML As Object
 Dim FSO As Scripting.FileSystemObject
