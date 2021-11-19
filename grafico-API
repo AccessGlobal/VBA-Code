@@ -1,13 +1,19 @@
-'----------------------------------------------------------------------------------------------
-' Procedure : GraficoTareas
-' Autor     : Luis Viadel
-' Creación  : julio 2020
-' Propósito : dibujar un gráfico dinámico en un formulario de Access con la API de Google charts
-'-----------------------------------------------------------------------------------------------
-Public Function GraficoTareas() 
+Public sub GraficoTareas()
+'-----------------------------------------------------------------------------------------------------------------------------------------------
+' Fuente            : https://access-global.net/crear-un-grafico-con-google-chart-api/
+'-----------------------------------------------------------------------------------------------------------------------------------------------
+' Título            : GraficoTareas
+' Autor original    : Luis Viadel
+' Actualizado       : julio 2020
+' Propósito         : dibujar un gráfico dinámico en un formulario de Access con la API de Google charts
+' Referencias       : Microsoft Scripting Runtime (c:\Windows\SysWOW64\scrrun.dll)/>
+'                   : Microsoft XML, v6.0 (C:\windows\SysWOW64\msxml6.dll)
+' Importante        : Utiliza el objeto WebBrowser que se descataloga en mayo 2022
+' Más información   : https://developers.google.com/chart/interactive/docs
+'-----------------------------------------------------------------------------------------------------------------------------------------------
 'Definimos la variables
 Dim objHTML As Object
-Dim FSO As Scripting.FileSystemObject
+Dim FSO As Object       'Scripting.FileSystemObject
 Dim strHTML As String
 Dim ruta As String
 Dim rstTable  As DAO.Recordset
@@ -31,8 +37,7 @@ strHTML = strHTML & "      ['" & rstTable("Fecha").NAME & "', '" & rstTable("Tar
 Set rstTable = CurrentDb.OpenRecordset("tareas")
 Do Until rstTable.EOF
 strHTML = strHTML & vbCrLf
-strHTML = strHTML & "      ['" & rstTable("FechaTarea") & "'," & rstTable("nTareas") & ", '" & rstTable("FechaTarea") & ": " &
-Format(rstTable("nTareas"), "General number") & " Tareas'],"
+strHTML = strHTML & "      ['" & rstTable("FechaTarea") & "'," & rstTable("nTareas") & ", '" & rstTable("FechaTarea") & ": " & Format(rstTable("nTareas"), "General number") & " Tareas'],"
 rstTable.MoveNext
 Loop
 rstTable.Close
@@ -69,7 +74,7 @@ objHTML.Write strHTML
 Set objHTML = Nothing
 Set FSO = Nothing
 'Vaciamos el control
-Form_formEjemplo.ctrlExplorador.ControlSource = "l'"
+Form_formEjemplo.ctrlExplorador.ControlSource = ""
 'Arreglamos la cadena de la ruta para pasársela al explorador
 ruta = Replace(Application.CurrentProject.Path, ":", "$")
 ruta = Replace(ruta, "\", "/")
