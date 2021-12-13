@@ -1,6 +1,6 @@
 # Post-It
 
-![Access-global](blob/main/Images/Logo1.png) 
+## Enlace al artículo
 
 [https://access-global.net/post-it/](https://access-global.net/post-it/)
 
