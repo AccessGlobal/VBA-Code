@@ -1,4 +1,3 @@
-![Access Global Logo](/images/logo.png)
 
 # VBA-Code
 
