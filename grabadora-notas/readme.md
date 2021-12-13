@@ -1,3 +1,5 @@
+![Access-global](blob/main/Images/Logo1.png)
+
 # Grabadora de notas
 
 ## Enlace al artículo
@@ -8,5 +10,5 @@
 Pequeña utilidad que puedes incorporar en tus programas o simplemente utilizarla como herramienta. 
 
 ## En ella, puedes aprender a:
-*Posicionar formularios pop-Up en la parte inferior derecha del monitor.
-*Manejar archivos de sonido.
+* Posicionar formularios pop-Up en la parte inferior derecha del monitor.
+* Manejar archivos de sonido.

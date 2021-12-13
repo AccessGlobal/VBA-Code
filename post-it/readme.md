@@ -1,3 +1,5 @@
+![Access-global](blob/main/Images/Logo1.png)
+
 # Post-It
 
 ## Enlace al artículo
