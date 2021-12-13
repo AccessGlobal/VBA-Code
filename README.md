@@ -6,7 +6,7 @@ Código en lenguaje VBA
 
 ## Notas:
 
-Este Github es un simple repositorio de código, donde nuestros seguidores pueden usar libremente el código que existe sin coste alguno, pero  no nos hacemos responsables del uso que se haga, el único requisito es que se mantenga la cabecera, y que nos reportéis los posibles errores, para que sean corregidos. 
+Este Github es un simple repositorio de código, donde nuestros seguidores pueden usar libremente el código que existe sin coste alguno, pero _no nos hacemos responsables del uso que se haga_, el **único requisito es que se mantenga la cabecera**, y que nos reportéis los posibles errores, para que sean corregidos. 
 
 Los códigos de nuestros artículos, ya sean realizados por los fundadores como por distintos colaboradores que nos quieran ayudar, va a hacer crecer este mundo del Access.
 
