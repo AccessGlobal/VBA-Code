@@ -1,6 +1,7 @@
 # Artículos de los archivos y carpetas:
 
- Título | Artículo
+  **_Título_** | **_Artículo_**
+ -----------|-----------
  **Post-it:** | https://access-global.net/post-it/
  **Crear-Carpertas-encadenadas:** | https://access-global.net/crear-carpetas-encadenadas/
  **Eliminar-una-carpeta-y-todo-su-contenido:** | https://access-global.net/eliminar-una-carpeta-y-todo-su-contenido/
