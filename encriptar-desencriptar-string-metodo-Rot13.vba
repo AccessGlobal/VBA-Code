@@ -1,6 +1,6 @@
 Function CodRot13(CadenaEnviada As String)
 '----------------------------------------------------------------------------------------------------------------------
-Fuente            : https://access-global.net/?p=10560
+    Fuente          : https://access-global.net/encriptar-una-cadena-de-texto
 '----------------------------------------------------------------------------------------------------------------------
 ' Título            : Encriptar cadena de texto
 ' Autor original    : Desconocido
