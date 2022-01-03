@@ -10,3 +10,4 @@
  **Grafico_Api:** | https://access-global.net/crear-un-grafico-con-google-chart-api/ 
  **Create mcfiledialog-cuadro-de-dialogo-abrir-archivo:** | https://access-global.net/mcfiledialog-cuadro-de-dialogo-abrir-archivo 
  **encriptar-desencriptar-string-metodo-Rot13.vba** | https://access-global.net/encriptar-una-cadena-de-texto 
+**EsACCDE.vba| https://access-global.net/es-accde-o-accdb/
