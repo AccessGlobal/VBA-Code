@@ -3,7 +3,7 @@
 
 ## Enlace al artículo
 
-https://access-global.net/hagamos-una-pausa/
+[https://access-global.net/hagamos-una-pausa/](https://access-global.net/hagamos-una-pausa/)
 
 ## Autor/es
 Desconocido
