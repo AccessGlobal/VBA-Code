@@ -2,15 +2,16 @@
 
 # Artículos de los archivos y carpetas
 
-  **_Título_** | **_Artículo_**
- -----------|-------------------
- **Crear Carpertas encadenadas:** | <https://access-global.net/crear-carpetas-encadenadas/>
- **Eliminar una carpeta y todo su contenido:** | <https://access-global.net/eliminar-una-carpeta-y-todo-su-contenido/>
- **encriptar desencriptar string metodo Rot13:** | <https://access-global.net/encriptar-una-cadena-de-texto>
- **EsACCDE:** | <https://access-global.net/es-accde-o-accdb/>
- **grabadora notas:** | <https://access-global.net/grabadora-de-notas/>
- **Grafico Api:** | <https://access-global.net/crear-un-grafico-con-google-chart-api/>
- **Hacer una pausa:** | <https://github.com/AccessGlobal/VBA-Code/tree/main/Hacer%20una%20pausa>
- **McFiledialog cuadro de dialogo abrir archivo:** | <https://access-global.net/mcfiledialog-cuadro-de-dialogo-abrir-archivo>
- **Post-it:** | <https://access-global.net/post-it/>
- **SendKeys:** | <https://access-global.net/sendkeys/>
+  **_Título_** | **_Artículo_** | **_Ruta_** 
+ -----------|-------------------|--------------- 
+ **Crear Carpertas encadenadas:** | <https://access-global.net/crear-carpetas-encadenadas/> | [Crear%20carpetas%20encadenadas](/Crear%20carpetas%20encadenadas)
+ **Crear un gráfico con Google Chart API:** | <https://access-global.net/crear-un-grafico-con-google-chart-api/> | [Grafico%20API](/Grafico%20API)
+ **Cuadro de diálogo __Abrir archivo__:** | <https://access-global.net/mcfiledialog-cuadro-de-dialogo-abrir-archivo> | [mcfiledialog%20cuadro%20dialogo%20abrir%20archivo](/mcfiledialog%20cuadro%20dialogo%20abrir%20archivo)
+ **Eliminar una carpeta y todo su contenido:** | <https://access-global.net/eliminar-una-carpeta-y-todo-su-contenido/> | [Eliminar%20carpeta%20y%20su%20contenido](/Eliminar%20carpeta%20y%20su%20contenido)
+ **Encriptar una cadena de texto (método Rot13):** | <https://access-global.net/encriptar-una-cadena-de-texto> | [Encriptar%20desencriptar%20metodo%20Rot13](/Encriptar%20desencriptar%20metodo%20Rot13)
+ **Es accde o accdb:** | <https://access-global.net/es-accde-o-accdb/> | [EsACCDE%20o%20ACCDB](/EsACCDE%20o%20ACCDB)
+ **Grabadora de notas:** | <https://access-global.net/grabadora-de-notas/> | [grabadora-notas](/grabadora-notas)
+ **Hacer una pausa:** | <https://access-global.net/hagamos-una-pausa/> | [Hacer%20una%20pausa](/Hacer%20una%20pausa)
+ **Post-It:** | <https://access-global.net/post-it/> | [post-it](/post-it)
+ **SendKeys:** | <https://access-global.net/sendkeys/> | [SendKeys](/SendKeys)
+
