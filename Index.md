@@ -14,4 +14,5 @@
  **Hacer una pausa:** | <https://access-global.net/hagamos-una-pausa/> | [Hacer una pausa](/Hacer%20una%20pausa)
  **Post-It:** | <https://access-global.net/post-it/> | [post-it](/post-it)
  **SendKeys:** | <https://access-global.net/sendkeys/> | [SendKeys](/SendKeys)
+ **Transparencias forms:** | <https://access-global.net/aplicar-transparencia-a-un-formulario> | [Transparencias_forms](/Transparencias_forms)
 
