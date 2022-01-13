@@ -1,4 +1,4 @@
-﻿![Access-global](blob/main/Images/Logo1.png)
+﻿![Access-global](../blob/main/Images/Logo1.png)
 # Transparencias forms
 ## Enlace al artículo
 [https://access-global.net/aplicar-transparencia-a-un-formulario](https://access-global.net/aplicar-transparencia-a-un-formulario)
