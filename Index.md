@@ -16,4 +16,5 @@
  **Post-It:** | <https://access-global.net/post-it/> | [post-it](/post-it)
  **SendKeys:** | <https://access-global.net/sendkeys/> | [SendKeys](/SendKeys)
  **Transparencias forms:** | <https://access-global.net/aplicar-transparencia-a-un-formulario> | [Transparencias_forms](/Transparencias_forms)
+ **Ultimo dia de mes:** | <https://access-global.net/conocer-el-ultimo-dia-de-un-mes-mcdtmfinddatelastdayofmonth/> | [Ultimo dia de mes](/Ultimo%20dia%20de%20mes)
 
