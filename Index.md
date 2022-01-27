@@ -13,6 +13,7 @@
  **Grabadora de notas:** | <https://access-global.net/grabadora-de-notas/> | [grabadora-notas](/grabadora-notas)
  **Hacer una pausa:** | <https://access-global.net/hagamos-una-pausa/> | [Hacer una pausa](/Hacer%20una%20pausa)
  **ListBox dinámicos:** | <https://access-global.net/listbox-dinamicos/> | [ListBox dinámicos](/ListBox%20dinámicos)
+ **Mc Primer dia mes:** | <https://access-global.net/conocer-el-primer-dia-de-un-mes-mcdtmfinddatefirstdayofmonth/> | [Mc Primer dia mes](/Mc%20Primer%20dia%20mes)
  **Post-It:** | <https://access-global.net/post-it/> | [post-it](/post-it)
  **SendKeys:** | <https://access-global.net/sendkeys/> | [SendKeys](/SendKeys)
  **Transparencias forms:** | <https://access-global.net/aplicar-transparencia-a-un-formulario> | [Transparencias_forms](/Transparencias_forms)
