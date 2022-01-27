@@ -1,4 +1,4 @@
-﻿![Access-global](blob/main/Images/Logo1.png)
+﻿![Access-global](/blob/main/Images/Logo1.png)
 # Ultimo dia de mes
 ## Enlace al artículo
 [https://access-global.net/conocer-el-ultimo-dia-de-un-mes-mcdtmfinddatelastdayofmonth/](https://access-global.net/conocer-el-ultimo-dia-de-un-mes-mcdtmfinddatelastdayofmonth/)
