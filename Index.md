@@ -4,6 +4,7 @@
 
   **_Título_** | **_Artículo_** | **_Ruta_** 
  -----------|-------------------|--------------- 
+ **AS EsBisiesto:** | <https://access-global.net/saber-si-un-ano-es-bisiesto/> | [AS_EsBisiesto](/AS_EsBisiesto)
  **Crear Carpertas encadenadas:** | <https://access-global.net/crear-carpetas-encadenadas/> | [Crear carpetas encadenadas](/Crear%20carpetas%20encadenadas)
  **Crear un gráfico con Google Chart API:** | <https://access-global.net/crear-un-grafico-con-google-chart-api/> | [Grafico API](/Grafico%20API)
  **Cuadro de diálogo __Abrir archivo__:** | <https://access-global.net/mcfiledialog-cuadro-de-dialogo-abrir-archivo> | [mcfiledialog cuadro dialogo abrir archivo](/mcfiledialog%20cuadro%20dialogo%20abrir%20archivo)
