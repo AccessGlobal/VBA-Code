@@ -1,7 +1,7 @@
 ﻿![Access-global](/blob/main/Images/Logo1.png)
 # Destello Bloquear cerrar access
 ## Enlace al artículo
-[https://access-global.net/bloquear-cerrar-access/](https://access-global.net/bloquear-cerrar-access/)
+[https://access-global.net/access-bloquear-cerrar-access/](https://access-global.net/access-bloquear-cerrar-access/)
 ## Autor/es
 Desconocido
 ## Modificado por
