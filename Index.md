@@ -8,7 +8,7 @@
  **Crear Carpertas encadenadas:** | <https://access-global.net/crear-carpetas-encadenadas/> | [Crear carpetas encadenadas](/Crear%20carpetas%20encadenadas)
  **Crear un gráfico con Google Chart API:** | <https://access-global.net/crear-un-grafico-con-google-chart-api/> | [Grafico API](/Grafico%20API)
  **Cuadro de diálogo __Abrir archivo__:** | <https://access-global.net/mcfiledialog-cuadro-de-dialogo-abrir-archivo> | [mcfiledialog cuadro dialogo abrir archivo](/mcfiledialog%20cuadro%20dialogo%20abrir%20archivo)
- **Destello Bloquear cerrar access:** | <https://access-global.net/bloquear-cerrar-access/> | [Destello Bloquear_cerrar_access](/Destello%20Bloquear_cerrar_access)
+ **Destello Bloquear cerrar access:** | <https://access-global.net/access-bloquear-cerrar-access/> | [Destello Bloquear_cerrar_access](/Destello%20Bloquear_cerrar_access)
  **Destello Ocultar Access:** | <https://access-global.net/access-ocultar-access/> | [Destello Ocultar_Access](/Destello%20Ocultar_Access)
  **Destello Ocultar maximizar:** | <https://access-global.net/ocultar-maximizar-access/> | [Destello Ocultar_maximizar](/Destello%20Ocultar_maximizar)
  **Eliminar una carpeta y todo su contenido:** | <https://access-global.net/eliminar-una-carpeta-y-todo-su-contenido/> | [Eliminar carpeta y su contenido](/Eliminar%20carpeta%20y%20su%20contenido)
