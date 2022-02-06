@@ -15,7 +15,7 @@ Const WS_MAXIMIZEBOX = &H10000
 Const WS_SYSMENU = &H80000
 Function ActivarBotonCerrar(bEnable As Boolean, Optional ByVal lhWndTarget As Long = 0) As Long
 '-----------------------------------------------------------------------------------------------------------------------------------------------
-' Fuente            : https://access-global.net/bloquear-cerrar-access/
+' Fuente            : https://access-global.net/access-bloquear-cerrar-access/
 '-----------------------------------------------------------------------------------------------------------------------------------------------
 ' Título original   : EnableDisableCloseButton
 ' Autor original    : Desconocido
