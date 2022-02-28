@@ -21,9 +21,6 @@
 ' Referencia        : Microsoft Windows Common Controls 6.0 (SP6) (c:\Windows\SysWOW64\MSCOMCTL.ocx)/>
 ' Referencia        : Opcional. Windows Script Host Object Model (c:\Windows\system32\wshom.ocx)/>
 ' Referencia        : Opcional. Microsoft Office 16.0 Object Library (c:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE16\...)/>
-' Referencia        : Opcional. SUSTITUIR_POR_EL_NOMBRE_DE_REFERENCIA (C:\ Sustituir_por_la_ruta_completa_de_la_librería)
-' Importante        : SUSTITUIR_POR_UNA_BREVE_DESCRIPCIÓN_DE_LA_NOTA_IMPORTANTE
-' Más información   : SUSTITUIR_POR_UNA_URL
 '-----------------------------------------------------------------------------------------------------------------------------------------------
 'Test:              : Para adaptar este código en tu aplicación puedes basarte en este procedimiento test.  todo el procedimiento desde el Sub hasta el End Sub
 '                     al portapapeles y pega en el editor de VBA de tu aplicación MS Access. Descomentar todas las líneas que nos interese (se aconseja seleccionar
