@@ -11,6 +11,7 @@
  **Destello Bloquear cerrar access:** | <https://access-global.net/bloquear-cerrar-access/> | [Destello Bloquear_cerrar_access](/Destello%20Bloquear_cerrar_access)
  **Destello Efectos Forms:** | <https://access-global.net/diseno-efectos-ventana/> | [Destello Efectos Forms](/Destello%20Efectos%20Forms)
  **Destello Minicalendario:** | <https://access-global.net/access-minicalendario/> | [Destello Minicalendario](/Destello%20Minicalendario)
+ **Destello Mover formulario:** | <https://access-global.net/diseno-mover-formulario> | [Destello Mover_formulario](/Destello%20Mover_formulario)
  **Destello Ocultar Access:** | <https://access-global.net/access-ocultar-access/> | [Destello Ocultar_Access](/Destello%20Ocultar_Access)
  **Destello Ocultar maximizar:** | <https://access-global.net/ocultar-maximizar-access/> | [Destello Ocultar_maximizar](/Destello%20Ocultar_maximizar)
  **Eliminar una carpeta y todo su contenido:** | <https://access-global.net/eliminar-una-carpeta-y-todo-su-contenido/> | [Eliminar carpeta y su contenido](/Eliminar%20carpeta%20y%20su%20contenido)
