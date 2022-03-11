@@ -4,6 +4,7 @@
 
   **_Título_** | **_Artículo_** | **_Ruta_** 
  -----------|-------------------|--------------- 
+ **Actualizar ODBC:** | <https://access-global.net/actualizar-una-conexion-odbc-en-tiempo-de-ejecucion> | [Actualizar ODBC](/Actualizar%20ODBC)
  **AS EsBisiesto:** | <https://access-global.net/saber-si-un-ano-es-bisiesto/> | [AS_EsBisiesto](/AS_EsBisiesto)
  **Crear Carpertas encadenadas:** | <https://access-global.net/crear-carpetas-encadenadas/> | [Crear carpetas encadenadas](/Crear%20carpetas%20encadenadas)
  **Crear un gráfico con Google Chart API:** | <https://access-global.net/crear-un-grafico-con-google-chart-api/> | [Grafico API](/Grafico%20API)
