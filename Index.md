@@ -17,7 +17,7 @@
  **Destello Mover formulario:** | <https://access-global.net/diseno-mover-formulario> | [Destello Mover_formulario](/Destello%20Mover_formulario)
  **Destello Ocultar Access:** | <https://access-global.net/access-ocultar-access/> | [Destello Ocultar_Access](/Destello%20Ocultar_Access)
  **Destello Ocultar maximizar:** | <https://access-global.net/ocultar-maximizar-access/> | [Destello Ocultar_maximizar](/Destello%20Ocultar_maximizar)
- **Destello Posicionar form:** | <https://access-global.net/access-redimensionar-y-posicionar-formulario> | [Destello Posicionar form](/Destello%20Posicionar%20form)
+ **Destello Posicionar form:** | <https://access-global.net/access-redimensionar-y-posicionar-formulario> | [Destello Posicionar_form](/Destello%20Posicionar_form)
  **Destello WhatsApp:** | <https://access-global.net/vba-sencilla-forma-de-enviar-mensaje-de-whatsapp> | [Destello WhatsApp](/Destello%20WhatsApp)
  **Eliminar una carpeta y todo su contenido:** | <https://access-global.net/eliminar-una-carpeta-y-todo-su-contenido/> | [Eliminar carpeta y su contenido](/Eliminar%20carpeta%20y%20su%20contenido)
  **Encriptar una cadena de texto (método Rot13):** | <https://access-global.net/encriptar-una-cadena-de-texto> | [Encriptar-desencriptar metodo Rot13](/Encriptar-desencriptar%20metodo%20Rot13)
