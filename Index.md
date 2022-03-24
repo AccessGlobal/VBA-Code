@@ -12,6 +12,7 @@
  **Destello Bloquear cerrar access:** | <https://access-global.net/bloquear-cerrar-access/> | [Destello Bloquear_cerrar_access](/Destello%20Bloquear_cerrar_access)
  **Destello CheckInternet:** | <https://access-global.net/vba-tengo-conexion-a-internet> | [Destello CheckInternet](/Destello%20CheckInternet)
  **Destello Efectos Forms:** | <https://access-global.net/diseno-efectos-ventana/> | [Destello Efectos Forms](/Destello%20Efectos%20Forms)
+ **Destello Fechas semana:** | <https://access-global.net/obtener-la-fecha-del-primer-dia-de-la-semana-o-ultimo-dia-de-la-semana-en-access-vba/> | [Destello Fechas_semana](/Destello%20Fechas_semana)
  **Destello Freefile:** | <https://access-global.net/vba-freefile-function> | [Destello Freefile](/Destello%20Freefile)
  **Destello Minicalendario:** | <https://access-global.net/access-minicalendario/> | [Destello Minicalendario](/Destello%20Minicalendario)
  **Destello Modificar ratón:** | <https://access-global.net/diseno-crea-tu-propio-icono-de-raton> | [Destello Modificar_ratón](/Destello%20Modificar_ratón)
