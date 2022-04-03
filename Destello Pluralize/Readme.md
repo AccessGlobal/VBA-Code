@@ -1,7 +1,7 @@
 ﻿![Access-global](/blob/main/Images/Logo1.png)
 # Destello Pluralize
 ## Enlace al artículo
-[https://access-global.net/drag-drop-en-access](https://access-global.net/drag-drop-en-access)
+[https://access-global.net/vba-funcion-pluralize-by-mike-wolfe/](https://access-global.net/vba-funcion-pluralize-by-mike-wolfe/)
 ## Autor/es
 Mike Wolfe <mike@nolongerset.com>
 ## Modificado por
