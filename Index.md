@@ -15,6 +15,7 @@
  **Destello Emoticonos:** | <https://access-global.net/diseno-utiliza-emoticonos-en-tus-aplicaciones> | [Destello Emoticonos](/Destello%20Emoticonos)
  **Destello Fechas semana:** | <https://access-global.net/obtener-la-fecha-del-primer-dia-de-la-semana-o-ultimo-dia-de-la-semana-en-access-vba/> | [Destello Fechas_semana](/Destello%20Fechas_semana)
  **Destello Freefile:** | <https://access-global.net/vba-freefile-function> | [Destello Freefile](/Destello%20Freefile)
+ **Destello ListBox selección múltiple:** | <https://access-global.net/access-cuadro-de-lista-con-seleccion-multiple/> | [Destello ListBox selección múltiple](/Destello%20ListBox%20selección%20múltiple)
  **Destello Minicalendario:** | <https://access-global.net/access-minicalendario/> | [Destello Minicalendario](/Destello%20Minicalendario)
  **Destello Modificar ratón:** | <https://access-global.net/diseno-crea-tu-propio-icono-de-raton> | [Destello Modificar_ratón](/Destello%20Modificar_ratón)
  **Destello Mover formulario:** | <https://access-global.net/diseno-mover-formulario> | [Destello Mover_formulario](/Destello%20Mover_formulario)
