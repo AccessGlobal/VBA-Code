@@ -22,6 +22,7 @@
  **Destello Mover formulario:** | <https://access-global.net/diseno-mover-formulario> | [Destello Mover_formulario](/Destello%20Mover_formulario)
  **Destello Ocultar Access:** | <https://access-global.net/access-ocultar-access/> | [Destello Ocultar_Access](/Destello%20Ocultar_Access)
  **Destello Ocultar maximizar:** | <https://access-global.net/ocultar-maximizar-access/> | [Destello Ocultar_maximizar](/Destello%20Ocultar_maximizar)
+ **Destello Ocultar Minimizar Access:** | <https://access-global.net/vba-ocultar-minimizar-access/> | [Destello Ocultar Minimizar Access](/Destello%20Ocultar%20Minimizar%20Access)
  **Destello Pluralize:** | <https://access-global.net/vba-funcion-pluralize-by-mike-wolfe/> | [Destello Pluralize](/Destello%20Pluralize)
  **Destello Posicionar form:** | <https://access-global.net/access-redimensionar-y-posicionar-formulario> | [Destello Posicionar_form](/Destello%20Posicionar_form)
  **Destello Sonido en App:** | <https://access-global.net/vba-sonido-en-mi-app> | [Destello Sonido_en_App](/Destello%20Sonido_en_App)
