@@ -13,6 +13,7 @@
  **Destello CheckInternet:** | <https://access-global.net/vba-tengo-conexion-a-internet> | [Destello CheckInternet](/Destello%20CheckInternet)
  **Destello Efectos Forms:** | <https://access-global.net/diseno-efectos-ventana/> | [Destello Efectos Forms](/Destello%20Efectos%20Forms)
  **Destello Emoticonos:** | <https://access-global.net/diseno-utiliza-emoticonos-en-tus-aplicaciones> | [Destello Emoticonos](/Destello%20Emoticonos)
+ **Destello Es 64 bits:** | <https://access-global.net/vba-es-accde> | [Destello Es 64 bits](/Destello%20Es%2064%20bits)
  **Destello Fechas semana:** | <https://access-global.net/obtener-la-fecha-del-primer-dia-de-la-semana-o-ultimo-dia-de-la-semana-en-access-vba/> | [Destello Fechas_semana](/Destello%20Fechas_semana)
  **Destello Freefile:** | <https://access-global.net/vba-freefile-function> | [Destello Freefile](/Destello%20Freefile)
  **Destello habla:** | <https://access-global.net/access-que-te-lo-diga-access> | [Destello habla](/Destello%20habla)
