@@ -15,6 +15,7 @@
  **Destello Emoticonos:** | <https://access-global.net/diseno-utiliza-emoticonos-en-tus-aplicaciones> | [Destello Emoticonos](/Destello%20Emoticonos)
  **Destello Es 64 bits:** | <https://access-global.net/vba-es-accde> | [Destello Es 64 bits](/Destello%20Es%2064%20bits)
  **Destello Fechas semana:** | <https://access-global.net/obtener-la-fecha-del-primer-dia-de-la-semana-o-ultimo-dia-de-la-semana-en-access-vba/> | [Destello Fechas_semana](/Destello%20Fechas_semana)
+ **Destello Filtros por form:** | <https://access-global.net/vba-gestionamos-el-filtro-por-formulario> | [Destello Filtros por form](/Destello%20Filtros%20por%20form)
  **Destello Freefile:** | <https://access-global.net/vba-freefile-function> | [Destello Freefile](/Destello%20Freefile)
  **Destello habla:** | <https://access-global.net/access-que-te-lo-diga-access> | [Destello habla](/Destello%20habla)
  **Destello Hora decimal:** | <https://access-global.net/vba-convertir-hora-en-decimal> | [Destello Hora decimal](/Destello%20Hora%20decimal)
