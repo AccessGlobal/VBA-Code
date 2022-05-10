@@ -11,6 +11,8 @@
  **Cuadro de diálogo __Abrir archivo__:** | <https://access-global.net/mcfiledialog-cuadro-de-dialogo-abrir-archivo> | [mcfiledialog cuadro dialogo abrir archivo](/mcfiledialog%20cuadro%20dialogo%20abrir%20archivo)
  **Destello Bloquear cerrar access:** | <https://access-global.net/bloquear-cerrar-access/> | [Destello Bloquear_cerrar_access](/Destello%20Bloquear_cerrar_access)
  **Destello CheckInternet:** | <https://access-global.net/vba-tengo-conexion-a-internet> | [Destello CheckInternet](/Destello%20CheckInternet)
+ **Destello Codigo Postal Google:** | <https://access-global.net/vba-conocer-codigo-postal-y-coordenadas-con-la-api-de-google-maps> | [Destello Codigo Postal Google](/Destello%20Codigo%20Postal%20Google)
+ **Destello Distancia entre coordenadas:** | <https://access-global.net/vba-google-maps-api-calcular-la-distancia-entre-dos-coordenadas> | [Destello Distancia entre coordenadas](/Destello%20Distancia%20entre%20coordenadas)
  **Destello Efectos Forms:** | <https://access-global.net/diseno-efectos-ventana/> | [Destello Efectos Forms](/Destello%20Efectos%20Forms)
  **Destello Emoticonos:** | <https://access-global.net/diseno-utiliza-emoticonos-en-tus-aplicaciones> | [Destello Emoticonos](/Destello%20Emoticonos)
  **Destello Es 64 bits:** | <https://access-global.net/vba-es-accde> | [Destello Es 64 bits](/Destello%20Es%2064%20bits)
