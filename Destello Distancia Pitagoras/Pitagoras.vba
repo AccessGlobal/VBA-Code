@@ -43,8 +43,9 @@ End Function
 '===============================================================================================================================================
 
 ' Versión mejorada con resultados con una mayor precisión.
-' esta modificación fué realizada en torno a los años 1985 -1987.
-' Los parámetros de entrada son los mismos, la diferencia con la versión anterior estriba en que se incluyen cálculos modificadores para las distancias, en vez de usar un valor fijo.
+' Esta modificación fue realizada en torno a los años 1985 -1987.
+' Los parámetros de entrada son los mismos, la diferencia con la versión anterior estriba en que se incluyen cálculos modificadores para las distancias, 
+' en vez de usar un valor fijo.
 
 Function DistPitagoras(Lat1 As Double, Lon1 As Double, Lat2 As Double, Lon2 As Double) As Double
 
@@ -60,7 +61,7 @@ P1 = ((Lat1 - Lat2) * D) ^ 2 'Calculamos el cuadrado de la distancia entre latit
 M = ((Lat1 + Lat2) / 2) * (PI / 180)'Convertimos a Radianes la media de las latitudes
 Z = Cos(M) * D ' Calculamos el corrector para la distancia de las longitudes
 
-P2 = ((Lon1 - Lon2) * Z) ^ 2 'Calculamos el cuadradode la distancia de las longitudes
+P2 = ((Lon1 - Lon2) * Z) ^ 2 'Calculamos el cuadrado de la distancia de las longitudes
 
 DistPitagoras = (Sqr(P1 + P2)) 'Devolvemos el resultado con la fórmula de Pitágoras
 
