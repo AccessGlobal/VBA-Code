@@ -16,6 +16,9 @@ Se ha intentado hacer un repositorio de código sencillo para poder copiar/pegar
 
 Para cualquier duda, intriga, mejora o comentarios os podéis poner en contacto con nosotros, tanto en la web como por medio de los Issues de GitHub.  Esperamos y deseamos que os sea útil en vuestro día a día.
 
+
+El equipo de **_Access-Global_**.
+
 ## Indice:
 
 Si quieres ver todos los Artículos disponibles los puedes encontrar aquí: [Access-Global.net](https://access-global.net/)
