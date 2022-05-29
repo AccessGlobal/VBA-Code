@@ -41,6 +41,7 @@
  **Destello Ocultar Minimizar Access:** | <https://access-global.net/vba-ocultar-minimizar-access/> | [Destello Ocultar Minimizar Access](/Destello%20Ocultar%20Minimizar%20Access)
  **Destello Pluralize:** | <https://access-global.net/vba-funcion-pluralize-by-mike-wolfe/> | [Destello Pluralize](/Destello%20Pluralize)
  **Destello Posicionar form:** | <https://access-global.net/access-redimensionar-y-posicionar-formulario> | [Destello Posicionar_form](/Destello%20Posicionar_form)
+ **Destello Recupera papelera:** | <https://access-global.net/vba-recuperar-el-fichero-enviado-a-la-papelera> | [Destello Recupera papelera](/Destello%20Recupera%20papelera)
  **Destello Sólo números:** | <https://access-global.net/vba-estas-obligado-a-escribir-solo-numeros> | [Destello Sólo números](/Destello%20Sólo%20números)
  **Destello Sonido en App:** | <https://access-global.net/vba-sonido-en-mi-app> | [Destello Sonido_en_App](/Destello%20Sonido_en_App)
  **Destello WhatsApp:** | <https://access-global.net/vba-sencilla-forma-de-enviar-mensaje-de-whatsapp> | [Destello WhatsApp](/Destello%20WhatsApp)
