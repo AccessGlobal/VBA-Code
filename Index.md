@@ -40,6 +40,7 @@
  **Destello Ocultar Access:** | <https://access-global.net/access-ocultar-access/> | [Destello Ocultar_Access](/Destello%20Ocultar_Access)
  **Destello Ocultar maximizar:** | <https://access-global.net/ocultar-maximizar-access/> | [Destello Ocultar_maximizar](/Destello%20Ocultar_maximizar)
  **Destello Ocultar Minimizar Access:** | <https://access-global.net/vba-ocultar-minimizar-access/> | [Destello Ocultar Minimizar Access](/Destello%20Ocultar%20Minimizar%20Access)
+ **Destello Ordenar formularios:** | <https://access-global.net/vba-una-funcion-para-ordenar-todos-los-formularios> | [Destello Ordenar formularios](/Destello%20Ordenar%20formularios)
  **Destello Pluralize:** | <https://access-global.net/vba-funcion-pluralize-by-mike-wolfe/> | [Destello Pluralize](/Destello%20Pluralize)
  **Destello Posicionar form:** | <https://access-global.net/access-redimensionar-y-posicionar-formulario> | [Destello Posicionar_form](/Destello%20Posicionar_form)
  **Destello Recupera papelera:** | <https://access-global.net/vba-recuperar-el-fichero-enviado-a-la-papelera> | [Destello Recupera papelera](/Destello%20Recupera%20papelera)
