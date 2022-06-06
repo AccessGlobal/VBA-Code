@@ -25,6 +25,18 @@ Function OrdenaForm(frm As Form, ByVal sOrden As String, ByVal tipo As String) A
 '
 ' End Sub
 '-----------------------------------------------------------------------------------------------------------------------------------------------
+''
+'Ejemplo proporcionado por Alba Salvá
+'
+' Sub OrdenaForm_test()
+'
+'        If Not OrdenaForm(Me, "MiCampo", "ASC") Then
+'           MsgBox "No se pudo ordenar el formulario por el campo '" & MiCampo & "'", vbExclamation, "Ordenar por el campo " & MiCampo
+'        End If
+'
+' End Sub
+'
+'-----------------------------------------------------------------------------------------------------------------------------------------------
     Dim sform As String
 
     On Error GoTo LinErr
