@@ -25,8 +25,12 @@ Function OrdenaForm(frm As Form, ByVal sOrden As String, ByVal tipo As String) A
 '
 ' End Sub
 '-----------------------------------------------------------------------------------------------------------------------------------------------
-Dim sform As String
+    Dim sform As String
 
+    On Error GoTo LinErr
+    
+    OrdenaForm = False
+    
     sform = frm.Name
     
     sOrden = sOrden & " " & tipo
@@ -35,5 +39,12 @@ Dim sform As String
     
     frm.OrderBy = sOrden
     frm.OrderByOn = True
+    
+    OrdenaForm = True
+    
+    Exit Function
 
+LinErr:
+    OrdenaForm = False
+    
 End Function
