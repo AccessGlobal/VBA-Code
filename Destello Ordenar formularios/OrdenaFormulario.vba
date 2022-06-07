@@ -25,7 +25,7 @@ Function OrdenaForm(frm As Form, ByVal sOrden As String, ByVal tipo As String) A
 '
 ' End Sub
 '-----------------------------------------------------------------------------------------------------------------------------------------------
-''
+'
 'Ejemplo proporcionado por Alba Salvá
 '
 ' Sub OrdenaForm_test()
