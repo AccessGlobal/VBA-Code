@@ -1,5 +1,5 @@
 ﻿![Access-global](/blob/main/Images/Logo1.png)
-# Destello Obtener IP
+# Destello Obtener IP pública
 ## Enlace al artículo
 [https://access-global.net/vba-obtener-mi-ip-publica](https://access-global.net/vba-obtener-mi-ip-publica)
 ## Autor/es
