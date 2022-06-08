@@ -25,6 +25,7 @@
  **Destello Emoticonos:** | <https://access-global.net/diseno-utiliza-emoticonos-en-tus-aplicaciones> | [Destello Emoticonos](/Destello%20Emoticonos)
  **Destello Enviar a papelera:** | <https://access-global.net/vba-enviar-fichero-a-la-papelera> | [Destello Enviar a papelera](/Destello%20Enviar%20a%20papelera)
  **Destello Es 64 bits:** | <https://access-global.net/vba-es-accde> | [Destello Es 64 bits](/Destello%20Es%2064%20bits)
+ **Destello Existe fichero:** | <https://access-global.net/vba-metodo-fileexists> | [Destello Existe fichero](/Destello%20Existe%20fichero)
  **Destello Exporta Excel:** | <https://access-global.net/access-exportar-contenido-de-un-recordset-a-excel-copyfromrecordset> | [Destello Exporta Excel](/Destello%20Exporta%20Excel)
  **Destello Fechas semana:** | <https://access-global.net/obtener-la-fecha-del-primer-dia-de-la-semana-o-ultimo-dia-de-la-semana-en-access-vba/> | [Destello Fechas_semana](/Destello%20Fechas_semana)
  **Destello Filtros por form:** | <https://access-global.net/vba-gestionamos-el-filtro-por-formulario> | [Destello Filtros por form](/Destello%20Filtros%20por%20form)
