@@ -37,6 +37,7 @@
  **Destello Minicalendario:** | <https://access-global.net/access-minicalendario/> | [Destello Minicalendario](/Destello%20Minicalendario)
  **Destello Modificar ratón:** | <https://access-global.net/diseno-crea-tu-propio-icono-de-raton> | [Destello Modificar_ratón](/Destello%20Modificar_ratón)
  **Destello Mover formulario:** | <https://access-global.net/diseno-mover-formulario> | [Destello Mover_formulario](/Destello%20Mover_formulario)
+ **Destello Obtener IP local:** | <https://access-global.net/vba-obtener-mi-ip-local> | [Destello Obtener IP local](/Destello%20Obtener%20IP%20local)
  **Destello Obtener IP:** | <https://access-global.net/vba-obtener-mi-ip-publica> | [Destello Obtener IP](/Destello%20Obtener%20IP)
  **Destello Ocultar Access:** | <https://access-global.net/access-ocultar-access/> | [Destello Ocultar_Access](/Destello%20Ocultar_Access)
  **Destello Ocultar maximizar:** | <https://access-global.net/ocultar-maximizar-access/> | [Destello Ocultar_maximizar](/Destello%20Ocultar_maximizar)
