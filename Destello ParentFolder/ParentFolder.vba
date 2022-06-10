@@ -37,3 +37,24 @@ Dim n As Integer
     Set fso = Nothing
     
 End Function
+
+
+'-----------------------------------------------------------------------------------------------------------------------------------------------
+'
+'  Versión más directa 
+'
+'-----------------------------------------------------------------------------------------------------------------------------------------------
+Dim fso As Object
+Dim nmat As Variant
+
+
+    Set fso = CreateObject("Scripting.FileSystemObject")
+    
+        nmat = Split(fso.GetParentFolderName(strRutafichero), "\")
+        
+        ObtenerCarpeta = nmat(UBound(nmat))
+            
+    Set fso = Nothing
+    
+End Function
+
