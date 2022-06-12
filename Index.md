@@ -33,6 +33,7 @@
  **Destello Form redondo:** | <https://access-global.net/diseno-formularios-redondos> | [Destello Form redondo](/Destello%20Form%20redondo)
  **Destello Freefile:** | <https://access-global.net/vba-freefile-function> | [Destello Freefile](/Destello%20Freefile)
  **Destello GetCapsLock:** | <https://access-global.net/vba-detectar-capslock> | [Destello GetCapsLock](/Destello%20GetCapsLock)
+ **Destello GetExtensioName:** | <https://access-global.net/vba-metodo-GetExtensionName> | [Destello GetExtensioName](/Destello%20GetExtensioName)
  **Destello habla:** | <https://access-global.net/access-que-te-lo-diga-access> | [Destello habla](/Destello%20habla)
  **Destello Hora decimal:** | <https://access-global.net/vba-convertir-hora-en-decimal> | [Destello Hora decimal](/Destello%20Hora%20decimal)
  **Destello ListBox selección múltiple:** | <https://access-global.net/access-cuadro-de-lista-con-seleccion-multiple/> | [Destello ListBox selección múltiple](/Destello%20ListBox%20selección%20múltiple)
