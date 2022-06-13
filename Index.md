@@ -18,6 +18,7 @@
  **Destello Captura Pantalla:** | <https://access-global.net/vba-captura-de-pantalla> | [Destello Captura Pantalla](/Destello%20Captura%20Pantalla)
  **Destello CheckInternet:** | <https://access-global.net/vba-tengo-conexion-a-internet> | [Destello CheckInternet](/Destello%20CheckInternet)
  **Destello Codigo Postal Google:** | <https://access-global.net/vba-conocer-codigo-postal-y-coordenadas-con-la-api-de-google-maps> | [Destello Codigo Postal Google](/Destello%20Codigo%20Postal%20Google)
+ **Destello CopyFile:** | <https://access-global.net/vba-metodo-copyfile> | [Destello CopyFile](/Destello%20CopyFile)
  **Destello Distancia entre coordenadas:** | <https://access-global.net/vba-google-maps-api-calcular-la-distancia-entre-dos-coordenadas> | [Destello Distancia entre coordenadas](/Destello%20Distancia%20entre%20coordenadas)
  **Destello Distancia Pitagoras:** | <https://access-global.net/vba-google-maps-api-calcular-la-distancia-entre-dos-coordenadas-pitagoras> | [Destello Distancia Pitagoras](/Destello%20Distancia%20Pitagoras)
  **Destello distancia Vicenty:** | <https://access-global.net/vba-google-maps-api-calcular-la-distancia-entre-dos-coordenadas-vincenty> | [Destello distancia Vicenty](/Destello%20distancia%20Vicenty)
