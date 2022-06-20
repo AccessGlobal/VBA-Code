@@ -1,18 +1,18 @@
 ﻿![Access-global](/blob/main/Images/Logo1.png)
 
-# **Artículos de los archivos y carpetas**
+# Artículos de los archivos y carpetas
 <br>
 
-##  * _Clases magistrales_
 
-  **_Título_** | **_Artículo_** | **_Ruta_** 
+##  * _Clases magistrales_ 
+**_Título_** | **_Artículo_** | **_Ruta_** 
  -----------|-------------------|--------------- 
  **MasterClass Drag&Drop:** | <https://access-global.net/drag-drop-en-access> | [MasterClass Drag&Drop](/MasterClass%20Drag&Drop)
 <br>
 
-##  * _Destellos_
 
-  **_Título_** | **_Artículo_** | **_Ruta_** 
+##  * _Destellos_  
+**_Título_** | **_Artículo_** | **_Ruta_** 
  -----------|-------------------|--------------- 
  **Destello Bloquear cerrar access:** | <https://access-global.net/bloquear-cerrar-access/> | [Destello Bloquear_cerrar_access](/Destello%20Bloquear_cerrar_access)
  **Destello Captura Pantalla:** | <https://access-global.net/vba-captura-de-pantalla> | [Destello Captura Pantalla](/Destello%20Captura%20Pantalla)
@@ -36,6 +36,9 @@
  **Destello Freefile:** | <https://access-global.net/vba-freefile-function> | [Destello Freefile](/Destello%20Freefile)
  **Destello GetCapsLock:** | <https://access-global.net/vba-detectar-capslock> | [Destello GetCapsLock](/Destello%20GetCapsLock)
  **Destello GetExtensioName:** | <https://access-global.net/vba-metodo-GetExtensionName> | [Destello GetExtensioName](/Destello%20GetExtensioName)
+ **Destello GetFolder:** | <https://access-global.net/vba-metodo-getfolder> | [Destello GetFolder](/Destello%20GetFolder)
+ **Destello Getfolder-IsRootFolder:** | <https://access-global.net/vba-metodo-getfolder-IsRootFolder-ParentFolder> | [Destello Getfolder-IsRootFolder](/Destello%20Getfolder-IsRootFolder)
+ **Destello Getfolder-Subfolders:** | <https://access-global.net/vba-metodo-getfolder-subfolders> | [Destello Getfolder-Subfolders](/Destello%20Getfolder-Subfolders)
  **Destello habla:** | <https://access-global.net/access-que-te-lo-diga-access> | [Destello habla](/Destello%20habla)
  **Destello Hora decimal:** | <https://access-global.net/vba-convertir-hora-en-decimal> | [Destello Hora decimal](/Destello%20Hora%20decimal)
  **Destello ListBox selección múltiple:** | <https://access-global.net/access-cuadro-de-lista-con-seleccion-multiple/> | [Destello ListBox selección múltiple](/Destello%20ListBox%20selección%20múltiple)
@@ -57,9 +60,9 @@
  **Destello WhatsApp:** | <https://access-global.net/vba-sencilla-forma-de-enviar-mensaje-de-whatsapp> | [Destello WhatsApp](/Destello%20WhatsApp)
 <br>
 
-##  * _Códigos y Utilidades_
 
-  **_Título_** | **_Artículo_** | **_Ruta_** 
+##  * _Códigos y Utilidades_  
+**_Título_** | **_Artículo_** | **_Ruta_** 
  -----------|-------------------|--------------- 
  **Actualizar ODBC:** | <https://access-global.net/actualizar-una-conexion-odbc-en-tiempo-de-ejecucion> | [Actualizar ODBC](/Actualizar%20ODBC)
  **AS EsBisiesto:** | <https://access-global.net/saber-si-un-ano-es-bisiesto/> | [AS_EsBisiesto](/AS_EsBisiesto)
@@ -78,6 +81,4 @@
  **Post-It:** | <https://access-global.net/post-it/> | [post-it](/post-it)
  **SendKeys:** | <https://access-global.net/sendkeys/> | [SendKeys](/SendKeys)
  **Transparencias forms:** | <https://access-global.net/aplicar-transparencia-a-un-formulario> | [Transparencias_forms](/Transparencias_forms)
-<br>
-
 
