@@ -4,15 +4,17 @@
 <br>
 
 
-##  * _Clases magistrales_ 
-**_Título_** | **_Artículo_** | **_Ruta_** 
+##  * _Clases magistrales_
+
+  **_Título_** | **_Artículo_** | **_Ruta_** 
  -----------|-------------------|--------------- 
  **MasterClass Drag&Drop:** | <https://access-global.net/drag-drop-en-access> | [MasterClass Drag&Drop](/MasterClass%20Drag&Drop)
 <br>
 
 
-##  * _Destellos_  
-**_Título_** | **_Artículo_** | **_Ruta_** 
+##  * _Destellos_
+
+  **_Título_** | **_Artículo_** | **_Ruta_** 
  -----------|-------------------|--------------- 
  **Destello Bloquear cerrar access:** | <https://access-global.net/bloquear-cerrar-access/> | [Destello Bloquear_cerrar_access](/Destello%20Bloquear_cerrar_access)
  **Destello Captura Pantalla:** | <https://access-global.net/vba-captura-de-pantalla> | [Destello Captura Pantalla](/Destello%20Captura%20Pantalla)
@@ -61,8 +63,9 @@
 <br>
 
 
-##  * _Códigos y Utilidades_  
-**_Título_** | **_Artículo_** | **_Ruta_** 
+##  * _Códigos y Utilidades_
+
+  **_Título_** | **_Artículo_** | **_Ruta_** 
  -----------|-------------------|--------------- 
  **Actualizar ODBC:** | <https://access-global.net/actualizar-una-conexion-odbc-en-tiempo-de-ejecucion> | [Actualizar ODBC](/Actualizar%20ODBC)
  **AS EsBisiesto:** | <https://access-global.net/saber-si-un-ano-es-bisiesto/> | [AS_EsBisiesto](/AS_EsBisiesto)
@@ -81,4 +84,7 @@
  **Post-It:** | <https://access-global.net/post-it/> | [post-it](/post-it)
  **SendKeys:** | <https://access-global.net/sendkeys/> | [SendKeys](/SendKeys)
  **Transparencias forms:** | <https://access-global.net/aplicar-transparencia-a-un-formulario> | [Transparencias_forms](/Transparencias_forms)
+<br>
+
+
 
