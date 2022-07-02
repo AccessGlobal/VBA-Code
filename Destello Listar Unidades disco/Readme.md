@@ -1,5 +1,5 @@
 ﻿![Access-global](/blob/main/Images/Logo1.png)
-# Desttello Listar Unidades disco
+# Destello Listar Unidades disco
 ## Enlace al artículo
 [https://access-global.net/vba-listar-unidades-de-disco](https://access-global.net/vba-listar-unidades-de-disco)
 ## Autor/es
