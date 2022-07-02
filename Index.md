@@ -16,6 +16,7 @@
 
   **_Título_** | **_Artículo_** | **_Ruta_** 
  -----------|-------------------|--------------- 
+ **Destello Abrir fichero texto:** | <https://access-global.net/vba-metodo-opentextfile> | [Destello Abrir fichero texto](/Destello%20Abrir%20fichero%20texto)
  **Destello Bloquear cerrar access:** | <https://access-global.net/bloquear-cerrar-access/> | [Destello Bloquear_cerrar_access](/Destello%20Bloquear_cerrar_access)
  **Destello Captura Pantalla:** | <https://access-global.net/vba-captura-de-pantalla> | [Destello Captura Pantalla](/Destello%20Captura%20Pantalla)
  **Destello Cerrar Forms:** | <https://access-global.net/vba-cerrar-todos-los-formularios> | [Destello Cerrar Forms](/Destello%20Cerrar%20Forms)
