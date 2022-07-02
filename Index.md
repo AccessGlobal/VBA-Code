@@ -18,6 +18,7 @@
  -----------|-------------------|--------------- 
  **Destello Bloquear cerrar access:** | <https://access-global.net/bloquear-cerrar-access/> | [Destello Bloquear_cerrar_access](/Destello%20Bloquear_cerrar_access)
  **Destello Captura Pantalla:** | <https://access-global.net/vba-captura-de-pantalla> | [Destello Captura Pantalla](/Destello%20Captura%20Pantalla)
+ **Destello Cerrar Forms:** | <https://access-global.net/vba-cerrar-todos-los-formularios> | [Destello Cerrar Forms](/Destello%20Cerrar%20Forms)
  **Destello CheckInternet:** | <https://access-global.net/vba-tengo-conexion-a-internet> | [Destello CheckInternet](/Destello%20CheckInternet)
  **Destello Codigo Postal Google:** | <https://access-global.net/vba-conocer-codigo-postal-y-coordenadas-con-la-api-de-google-maps> | [Destello Codigo Postal Google](/Destello%20Codigo%20Postal%20Google)
  **Destello Construir ruta:** | <https://access-global.net/vba-metodo-BuildPath> | [Destello Construir ruta](/Destello%20Construir%20ruta)
