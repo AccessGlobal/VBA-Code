@@ -27,6 +27,7 @@
  **Destello Distancia entre coordenadas:** | <https://access-global.net/vba-google-maps-api-calcular-la-distancia-entre-dos-coordenadas> | [Destello Distancia entre coordenadas](/Destello%20Distancia%20entre%20coordenadas)
  **Destello Distancia Pitagoras:** | <https://access-global.net/vba-google-maps-api-calcular-la-distancia-entre-dos-coordenadas-pitagoras> | [Destello Distancia Pitagoras](/Destello%20Distancia%20Pitagoras)
  **Destello distancia Vicenty:** | <https://access-global.net/vba-google-maps-api-calcular-la-distancia-entre-dos-coordenadas-vincenty> | [Destello distancia Vicenty](/Destello%20distancia%20Vicenty)
+ **Destello Efecto Wipe:** | <https://access-global.net/diseno-efectos-wipe-y-shrink> | [Destello Efecto Wipe](/Destello%20Efecto%20Wipe)
  **Destello Efectos Forms:** | <https://access-global.net/diseno-efectos-ventana/> | [Destello Efectos Forms](/Destello%20Efectos%20Forms)
  **Destello Emoticonos:** | <https://access-global.net/diseno-utiliza-emoticonos-en-tus-aplicaciones> | [Destello Emoticonos](/Destello%20Emoticonos)
  **Destello Enviar a papelera:** | <https://access-global.net/vba-enviar-fichero-a-la-papelera> | [Destello Enviar a papelera](/Destello%20Enviar%20a%20papelera)
