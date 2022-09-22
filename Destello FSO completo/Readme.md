@@ -9,6 +9,7 @@ Alba Salvá // Alba Salvá
 ## Descripción de la herramienta
 Recorrer el PC del usuario listando unidades, carpetas, archivos y sus propiedades.
 
-Se incluye el código (Código FSO completo.vba) y una aplicación completa de ejemplo (Remate FSO.accdb).
+Se incluye el código (**Código FSO completo.vba**) 
+y una aplicación completa de ejemplo (**FSO_recopilación.accdb**_).
 
 
