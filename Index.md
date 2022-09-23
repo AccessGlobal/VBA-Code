@@ -50,6 +50,7 @@
  **Destello Getfolder-Subfolders:** | <https://access-global.net/vba-metodo-getfolder-subfolders> | [Destello Getfolder-Subfolders](/Destello%20Getfolder-Subfolders)
  **Destello habla:** | <https://access-global.net/access-que-te-lo-diga-access> | [Destello habla](/Destello%20habla)
  **Destello Hora decimal:** | <https://access-global.net/vba-convertir-hora-en-decimal> | [Destello Hora decimal](/Destello%20Hora%20decimal)
+ **Destello instalar fuente:** | <https://access-global.net/vba-nueva-fuente> | [Destello instalar fuente](/Destello%20instalar%20fuente)
  **Destello Listar ficheros propiedades:** | <https://access-global.net/vba-coleccion-files> | [Destello Listar ficheros propiedades](/Destello%20Listar%20ficheros%20propiedades)
  **Destello Listar Unidades disco:** | <https://access-global.net/vba-listar-unidades-de-disco> | [Destello Listar Unidades disco](/Destello%20Listar%20Unidades%20disco)
  **Destello ListBox selección múltiple:** | <https://access-global.net/access-cuadro-de-lista-con-seleccion-multiple/> | [Destello ListBox selección múltiple](/Destello%20ListBox%20selección%20múltiple)
