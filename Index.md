@@ -26,6 +26,7 @@
  **Destello ComboBox dependientes:** | <https://access-global.net/access-combos-dependientes> | [Destello ComboBox dependientes](/Destello%20ComboBox%20dependientes)
  **Destello Configurar usuario:** | <https://access-global.net/vba-metodo-createtextfile> | [Destello Configurar usuario](/Destello%20Configurar%20usuario)
  **Destello Construir ruta:** | <https://access-global.net/vba-metodo-BuildPath> | [Destello Construir ruta](/Destello%20Construir%20ruta)
+ **Destello Controlar tabla:** | <https://access-global.net/vba-crear-y-manipular-una-tabla-en-tiempo-de-ejecucion> | [Destello Controlar tabla](/Destello%20Controlar%20tabla)
  **Destello CopyFile:** | <https://access-global.net/vba-metodo-copyfile> | [Destello CopyFile](/Destello%20CopyFile)
  **Destello Distancia entre coordenadas:** | <https://access-global.net/vba-google-maps-api-calcular-la-distancia-entre-dos-coordenadas> | [Destello Distancia entre coordenadas](/Destello%20Distancia%20entre%20coordenadas)
  **Destello Distancia Pitagoras:** | <https://access-global.net/vba-google-maps-api-calcular-la-distancia-entre-dos-coordenadas-pitagoras> | [Destello Distancia Pitagoras](/Destello%20Distancia%20Pitagoras)
