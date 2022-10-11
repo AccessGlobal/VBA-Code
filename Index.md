@@ -70,6 +70,7 @@
  **Destello ParentFolder:** | <https://access-global.net/vba-metodo-GetParentFolderName> | [Destello ParentFolder](/Destello%20ParentFolder)
  **Destello Pluralize:** | <https://access-global.net/vba-funcion-pluralize-by-mike-wolfe/> | [Destello Pluralize](/Destello%20Pluralize)
  **Destello Posicionar form:** | <https://access-global.net/access-redimensionar-y-posicionar-formulario> | [Destello Posicionar_form](/Destello%20Posicionar_form)
+ **Destello Recuento De Registros:** | <https://access-global.net/vba-contar-registros> | [Destello Recuento De Registros](/Destello%20Recuento%20De%20Registros)
  **Destello Recupera config usuario:** | <https://access-global.net/vba-declaracion-open> | [Destello Recupera config usuario](/Destello%20Recupera%20config%20usuario)
  **Destello Recupera papelera:** | <https://access-global.net/vba-recuperar-el-fichero-enviado-a-la-papelera> | [Destello Recupera papelera](/Destello%20Recupera%20papelera)
  **Destello Sólo números:** | <https://access-global.net/vba-estas-obligado-a-escribir-solo-numeros> | [Destello Sólo números](/Destello%20Sólo%20números)
