@@ -57,6 +57,7 @@
  **Destello instalar fuente:** | <https://access-global.net/vba-nueva-fuente> | [Destello instalar fuente](/Destello%20instalar%20fuente)
  **Destello Listar ficheros propiedades:** | <https://access-global.net/vba-coleccion-files> | [Destello Listar ficheros propiedades](/Destello%20Listar%20ficheros%20propiedades)
  **Destello Listar Unidades disco:** | <https://access-global.net/vba-listar-unidades-de-disco> | [Destello Listar Unidades disco](/Destello%20Listar%20Unidades%20disco)
+ **Destello Listar Unidades disco:** | <https://access-global.net/vba-listar-unidades-de-disco> | [Destello Listar Unidades disco](/Destello%20Listar%20Unidades%20disco)
  **Destello ListBox selección múltiple:** | <https://access-global.net/access-cuadro-de-lista-con-seleccion-multiple/> | [Destello ListBox selección múltiple](/Destello%20ListBox%20selección%20múltiple)
  **Destello Minicalendario:** | <https://access-global.net/access-minicalendario/> | [Destello Minicalendario](/Destello%20Minicalendario)
  **Destello Modificar ratón:** | <https://access-global.net/diseno-crea-tu-propio-icono-de-raton> | [Destello Modificar_ratón](/Destello%20Modificar_ratón)
@@ -77,9 +78,9 @@
  **Destello Recupera papelera:** | <https://access-global.net/vba-recuperar-el-fichero-enviado-a-la-papelera> | [Destello Recupera papelera](/Destello%20Recupera%20papelera)
  **Destello Sólo números:** | <https://access-global.net/vba-estas-obligado-a-escribir-solo-numeros> | [Destello Sólo números](/Destello%20Sólo%20números)
  **Destello Sonido en App:** | <https://access-global.net/vba-sonido-en-mi-app> | [Destello Sonido_en_App](/Destello%20Sonido_en_App)
+ **Destello Transacciones:** | <https://access-global.net/vba-transacciones> | [Destello Transacciones](/Destello%20Transacciones)
  **Destello TreeView:** | <https://access-global.net/drag-drop-en-access> | [Destello TreeView](/Destello%20TreeView)
  **Destello WhatsApp:** | <https://access-global.net/vba-sencilla-forma-de-enviar-mensaje-de-whatsapp> | [Destello WhatsApp](/Destello%20WhatsApp)
- **Desttello Listar Unidades disco:** | <https://access-global.net/vba-listar-unidades-de-disco> | [Desttello Listar Unidades disco](/Desttello%20Listar%20Unidades%20disco)
 <br>
 
 
