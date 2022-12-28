@@ -48,6 +48,7 @@
  **Destello Form redondo:** | <https://access-global.net/diseno-formularios-redondos> | [Destello Form redondo](/Destello%20Form%20redondo)
  **Destello Freefile:** | <https://access-global.net/vba-freefile-function> | [Destello Freefile](/Destello%20Freefile)
  **Destello FSO completo:** | <https://access-global.net/vba-objeto-fso-recopilacion> | [Destello FSO completo](/Destello%20FSO%20completo)
+ **Destello FTP con Access:** | <https://access-global.net/vba-ftp-con-access> | [Destello FTP con Access](/Destello%20FTP%20con%20Access)
  **Destello GetCapsLock:** | <https://access-global.net/vba-detectar-capslock> | [Destello GetCapsLock](/Destello%20GetCapsLock)
  **Destello GetExtensioName:** | <https://access-global.net/vba-metodo-GetExtensionName> | [Destello GetExtensioName](/Destello%20GetExtensioName)
  **Destello GetFolder:** | <https://access-global.net/vba-metodo-getfolder> | [Destello GetFolder](/Destello%20GetFolder)
