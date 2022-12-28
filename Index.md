@@ -31,6 +31,7 @@
  **Destello Convertir PDF a Word:** | <https://access-global.net/vba-convertir-pdf-a-word> | [Destello Convertir PDF a Word](/Destello%20Convertir%20PDF%20a%20Word)
  **Destello CopyFile:** | <https://access-global.net/vba-metodo-copyfile> | [Destello CopyFile](/Destello%20CopyFile)
  **Destello Cuenta atrás:** | <https://access-global.net/access-cuenta-atras/> | [Destello Cuenta atrás](/Destello%20Cuenta%20atrás)
+ **Destello dimensiones de ventanas y formularios:** | <https://access-global.net/vba-dimensiones-de-ventanas-y-formularios> | [Destello dimensiones de ventanas y formularios](/Destello%20dimensiones%20de%20ventanas%20y%20formularios)
  **Destello Distancia entre coordenadas:** | <https://access-global.net/vba-google-maps-api-calcular-la-distancia-entre-dos-coordenadas> | [Destello Distancia entre coordenadas](/Destello%20Distancia%20entre%20coordenadas)
  **Destello Distancia Pitagoras:** | <https://access-global.net/vba-google-maps-api-calcular-la-distancia-entre-dos-coordenadas-pitagoras> | [Destello Distancia Pitagoras](/Destello%20Distancia%20Pitagoras)
  **Destello distancia Vicenty:** | <https://access-global.net/vba-google-maps-api-calcular-la-distancia-entre-dos-coordenadas-vincenty> | [Destello distancia Vicenty](/Destello%20distancia%20Vicenty)
