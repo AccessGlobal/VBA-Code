@@ -37,7 +37,7 @@ Dim LibAdd As Long
     
     Lib = LoadLibrary("shimgvw")
 
-    LibAdd = GetProcAddress(lib, "imageview_fullscreenW")
+    LibAdd = GetProcAddress(Lib, "imageview_fullscreenW")
 
     CallWindowProc LibAdd, 0&, 0&, StrPtr(ImgPath), 0&
     
