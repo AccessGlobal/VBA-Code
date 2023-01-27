@@ -32,17 +32,17 @@ Public Sub ImgageView(ImgPath As String)
 'End Sub
 '
 '-----------------------------------------------------------------------------------------------------------------------------------------------
-Dim lib As Long
+Dim Lib As Long
 Dim LibAdd As Long
     
-    lib = LoadLibrary("shimgvw")
+    Lib = LoadLibrary("shimgvw")
 
     LibAdd = GetProcAddress(lib, "imageview_fullscreenW")
 
     CallWindowProc LibAdd, 0&, 0&, StrPtr(ImgPath), 0&
     
 'Liberar la librería
-    FreeLibrary LibAdd
+    FreeLibrary Lib
     
 End Sub
 
