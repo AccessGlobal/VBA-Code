@@ -5,7 +5,7 @@
 ## Autor/es
 zxs23 (https://www.forosdelweb.com/f69/como-ejecutar-imagen-con-visor-imagenes-windows-935362/)
 ## Modificado por
-
+Luis Viadel
 ## Descripción de la herramienta
 mostrar una imagen en el visor de imágenes de Windows
 
