@@ -84,6 +84,7 @@
  **Destello Sonido en App:** | <https://access-global.net/vba-sonido-en-mi-app> | [Destello Sonido_en_App](/Destello%20Sonido_en_App)
  **Destello Transacciones:** | <https://access-global.net/vba-transacciones> | [Destello Transacciones](/Destello%20Transacciones)
  **Destello TreeView:** | <https://access-global.net/drag-drop-en-access> | [Destello TreeView](/Destello%20TreeView)
+ **Destello Usar referencia ejecucion:** | <https://access-global.net/vba-utilizar-una%20referencia-en-tiempo-de-ejecucion> | [Destello Usar referencia ejecucion](/Destello%20Usar%20referencia%20ejecucion)
  **Destello WhatsApp:** | <https://access-global.net/vba-sencilla-forma-de-enviar-mensaje-de-whatsapp> | [Destello WhatsApp](/Destello%20WhatsApp)
 <br>
 
