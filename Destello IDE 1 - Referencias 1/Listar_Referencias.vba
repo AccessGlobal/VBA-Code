@@ -7,7 +7,7 @@ Sub ListadoReferencias(frm As Form)
 '-----------------------------------------------------------------------------------------------------------------------------------------------
 ' Título            : ListadoReferencias
 ' Autor original    : Alba Salvá
-' Creado            : Alba Salvá
+' Creado            : desconocido
 ' Adaptado por      : Luis Viadel
 ' Propósito         : mostrar un listado de referencias de nuestro programa con su descripción, tipo, ubicación, su dirección física y el GUID
 '-----------------------------------------------------------------------------------------------------------------------------------------------
