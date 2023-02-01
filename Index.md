@@ -60,6 +60,7 @@
  **Destello Hora decimal:** | <https://access-global.net/vba-convertir-hora-en-decimal> | [Destello Hora decimal](/Destello%20Hora%20decimal)
  **Destello IDE 1 - Referencias 1 ( Listar ):** | <https://access-global.net/vbide-series-referencias-listar-referencias/> | [Destello IDE 1 - Referencias 1 (Listar)](/Destello%20IDE%201%20-%20Referencias%201%20(Listar))
  **Destello IDE1 - Referencias 2 (Verificar):** | <https://access-global.net/vbide-series-referencias-verificar-la-existencia-de-una-referencia> | [Destello IDE1 - Referencias 2 (Verificar)](/Destello%20IDE1%20-%20Referencias%202%20(Verificar))
+ **Destello IDE1 - Referencias 3 (Agregar):** | <https://access-global.net/vbide-series-referencias-agregar-referencias> | [Destello IDE1 - Referencias 3 (Agregar)](/Destello%20IDE1%20-%20Referencias%203%20(Agregar))
  **Destello instalar fuente:** | <https://access-global.net/vba-nueva-fuente> | [Destello instalar fuente](/Destello%20instalar%20fuente)
  **Destello Listar ficheros propiedades:** | <https://access-global.net/vba-coleccion-files> | [Destello Listar ficheros propiedades](/Destello%20Listar%20ficheros%20propiedades)
  **Destello Listar Unidades disco:** | <https://access-global.net/vba-listar-unidades-de-disco> | [Destello Listar Unidades disco](/Destello%20Listar%20Unidades%20disco)
