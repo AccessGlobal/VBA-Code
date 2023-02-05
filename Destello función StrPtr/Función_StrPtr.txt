@@ -1,0 +1,42 @@
+Option Compare Database
+Option Explicit
+
+Public Function ControlarRespuestaInputBox() As String
+'-----------------------------------------------------------------------------------------------------------------------------------------------
+' Fuente            : https://access-global.net/vba-controlar-respuesta-inputbox/
+'                     Destello formativo 97
+'-----------------------------------------------------------------------------------------------------------------------------------------------
+' Título            : ControlarRespuestaInputBox
+' Autor original    : Happy | Access Users Group
+' Creado            : abril 2022
+' Propósito         : se utiliza el método VBA oculto strPtr para obtener el puntero de una varible tipo string. Si devuelve 0 es porque el
+'                     puntero es un null. Devuelve LongPtr en una versión de 64bits o Long en una versión de 32 bits.
+'-----------------------------------------------------------------------------------------------------------------------------------------------
+' Información       : https://bettersolutions.com/vba/functions/strPtr-funtion.htm
+'-----------------------------------------------------------------------------------------------------------------------------------------------
+' Test:             : puedes grabar el porcedimiento, simplemente haciendo un debug.print como te indico a continuación
+'
+'Private ControlarRespuestaInputBox_test()
+'
+'    Debug.print strPtr("")
+'    Debug.print strPtr(vbNullString)
+'
+'End Sub
+'
+'---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Dim respuesta As Variant
+
+    respuesta = InputBox("Indica el nombre del nuevo módulo")
+    
+    If StrPtr(respuesta) = 0 Then
+        MsgBox "Se ha pulsado cancelar o se ha cerrado el pregunta", vbInformation
+        ControlarRespuestaInputBox = ""
+    ElseIf Len(respuesta) = 0 Then
+        MsgBox "Debe escribir un nombre", vbInformation
+        ControlarRespuestaInputBox = ""
+    Else
+        ControlarRespuestaInputBox = respuesta
+    End If
+
+End Function
