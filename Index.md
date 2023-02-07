@@ -65,6 +65,7 @@
  **Destello IDE1 - Referencias 4 (Borrar):** | <https://access-global.net/vbide-series-referencias-eliminar-referencias> | [Destello IDE1 - Referencias 4 (Borrar)](/Destello%20IDE1%20-%20Referencias%204%20(Borrar))
  **Destello IDE2 - Modulos 1 (Listar):** | <https://access-global.net/vbide-series-modulos-listar-modulos/> | [Destello IDE2 - Modulos 1 (Listar)](/Destello%20IDE2%20-%20Modulos%201%20(Listar))
  **Destello IDE2 - Modulos 2 (Agregar):** | <https://access-global.net/vbide-series-modulos-agregar-modulo/> | [Destello IDE2 - Modulos 2 (Agregar)](/Destello%20IDE2%20-%20Modulos%202%20(Agregar))
+ **Destello IDE2 - Modulos 3 (Eliminar):** | <https://access-global.net/vbide-series-modulos-borrar-modulo/> | [Destello IDE2 - Modulos 3 (Eliminar)](/Destello%20IDE2%20-%20Modulos%203%20(Eliminar))
  **Destello instalar fuente:** | <https://access-global.net/vba-nueva-fuente> | [Destello instalar fuente](/Destello%20instalar%20fuente)
  **Destello Listar ficheros propiedades:** | <https://access-global.net/vba-coleccion-files> | [Destello Listar ficheros propiedades](/Destello%20Listar%20ficheros%20propiedades)
  **Destello Listar Unidades disco:** | <https://access-global.net/vba-listar-unidades-de-disco> | [Destello Listar Unidades disco](/Destello%20Listar%20Unidades%20disco)
