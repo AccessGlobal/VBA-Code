@@ -1,6 +1,18 @@
 Option Compare Database
 Option Explicit
 
+Public Enum EnuTipos
+    vbext_pk_Proc = 0
+    vbext_pk_Let = 1
+    vbext_pk_Set = 2
+    vbext_pk_Get = 3
+End Enum
+
+#If False Then
+    Dim vbext_pk_Proc, vbext_pk_Let, vbext_pk_Set, vbext_pk_Get
+#End If
+
+
 Public Sub ListadoProcedimientos(frm As Form)
 '-----------------------------------------------------------------------------------------------------------------------------------------------
 ' Fuente            : https://access-global.net/vbide-series-procedimientos-listar-procedimientos/
