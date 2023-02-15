@@ -70,6 +70,7 @@
  **Destello IDE2 - Modulos 5 (Exportar):** | <https://access-global.net/vbide-series-modulos-exportar-modulo/> | [Destello IDE2 - Modulos 5 (Exportar)](/Destello%20IDE2%20-%20Modulos%205%20(Exportar))
  **Destello IDE3 - Procedimientos 1 (Listar):** | <https://access-global.net/vbide-series-procedimientos-listar-procedimientos/> | [Destello IDE3 - Procedimientos 1 (Listar)](/Destello%20IDE3%20-%20Procedimientos%201%20(Listar))
  **Destello IDE3 - Procedimientos 2 (Agregar):** | <https://access-global.net/vbide-series-procedimientos-agregar-procedimientos/> | [Destello IDE3 - Procedimientos 2 (Agregar)](/Destello%20IDE3%20-%20Procedimientos%202%20(Agregar))
+ **Destello IDE3 - Procedimientos 3 (Borrar):** | <https://access-global.net/vbide-series-procedimientos-borrar-procedimiento/> | [Destello IDE3 - Procedimientos 3 (Borrar)](/Destello%20IDE3%20-%20Procedimientos%203%20(Borrar))
  **Destello instalar fuente:** | <https://access-global.net/vba-nueva-fuente> | [Destello instalar fuente](/Destello%20instalar%20fuente)
  **Destello Listar ficheros propiedades:** | <https://access-global.net/vba-coleccion-files> | [Destello Listar ficheros propiedades](/Destello%20Listar%20ficheros%20propiedades)
  **Destello Listar Unidades disco:** | <https://access-global.net/vba-listar-unidades-de-disco> | [Destello Listar Unidades disco](/Destello%20Listar%20Unidades%20disco)
