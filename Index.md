@@ -25,6 +25,7 @@
  **Destello Codigo Postal Google:** | <https://access-global.net/vba-conocer-codigo-postal-y-coordenadas-con-la-api-de-google-maps> | [Destello Codigo Postal Google](/Destello%20Codigo%20Postal%20Google)
  **Destello Colores:** | <https://access-global.net/vba-descubre-los-colores> | [Destello Colores](/Destello%20Colores)
  **Destello ComboBox dependientes:** | <https://access-global.net/access-combos-dependientes> | [Destello ComboBox dependientes](/Destello%20ComboBox%20dependientes)
+ **Destello Complementos Access:** | <https://access-global.net/vba-complementos-de-access> | [Destello Complementos Access](/Destello%20Complementos%20Access)
  **Destello Configurar usuario:** | <https://access-global.net/vba-metodo-createtextfile> | [Destello Configurar usuario](/Destello%20Configurar%20usuario)
  **Destello Construir ruta:** | <https://access-global.net/vba-metodo-BuildPath> | [Destello Construir ruta](/Destello%20Construir%20ruta)
  **Destello Controlar tabla:** | <https://access-global.net/vba-crear-y-manipular-una-tabla-en-tiempo-de-ejecucion> | [Destello Controlar tabla](/Destello%20Controlar%20tabla)
