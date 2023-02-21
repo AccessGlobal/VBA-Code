@@ -74,6 +74,7 @@
  **Destello IDE3 - Procedimientos 4 (Eventos):** | <https://access-global.net/vbide-series-procedimientos-cambiamos-el-evento-click-de-un-boton-en-tiempo-de-ejecucion/> | [Destello IDE3 - Procedimientos 4 (Eventos)](/Destello%20IDE3%20-%20Procedimientos%204%20(Eventos))
  **Destello IDE3 -Procedimientos 5 (Final):** | <https://access-global.net/vbide-series-procedimientos-consideraciones-finales-y-una-funcion-inutil> | [Destello IDE3 -Procedimientos 5 (Final)](/Destello%20IDE3%20-Procedimientos%205%20(Final))
  **Destello IDE4 - Complementos 1 (Listar):** | <https://access-global.net/vbide-series-complementos-listar-complementos/> | [Destello IDE4 - Complementos 1 (Listar)](/Destello%20IDE4%20-%20Complementos%201%20(Listar))
+ **Destello IDE4 - Complementos 2 (Conectar-desconectar):** | <https://access-global.net\vbide-series-complementos-conectar-y-desconectar-complementos> | [Destello IDE4 - Complementos 2 (Conectar-desconectar)](/Destello%20IDE4%20-%20Complementos%202%20(Conectar-desconectar))
  **Destello instalar fuente:** | <https://access-global.net/vba-nueva-fuente> | [Destello instalar fuente](/Destello%20instalar%20fuente)
  **Destello Listar ficheros propiedades:** | <https://access-global.net/vba-coleccion-files> | [Destello Listar ficheros propiedades](/Destello%20Listar%20ficheros%20propiedades)
  **Destello Listar Unidades disco:** | <https://access-global.net/vba-listar-unidades-de-disco> | [Destello Listar Unidades disco](/Destello%20Listar%20Unidades%20disco)
