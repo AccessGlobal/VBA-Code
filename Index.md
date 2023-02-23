@@ -61,6 +61,7 @@
  **Destello habla:** | <https://access-global.net/access-que-te-lo-diga-access> | [Destello habla](/Destello%20habla)
  **Destello Hora decimal:** | <https://access-global.net/vba-convertir-hora-en-decimal> | [Destello Hora decimal](/Destello%20Hora%20decimal)
  **Destello IDE 1 - Referencias 1 ( Listar ):** | <https://access-global.net/vbide-series-referencias-listar-referencias/> | [Destello IDE 1 - Referencias 1 (Listar)](/Destello%20IDE%201%20-%20Referencias%201%20(Listar))
+ **Destello IDE 5 - Modulos Anexo 1:** | <https://access-global.net/vbide-otros-ejemplos-tipos-de-modulo-segun-contenido/> | [Destello IDE 5 - Modulos Anexo 1](/Destello%20IDE%205%20-%20Modulos%20Anexo%201)
  **Destello IDE1 - Referencias 2 (Verificar):** | <https://access-global.net/vbide-series-referencias-verificar-la-existencia-de-una-referencia> | [Destello IDE1 - Referencias 2 (Verificar)](/Destello%20IDE1%20-%20Referencias%202%20(Verificar))
  **Destello IDE1 - Referencias 3 (Agregar):** | <https://access-global.net/vbide-series-referencias-agregar-referencias> | [Destello IDE1 - Referencias 3 (Agregar)](/Destello%20IDE1%20-%20Referencias%203%20(Agregar))
  **Destello IDE1 - Referencias 4 (Borrar):** | <https://access-global.net/vbide-series-referencias-eliminar-referencias> | [Destello IDE1 - Referencias 4 (Borrar)](/Destello%20IDE1%20-%20Referencias%204%20(Borrar))
