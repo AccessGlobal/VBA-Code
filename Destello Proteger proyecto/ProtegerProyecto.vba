@@ -50,7 +50,7 @@ Public Function PonerPasswordVBA(strDBName As String, strConnect As String, _
 'Dim strRespuesta As String
 'Dim NewPass As Boolean
 '
-'    If ProyectoProtegido = False Then
+'    If ProyectoProtegido Then
 '        MsgBox "El proyecto ya está protegido"
 '    Else
 '        respuesta = InputBox("Indica la nueva contraseña para el proyecto")
