@@ -44,6 +44,7 @@
  **Destello Efectos Wipe y Shrink:** | <https://access-global.net/diseno-efectos-wipe-y-shrink> | [Destello Efecto Wipe](/Destello%20Efecto%20Wipe)
  **Destello Emoticonos:** | <https://access-global.net/diseno-utiliza-emoticonos-en-tus-aplicaciones> | [Destello Emoticonos](/Destello%20Emoticonos)
  **Destello Enviar a papelera:** | <https://access-global.net/vba-enviar-fichero-a-la-papelera> | [Destello Enviar a papelera](/Destello%20Enviar%20a%20papelera)
+ **Destello envío correo HTML:** | <> | [Destello envío correo HTML](/Destello%20envío%20correo%20HTML)
  **Destello Es 64 bits:** | <https://access-global.net/vba-es-accde> | [Destello Es 64 bits](/Destello%20Es%2064%20bits)
  **Destello Existe carpeta:** | <https://access-global.net/vba-metodo-folderexists> | [Destello Existe carpeta](/Destello%20Existe%20carpeta)
  **Destello Existe fichero:** | <https://access-global.net/vba-metodo-fileexists> | [Destello Existe fichero](/Destello%20Existe%20fichero)
