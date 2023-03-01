@@ -100,6 +100,7 @@
  **Destello Ocultar Minimizar Access:** | <https://access-global.net/vba-ocultar-minimizar-access/> | [Destello Ocultar Minimizar Access](/Destello%20Ocultar%20Minimizar%20Access)
  **Destello Ordenar formularios:** | <https://access-global.net/vba-una-funcion-para-ordenar-todos-los-formularios> | [Destello Ordenar formularios](/Destello%20Ordenar%20formularios)
  **Destello ParentFolder:** | <https://access-global.net/vba-metodo-GetParentFolderName> | [Destello ParentFolder](/Destello%20ParentFolder)
+ **Destello Pausar codigo:** | <https://access-global.net/vba-la-forma-mas-eficiente-de-pausar-el-codigo> | [Destello Pausar codigo](/Destello%20Pausar%20codigo)
  **Destello Pluralize:** | <https://access-global.net/vba-funcion-pluralize-by-mike-wolfe/> | [Destello Pluralize](/Destello%20Pluralize)
  **Destello Posicionar form:** | <https://access-global.net/access-redimensionar-y-posicionar-formulario> | [Destello Posicionar_form](/Destello%20Posicionar_form)
  **Destello Proteger proyecto:** | <https://access-global.net/vba-proteger-proyecto/> | [Destello Proteger proyecto](/Destello%20Proteger%20proyecto)
