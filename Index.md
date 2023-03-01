@@ -108,6 +108,7 @@
  **Destello Recupera papelera:** | <https://access-global.net/vba-recuperar-el-fichero-enviado-a-la-papelera> | [Destello Recupera papelera](/Destello%20Recupera%20papelera)
  **Destello Reinicio Access:** | <https://access-global.net/vba-reiniciar-ms-access> | [Destello Reinicio Access](/Destello%20Reinicio%20Access)
  **Destello Semana fecha:** | <https://access-global.net/vba-en-que-semana-estamos> | [Destello Semana fecha](/Destello%20Semana%20fecha)
+ **Destello ShellExecute:** | <https://access-global.net/vba-shellexecute> | [Destello ShellExecute](/Destello%20ShellExecute)
  **Destello Sólo números:** | <https://access-global.net/vba-estas-obligado-a-escribir-solo-numeros> | [Destello Sólo números](/Destello%20Sólo%20números)
  **Destello Sonido en App:** | <https://access-global.net/vba-sonido-en-mi-app> | [Destello Sonido_en_App](/Destello%20Sonido_en_App)
  **Destello Transacciones:** | <https://access-global.net/vba-transacciones> | [Destello Transacciones](/Destello%20Transacciones)
