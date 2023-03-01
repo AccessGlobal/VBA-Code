@@ -8,7 +8,8 @@
 
   **_Título_** | **_Artículo_** | **_Ruta_** 
  -----------|-------------------|--------------- 
- **MasterClass Drag&Drop:** | <https://access-global.net/drag-drop-en-access> | [MasterClass Drag&Drop](/MasterClass%20Drag&Drop)
+ **ListBox dinámicos:** | <https://access-global.net/listbox-dinamicos/> | [ListBox dinámicos](/ListBox%20dinámicos)
+ **MasterClass Drag&Drop** | <https://access-global.net/drag-drop-en-access> | [MasterClass Drag&Drop](/MasterClass%20Drag&Drop)
 <br>
 
 
@@ -39,8 +40,8 @@
  **Destello Distancia entre coordenadas:** | <https://access-global.net/vba-google-maps-api-calcular-la-distancia-entre-dos-coordenadas> | [Destello Distancia entre coordenadas](/Destello%20Distancia%20entre%20coordenadas)
  **Destello Distancia Pitagoras:** | <https://access-global.net/vba-google-maps-api-calcular-la-distancia-entre-dos-coordenadas-pitagoras> | [Destello Distancia Pitagoras](/Destello%20Distancia%20Pitagoras)
  **Destello distancia Vicenty:** | <https://access-global.net/vba-google-maps-api-calcular-la-distancia-entre-dos-coordenadas-vincenty> | [Destello distancia Vicenty](/Destello%20distancia%20Vicenty)
- **Destello Efecto Wipe:** | <https://access-global.net/diseno-efectos-wipe-y-shrink> | [Destello Efecto Wipe](/Destello%20Efecto%20Wipe)
  **Destello Efectos Forms:** | <https://access-global.net/diseno-efectos-ventana/> | [Destello Efectos Forms](/Destello%20Efectos%20Forms)
+ **Destello Efectos Wipe y Shrink:** | <https://access-global.net/diseno-efectos-wipe-y-shrink> | [Destello Efecto Wipe](/Destello%20Efecto%20Wipe)
  **Destello Emoticonos:** | <https://access-global.net/diseno-utiliza-emoticonos-en-tus-aplicaciones> | [Destello Emoticonos](/Destello%20Emoticonos)
  **Destello Enviar a papelera:** | <https://access-global.net/vba-enviar-fichero-a-la-papelera> | [Destello Enviar a papelera](/Destello%20Enviar%20a%20papelera)
  **Destello Es 64 bits:** | <https://access-global.net/vba-es-accde> | [Destello Es 64 bits](/Destello%20Es%2064%20bits)
@@ -80,7 +81,6 @@
  **Destello IDE5 - Modulos Anexo 1:** | <https://access-global.net/vbide-otros-ejemplos-tipos-de-modulo-segun-contenido/> | [Destello IDE5 - Modulos Anexo 1](/Destello%20IDE5%20-%20Modulos%20Anexo%201)
  **Destello instalar fuente:** | <https://access-global.net/vba-nueva-fuente> | [Destello instalar fuente](/Destello%20instalar%20fuente)
  **Destello Listar ficheros propiedades:** | <https://access-global.net/vba-coleccion-files> | [Destello Listar ficheros propiedades](/Destello%20Listar%20ficheros%20propiedades)
- **Destello Listar Unidades disco:** | <https://access-global.net/vba-listar-unidades-de-disco> | [Destello Listar Unidades disco](/Destello%20Listar%20Unidades%20disco)
  **Destello Listar Unidades disco:** | <https://access-global.net/vba-listar-unidades-de-disco> | [Destello Listar Unidades disco](/Destello%20Listar%20Unidades%20disco)
  **Destello ListBox selección múltiple:** | <https://access-global.net/access-cuadro-de-lista-con-seleccion-multiple/> | [Destello ListBox selección múltiple](/Destello%20ListBox%20selección%20múltiple)
  **Destello Minicalendario:** | <https://access-global.net/access-minicalendario/> | [Destello Minicalendario](/Destello%20Minicalendario)
@@ -123,9 +123,9 @@
  **Eliminar una carpeta y todo su contenido:** | <https://access-global.net/eliminar-una-carpeta-y-todo-su-contenido/> | [Eliminar carpeta y su contenido](/Eliminar%20carpeta%20y%20su%20contenido)
  **Encriptar una cadena de texto (método Rot13):** | <https://access-global.net/encriptar-una-cadena-de-texto> | [Encriptar-desencriptar metodo Rot13](/Encriptar-desencriptar%20metodo%20Rot13)
  **Es accde o accdb:** | <https://access-global.net/es-accde-o-accdb/> | [EsACCDE o ACCDB](/EsACCDE%20o%20ACCDB)
+ **Establecer cuenta Outlook:** | <https://access-global.net/establecer-una-cuenta-personalizada-en-un-nuevo-mensaje-de-correo-de-outlook/> | [Establecer cuenta Outlook](/Establecer%20cuenta%20Outlook)
  **Grabadora de notas:** | <https://access-global.net/grabadora-de-notas/> | [grabadora-notas](/grabadora-notas)
  **Hacer una pausa:** | <https://access-global.net/hagamos-una-pausa/> | [Hacer una pausa](/Hacer%20una%20pausa)
- **ListBox dinámicos:** | <https://access-global.net/listbox-dinamicos/> | [ListBox dinámicos](/ListBox%20dinámicos)
  **mc Acceso directo:** | <https://access-global.net/crear-un-acceso-directo-personalizado-en-el-escritorio> | [mc Acceso directo](/mc%20Acceso%20directo)
  **Mc Primer dia mes:** | <https://access-global.net/conocer-el-primer-dia-de-un-mes-mcdtmfinddatefirstdayofmonth/> | [Mc Primer dia mes](/Mc%20Primer%20dia%20mes)
  **Mc Ultimo dia de mes:** | <https://access-global.net/conocer-el-ultimo-dia-de-un-mes-mcdtmfinddatelastdayofmonth/> | [MC Ultimo dia de mes](/MC%20Ultimo%20dia%20de%20mes)
