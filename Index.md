@@ -59,6 +59,7 @@
  **Destello FSO completo:** | <https://access-global.net/vba-objeto-fso-recopilacion> | [Destello FSO completo](/Destello%20FSO%20completo)
  **Destello FTP con Access:** | <https://access-global.net/vba-ftp-con-access> | [Destello FTP con Access](/Destello%20FTP%20con%20Access)
  **Destello función StrPtr:** | <https://access-global.net/vba-controlar-respuesta-inputbox/> | [Destello función StrPtr](/Destello%20función%20StrPtr)
+ **Destello GetAttr:** | <https://access-global.net/vba-getattr> | [Destello GetAttr](/Destello%20GetAttr)
  **Destello GetCapsLock:** | <https://access-global.net/vba-detectar-capslock> | [Destello GetCapsLock](/Destello%20GetCapsLock)
  **Destello GetExtensioName:** | <https://access-global.net/vba-metodo-GetExtensionName> | [Destello GetExtensioName](/Destello%20GetExtensioName)
  **Destello GetFolder:** | <https://access-global.net/vba-metodo-getfolder> | [Destello GetFolder](/Destello%20GetFolder)
