@@ -101,6 +101,7 @@
  **Destello Ocultar Access:** | <#https://access-global.net/access-ocultar-access/#> | [Destello Ocultar_Access](/Destello%20Ocultar_Access)
  **Destello Ocultar maximizar:** | <#https://access-global.net/ocultar-maximizar-access/#> | [Destello Ocultar_maximizar](/Destello%20Ocultar_maximizar)
  **Destello Ocultar Minimizar Access:** | <#https://access-global.net/vba-ocultar-minimizar-access/#> | [Destello Ocultar Minimizar Access](/Destello%20Ocultar%20Minimizar%20Access)
+ **Destello Ocultar tabla:** | <#https://access-global.net/vba-donde-esta-mi-tabla> | [Destello Ocultar tabla](/Destello%20Ocultar%20tabla)
  **Destello Ordenar formularios:** | <#https://access-global.net/vba-una-funcion-para-ordenar-todos-los-formularios#> | [Destello Ordenar formularios](/Destello%20Ordenar%20formularios)
  **Destello ParentFolder:** | <#https://access-global.net/vba-metodo-GetParentFolderName#> | [Destello ParentFolder](/Destello%20ParentFolder)
  **Destello Pausar codigo:** | <#https://access-global.net/vba-la-forma-mas-eficiente-de-pausar-el-codigo#> | [Destello Pausar codigo](/Destello%20Pausar%20codigo)
