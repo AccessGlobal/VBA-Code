@@ -1,0 +1,54 @@
+Public Function wzBracketString(strCadenaIn As String, flag As Long) As String
+'---------------------------------------------------------------------------------------------------------------------------------------------
+' Fuente            : https://access-global.net/vba-bracketString/
+'---------------------------------------------------------------------------------------------------------------------------------------------
+' Título            : wzBracketString
+' Autor original    : Alba Salvá
+' Creado            : 06/12/2010
+' Adaptado          : Luis Viadel | https://cowtechnologies.net
+' Propósito         : Función que adecúa los nombres de campos y tablas para su uso en sentencias SQL en VBA
+' Argumentos        : La sintaxis de la función consta de los siguientes argumentos
+'                     Variable          Modo          Descripción
+'--------------------------------------------------------------------------------------------------------------------------------------------
+'                     strCadenaIn      Obligatorio    Nombre que se ha de revisar
+'                     flag             Obligatorio    Añade o no corchetes a una expresión tomando como separador "!" o "."
+' Valores del argumento flag:
+'                     0 No añade corchetes
+'                     1 Añade corchetes si los necesita (opción recomendada)
+'                     2 Siempre añade corchetes
+' Retorno           : string con la cadena preparada
+'---------------------------------------------------------------------------------------------------------------------------------------------
+' Información       :
+' Test:             : Para adaptar este código en tu aplicación puedes basarte en este procedimiento test. Copiar el bloque siguiente al
+'                     portapapeles y pega en el editor de VBA. Descomentar la línea que nos interese y pulsar F5 para ver su funcionamiento.
+'
+' Sub wzBracketString_test()
+' Dim strCadenaIn As string
+' Dim Cadena As  String
+'
+' Cadena = "Nombre"
+' Cadena = "_Id's"
+' Cadena = "_Data"
+' Cadena = "Id's"
+' Cadena = "Datos_"
+'   
+'      strCadenaIn=wzBracketString(cadena, 0)
+'      strCadenaIn=wzBracketString(cadena, 1)
+'      strCadenaIn=wzBracketString(cadena, 2)
+'
+' End Sub
+'-----------------------------------------------------------------------------------------------------------------------------------------------
+Dim strOk As String
+Dim X As Boolean
+
+    WizHook.Key = 51488399
+    
+    strOk = strCadenaIn
+'Valores de X
+'   True  --> Necesita corchetes
+'   False --> No necesita corchetes
+    X = WizHook.BracketString(strOk, flag)
+    
+    wzBracketString = strOk
+       
+End Function
