@@ -146,6 +146,7 @@
  **Post-It:** | <#https://access-global.net/post-it/#> | [post-it](/post-it)
  **SendKeys:** | <#https://access-global.net/sendkeys/#> | [SendKeys](/SendKeys)
  **Transparencias forms:** | <#https://access-global.net/aplicar-transparencia-a-un-formulario#> | [Transparencias_forms](/Transparencias_forms)
+ **Trocito código SendKeys:** | <#https://access-global.net/sendkeys/> | [Trocito código SendKeys](/Trocito%20código%20SendKeys)
 <br>
 
 
