@@ -70,6 +70,7 @@
  **Destello Getfolder-IsRootFolder:** | <#https://access-global.net/vba-metodo-getfolder-IsRootFolder-ParentFolder#> | [Destello Getfolder-IsRootFolder](/Destello%20Getfolder-IsRootFolder)
  **Destello Getfolder-Subfolders:** | <#https://access-global.net/vba-metodo-getfolder-subfolders#> | [Destello Getfolder-Subfolders](/Destello%20Getfolder-Subfolders)
  **Destello habla:** | <#https://access-global.net/access-que-te-lo-diga-access#> | [Destello habla](/Destello%20habla)
+ **Destello Hay control errores:** | <#https://access-global.net/mis-procedimientos-tienen-tratamiento-de-errores> | [Destello Hay control errores](/Destello%20Hay%20control%20errores)
  **Destello Hora decimal:** | <#https://access-global.net/vba-convertir-hora-en-decimal#> | [Destello Hora decimal](/Destello%20Hora%20decimal)
  **Destello IDE1 - Referencias 1 ( Listar ):** | <#https://access-global.net/vbide-series-referencias-listar-referencias/#> | [Destello IDE1 - Referencias 1 (Listar)](/Destello%20IDE1%20-%20Referencias%201%20(Listar))
  **Destello IDE1 - Referencias 2 (Verificar):** | <#https://access-global.net/vbide-series-referencias-verificar-la-existencia-de-una-referencia#> | [Destello IDE1 - Referencias 2 (Verificar)](/Destello%20IDE1%20-%20Referencias%202%20(Verificar))
