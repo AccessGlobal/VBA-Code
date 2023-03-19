@@ -100,6 +100,7 @@
  **Destello Mover formulario:** | <#https://access-global.net/diseno-mover-formulario#> | [Destello Mover_formulario](/Destello%20Mover_formulario)
  **Destello Mundo de las APIs:** | <#https://access-global.net/vba-el-fascinante-mundo-de-las-api#> | [Destello Mundo de las APIs](/Destello%20Mundo%20de%20las%20APIs)
  **Destello Notificaciones Pop-Up:** | <#https://access-global.net/vba-notificaciones-popup#> | [Destello Notificaciones Pop-Up](/Destello%20Notificaciones%20Pop-Up)
+ **Destello Objeto Err:** | <#https://access-global.net/tratamiento-de-errores-objeto-err> | [Destello Objeto Err](/Destello%20Objeto%20Err)
  **Destello Obtener IP local:** | <#https://access-global.net/vba-obtener-mi-ip-local#> | [Destello Obtener IP local](/Destello%20Obtener%20IP%20local)
  **Destello Obtener IP pública:** | <#https://access-global.net/vba-obtener-mi-ip-publica#> | [Destello Obtener IP pública](/Destello%20Obtener%20IP%20pública)
  **Destello Ocultar Access:** | <#https://access-global.net/access-ocultar-access/#> | [Destello Ocultar_Access](/Destello%20Ocultar_Access)
