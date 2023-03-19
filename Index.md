@@ -145,6 +145,7 @@
  **Mc Ultimo dia de mes:** | <#https://access-global.net/conocer-el-ultimo-dia-de-un-mes-mcdtmfinddatelastdayofmonth/#> | [MC Ultimo dia de mes](/MC%20Ultimo%20dia%20de%20mes)
  **Post-It:** | <#https://access-global.net/post-it/#> | [post-it](/post-it)
  **SendKeys:** | <#https://access-global.net/sendkeys/#> | [SendKeys](/SendKeys)
+ **TC Convertir a ASCII:** | <#https://access-global.net/funcion-que-convierte-cualquier-caracter-a-texto-puramente-ascii-access-vba> | [TC Convertir a ASCII](/TC%20Convertir%20a%20ASCII)
  **Transparencias forms:** | <#https://access-global.net/aplicar-transparencia-a-un-formulario#> | [Transparencias_forms](/Transparencias_forms)
  **Trocito código SendKeys:** | <#https://access-global.net/sendkeys/> | [Trocito código SendKeys](/Trocito%20código%20SendKeys)
 <br>
