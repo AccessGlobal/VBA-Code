@@ -50,6 +50,7 @@
  **Destello Emoticonos:** | <#https://access-global.net/diseno-utiliza-emoticonos-en-tus-aplicaciones#> | [Destello Emoticonos](/Destello%20Emoticonos)
  **Destello Enviar a papelera:** | <#https://access-global.net/vba-enviar-fichero-a-la-papelera#> | [Destello Enviar a papelera](/Destello%20Enviar%20a%20papelera)
  **Destello envío correo HTML:** | <#https://access-global.net/diseno-enviar-bonitos-correos-en-html/#> | [Destello envío correo HTML](/Destello%20envío%20correo%20HTML)
+ **Destello Error Handling API:** | <#https://access-global.net/error-handling-api> | [Destello Error Handling API](/Destello%20Error%20Handling%20API)
  **Destello Es 64 bits:** | <#https://access-global.net/vba-es-accde#> | [Destello Es 64 bits](/Destello%20Es%2064%20bits)
  **Destello Estado formulario:** | <#https://access-global.net/vba-estado-de-un-formulario/#> | [Destello Estado formulario](/Destello%20Estado%20formulario)
  **Destello Existe carpeta:** | <#https://access-global.net/vba-metodo-folderexists#> | [Destello Existe carpeta](/Destello%20Existe%20carpeta)
