@@ -12,3 +12,4 @@ Luis Viadel // Chip Pearson, www.cpearson.com, chip@cpearson.com
 Esta función obtiene el texto del mensaje de error del sistema que corresponde al parámetro del código de error
 
 
+Se incluye el fichero WIN32API.TXT -- Win32 API Declarations for Visual Basic.
