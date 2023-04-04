@@ -1,7 +1,14 @@
 ﻿![Access-global](/blob/main/Images/Logo1.png)
-# Destello Error Personalizado
-## Enlace al artículo
+# Destellos: 
+Error Personalizado
+Comprueba Cuenta Bancaria
+## Enlace a los artículos
+Error Personalizado:
 [https://access-global.net/tratamiento-de-errores-errores-personalizados](https://access-global.net/tratamiento-de-errores-errores-personalizados)
+
+Comprueba Cuenta Bancaria:
+[https://access-global.net/vba-verificacion-de-una-cuenta-bancaria/](https://access-global.net/vba-verificacion-de-una-cuenta-bancaria/)
+
 ## Autor/es
 Luis Viadel
 ## Colaborador/es
@@ -9,6 +16,11 @@ Luis Viadel
 ## Modificado por
 
 ## Descripción de la herramienta
-verificación de cuenta bancaria mediante 4 comprobaciones, que generan 4 errores personalizados,
+Verificación de cuenta bancaria mediante 4 comprobaciones, que generan 4 errores personalizados, utilizando la función 'CVErr',
+Los errores personalizados que se crean siguen la siguiente numeración:
+    1 Es null
+    2 Contiene sólo números
+    3 Longitud incorrecta
+    4 Dígito de control bancario incorrecto
 
 

@@ -39,6 +39,7 @@
  **Destello Convertir PDF a Word:** | <#https://access-global.net/vba-convertir-pdf-a-word#> | [Destello Convertir PDF a Word](/Destello%20Convertir%20PDF%20a%20Word)
  **Destello CopyFile:** | <#https://access-global.net/vba-metodo-copyfile#> | [Destello CopyFile](/Destello%20CopyFile)
  **Destello Cuenta atrás:** | <#https://access-global.net/access-cuenta-atras/#> | [Destello Cuenta atrás](/Destello%20Cuenta%20atrás)
+ **Destello Cuenta Bancaria:** | <#https://access-global.net/vba-verificacion-de-una-cuenta-bancaria/> | [Destello Cuenta Bancaria](/Destello%20Error%20Personalizado)
  **Destello Descarga Versión:** | <#https://access-global.net/vba-mas-sobre-la-descarga-de-archivos#> | [Destello Descarga Versión](/Destello%20Descarga%20Versión)
  **Destello Desvincular tabla:** | <#https://access-global.net/vba-desvincular-mi-primera-tabla-de-access/> | [Destello Desvincular tabla](/Destello%20Desvincular%20tabla)
  **Destello dimensiones de ventanas y formularios:** | <#https://access-global.net/vba-dimensiones-de-ventanas-y-formularios#> | [Destello dimensiones de ventanas y formularios](/Destello%20dimensiones%20de%20ventanas%20y%20formularios)
