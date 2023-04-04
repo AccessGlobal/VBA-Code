@@ -11,6 +11,7 @@ End Enum
 Public Function CompruebaCuentaBancaria(CuentaBancaria As String) As String
 '-----------------------------------------------------------------------------------------------------------------------
 ' Fuente            : https://access-global.net/tratamiento-de-errores-errores-personalizados
+'                   : https://access-global.net/vba-vba-verificacion-de-una-cuenta-bancaria/   
 '-----------------------------------------------------------------------------------------------------------------------
 ' Título            : CompruebaCuentaBancaria
 ' Autor original    : Luis Viadel

@@ -7,7 +7,7 @@ Error Personalizado:
 [https://access-global.net/tratamiento-de-errores-errores-personalizados](https://access-global.net/tratamiento-de-errores-errores-personalizados)
 
 Comprueba Cuenta Bancaria:
-[https://access-global.net/vba-verificacion-de-una-cuenta-bancaria/](https://access-global.net/vba-verificacion-de-una-cuenta-bancaria/)
+[https://access-global.net/vba-vba-verificacion-de-una-cuenta-bancaria/](hhttps://access-global.net/vba-vba-verificacion-de-una-cuenta-bancaria/)
 
 ## Autor/es
 Luis Viadel
