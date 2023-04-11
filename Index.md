@@ -60,6 +60,7 @@
  **Destello Exporta Excel:** | <https://access-global.net/access-exportar-contenido-de-un-recordset-a-excel-copyfromrecordset> | [Destello Exporta Excel](/Destello%20Exporta%20Excel)
  **Destello Fechas semana:** | <https://access-global.net/obtener-la-fecha-del-primer-dia-de-la-semana-o-ultimo-dia-de-la-semana-en-access-vba/> | [Destello Fechas_semana](/Destello%20Fechas_semana)
  **Destello Filtros por form:** | <https://access-global.net/vba-gestionamos-el-filtro-por-formulario> | [Destello Filtros por form](/Destello%20Filtros%20por%20form)
+ **Destello form abierto:** | <https://access-global.net/vba-esta-abierto-el-formulario/> | [Destello form abierto](/Destello%20form%20abierto)
  **Destello Form redondo:** | <https://access-global.net/diseno-formularios-redondos> | [Destello Form redondo](/Destello%20Form%20redondo)
  **Destello Freefile:** | <https://access-global.net/vba-freefile-function> | [Destello Freefile](/Destello%20Freefile)
  **Destello FSO completo:** | <https://access-global.net/vba-objeto-fso-recopilacion> | [Destello FSO completo](/Destello%20FSO%20completo)
