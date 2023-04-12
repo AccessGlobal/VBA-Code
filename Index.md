@@ -98,6 +98,7 @@
  **Destello Listar ficheros propiedades:** | <https://access-global.net/vba-coleccion-files> | [Destello Listar ficheros propiedades](/Destello%20Listar%20ficheros%20propiedades)
  **Destello Listar Unidades disco:** | <https://access-global.net/vba-listar-unidades-de-disco> | [Destello Listar Unidades disco](/Destello%20Listar%20Unidades%20disco)
  **Destello ListBox selección múltiple:** | <https://access-global.net/access-cuadro-de-lista-con-seleccion-multiple/> | [Destello ListBox selección múltiple](/Destello%20ListBox%20selección%20múltiple)
+ **Destello Macros embebidas:** | <https://access-global.net/vba-comprobar-macros-incrustadas/> | [Destello Macros embebidas](/Destello%20Macros%20embebidas)
  **Destello Minicalendario:** | <https://access-global.net/access-minicalendario/> | [Destello Minicalendario](/Destello%20Minicalendario)
  **Destello Moda - Mediana:** | <https://access-global.net/vba-moda-mediana-y-algo-mas> | [Destello Moda - Mediana](/Destello%20Moda%20-%20Mediana)
  **Destello Modificar ratón:** | <https://access-global.net/diseno-crea-tu-propio-icono-de-raton> | [Destello Modificar_ratón](/Destello%20Modificar_ratón)
