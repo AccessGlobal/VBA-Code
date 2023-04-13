@@ -24,6 +24,7 @@
  **Destello ByRef - ByVal:** | <https://access-global.net/vba-byval-vs-byref> | [Destello ByRef - ByVal](/Destello%20ByRef%20-%20ByVal)
  **Destello Cabecera modulo:** | <https://access-global.net/vba-cabecera-de-modulo> | [Destello Cabecera modulo](/Destello%20Cabecera%20modulo)
  **Destello Calcular DNI:** | <https://access-global.net/vba-comprueba-un-dni-o-un-nie> | [Destello Calcular DNI](/Destello%20Calcular%20DNI)
+ **Destello Calendario:** | <https://access-global.net/vba-sencillo-y-rapido-calendario-personalizado> | [Destello Calendario](/Destello%20Calendario)
  **Destello Cambio horario:** | <https://access-global.net/vba-horario-de-verano> | [Destello Cambio horario](/Destello%20Cambio%20horario)
  **Destello Captura Pantalla:** | <https://access-global.net/vba-captura-de-pantalla> | [Destello Captura Pantalla](/Destello%20Captura%20Pantalla)
  **Destello Cerrar formularios:** | <https://access-global.net/vba-cerrar-todos-los-formularios> | [Destello Cerrar formularios](/Destello%20Cerrar%20formularios)
