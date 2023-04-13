@@ -4,7 +4,7 @@ Option Explicit
 
 Function GeneraResumen(Ano As String)
 '--------------------------------------------------------------------------------------------------------------------------------
-' Fuente            : https://access-global.net/vba-sencillo-y-rapido-calendario-personalizado
+' Fuente            : https://access-global.net/vbide-sencillo-y-rapido-calendario-personalizado/
 '--------------------------------------------------------------------------------------------------------------------------------
 ' Título            : GeneraResumen
 ' Autor original    : Alba Salvá

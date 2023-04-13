@@ -1,7 +1,7 @@
 ﻿![Access-global](/blob/main/Images/Logo1.png)
 # Destello Calendario
 ## Enlace al artículo
-[https://access-global.net/vba-sencillo-y-rapido-calendario-personalizado](https://access-global.net/vba-sencillo-y-rapido-calendario-personalizado)
+[https://access-global.net/vbide-sencillo-y-rapido-calendario-personalizado/](https://access-global.net/vbide-sencillo-y-rapido-calendario-personalizado/)
 ## Autor/es
 Alba Salvá
 ## Colaborador/es
