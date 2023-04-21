@@ -18,6 +18,7 @@
   **_Título_** | **_Artículo_** | **_Ruta_** 
  -----------|-------------------|--------------- 
  **AS EsBisiesto:** | <https://access-global.net/saber-si-un-ano-es-bisiesto/> | [AS_EsBisiesto](/AS_EsBisiesto)
+ **Destello Abre form con info acceso:** | <https://access-global.net/vba-abre-el-formulario-con-informacion-del-ultimo-acceso/> | [Destello Abre form con info acceso](/Destello%20Abre%20form%20con%20info%20acceso)
  **Destello Abrir fichero texto:** | <https://access-global.net/vba-metodo-opentextfile> | [Destello Abrir fichero texto](/Destello%20Abrir%20fichero%20texto)
  **Destello Bloquear cerrar access:** | <https://access-global.net/bloquear-cerrar-access/> | [Destello Bloquear_cerrar_access](/Destello%20Bloquear_cerrar_access)
  **Destello BracketString:** | <https://access-global.net/vba-bracketString/> | [Destello BracketString](/Destello%20BracketString)
