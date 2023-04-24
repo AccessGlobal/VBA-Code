@@ -8,8 +8,9 @@
 
   **_Título_** | **_Artículo_** | **_Ruta_** 
  -----------|-------------------|--------------- 
- **ListBox dinámicos:** | <https://access-global.net/listbox-dinamicos/> | [ListBox dinámicos](/ListBox%20dinámicos)
+ **MasterClass ListBox dinámicos:** | <https://access-global.net/listbox-dinamicos/> | [ListBox dinámicos](/ListBox%20dinámicos)
  **MasterClass Drag&Drop** | <https://access-global.net/drag-drop-en-access> | [MasterClass Drag&Drop](/MasterClass%20Drag&Drop)
+ **MasterClass MsgBox personalizado:** | <https://access-global.net/msgbox-personalizado/> | [MasterClass MsgBox personalizado](/MasterClass%20MsgBox%20personalizado)
 <br>
 
 
