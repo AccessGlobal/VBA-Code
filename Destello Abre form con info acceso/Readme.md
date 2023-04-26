@@ -1,7 +1,7 @@
 ﻿![Access-global](/blob/main/Images/Logo1.png)
 # Destello Abre form con info acceso
 ## Enlace al artículo
-[https://access-global.net/vba-abre-el-formulario-con-informacion-del-ultimo-acceso/](https://access-global.net/vba-abre-el-formulario-con-informacion-del-ultimo-acceso/)
+[https://access-global.net/vba-abre-un-formulario-con-informacion-de-tu-ultimo-acceso/](https://access-global.net/vba-abre-un-formulario-con-informacion-de-tu-ultimo-acceso/)
 ## Autor/es
 Karl Donaubauer
 ## Colaborador/es

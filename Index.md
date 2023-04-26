@@ -8,9 +8,9 @@
 
   **_Título_** | **_Artículo_** | **_Ruta_** 
  -----------|-------------------|--------------- 
+ **MasterClass Drag&Drop:** | <https://access-global.net/drag-drop-en-access> | [MasterClass Drag&Drop](/MasterClass%20Drag&Drop)
  **MasterClass ListBox dinámicos:** | <https://access-global.net/listbox-dinamicos/> | [ListBox dinámicos](/ListBox%20dinámicos)
- **MasterClass Drag&Drop** | <https://access-global.net/drag-drop-en-access> | [MasterClass Drag&Drop](/MasterClass%20Drag&Drop)
- **MasterClass MsgBox personalizado:** | <https://access-global.net/msgbox-personalizado/> | [MasterClass MsgBox personalizado](/MasterClass%20MsgBox%20personalizado)
+ **MasterClass MsgBox personalizado:** | <https://access-global.net/msgbox-personalizado/https://access-global.net/msgbox-personalizado/> | [MasterClass MsgBox personalizado](/MasterClass%20MsgBox%20personalizado)
 <br>
 
 
@@ -19,7 +19,7 @@
   **_Título_** | **_Artículo_** | **_Ruta_** 
  -----------|-------------------|--------------- 
  **AS EsBisiesto:** | <https://access-global.net/saber-si-un-ano-es-bisiesto/> | [AS_EsBisiesto](/AS_EsBisiesto)
- **Destello Abre form con info acceso:** | <https://access-global.net/vba-abre-el-formulario-con-informacion-del-ultimo-acceso/> | [Destello Abre form con info acceso](/Destello%20Abre%20form%20con%20info%20acceso)
+ **Destello Abre form con info acceso:** | <https://access-global.net/vba-abre-un-formulario-con-informacion-de-tu-ultimo-acceso/> | [Destello Abre form con info acceso](/Destello%20Abre%20form%20con%20info%20acceso)
  **Destello Abrir fichero texto:** | <https://access-global.net/vba-metodo-opentextfile> | [Destello Abrir fichero texto](/Destello%20Abrir%20fichero%20texto)
  **Destello Bloquear cerrar access:** | <https://access-global.net/bloquear-cerrar-access/> | [Destello Bloquear_cerrar_access](/Destello%20Bloquear_cerrar_access)
  **Destello BracketString:** | <https://access-global.net/vba-bracketString/> | [Destello BracketString](/Destello%20BracketString)
@@ -43,6 +43,7 @@
  **Destello Convertir PDF a Word:** | <https://access-global.net/vba-convertir-pdf-a-word> | [Destello Convertir PDF a Word](/Destello%20Convertir%20PDF%20a%20Word)
  **Destello CopyFile:** | <https://access-global.net/vba-metodo-copyfile> | [Destello CopyFile](/Destello%20CopyFile)
  **Destello Crear ACCDE:** | <https://access-global.net/vba-crear-accde-en-tiempo-de-ejecucion> | [Destello Crear ACCDE](/Destello%20Crear%20ACCDE)
+ **Destello Crear Nuevo DSN:** | <https://access-global.net/vba-crear-modificar-o-eliminar-origen-de-datos-en-tiempo-de-ejecucion/> | [Destello Crear Nuevo DSN](/Destello%20Crear%20Nuevo%20DSN)
  **Destello Cuenta atrás:** | <https://access-global.net/access-cuenta-atras/> | [Destello Cuenta atrás](/Destello%20Cuenta%20atrás)
  **Destello Descarga Versión:** | <https://access-global.net/vba-mas-sobre-la-descarga-de-archivos> | [Destello Descarga Versión](/Destello%20Descarga%20Versión)
  **Destello Desvincular tabla:** | <https://access-global.net/vba-desvincular-mi-primera-tabla-de-access/> | [Destello Desvincular tabla](/Destello%20Desvincular%20tabla)
