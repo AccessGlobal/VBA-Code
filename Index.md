@@ -19,7 +19,7 @@
   **_Título_** | **_Artículo_** | **_Ruta_** 
  -----------|-------------------|--------------- 
  **AS EsBisiesto:** | <https://access-global.net/saber-si-un-ano-es-bisiesto/> | [AS_EsBisiesto](/AS_EsBisiesto)
- **Destello Abre form con info acceso:** | <https://access-global.net/vba-abre-un-formulario-con-informacion-de-tu-ultimo-acceso/> | [Destello Abre form con info acceso](/Destello%20Abre%20form%20con%20info%20acceso)
+ **Destello Abre form con info acceso:** | <https://access-global.net/vba-abre-un-formulario-con-informacion-de-tu-ultimo-acceso/https://access-global.net/vba-abre-un-formulario-con-informacion-de-tu-ultimo-acceso/> | [Destello Abre form con info acceso](/Destello%20Abre%20form%20con%20info%20acceso)
  **Destello Abrir fichero texto:** | <https://access-global.net/vba-metodo-opentextfile> | [Destello Abrir fichero texto](/Destello%20Abrir%20fichero%20texto)
  **Destello Bloquear cerrar access:** | <https://access-global.net/bloquear-cerrar-access/> | [Destello Bloquear_cerrar_access](/Destello%20Bloquear_cerrar_access)
  **Destello BracketString:** | <https://access-global.net/vba-bracketString/> | [Destello BracketString](/Destello%20BracketString)
@@ -133,6 +133,7 @@
  **Destello ShellExecute:** | <https://access-global.net/vba-shellexecute> | [Destello ShellExecute](/Destello%20ShellExecute)
  **Destello Sólo números:** | <https://access-global.net/vba-estas-obligado-a-escribir-solo-numeros> | [Destello Sólo números](/Destello%20Sólo%20números)
  **Destello Sonido en App:** | <https://access-global.net/vba-sonido-en-mi-app> | [Destello Sonido_en_App](/Destello%20Sonido_en_App)
+ **Destello SortArray:** | <https://access-global.net/vba-/> | [Destello SortArray](/Destello%20SortArray)
  **Destello Total lineas:** | <https://access-global.net/vbide-verificar-si-una-linea-es-un-comentario/https://access-global.net/vbide-verificar-si-una-linea-es-un-comentario/> | [Destello Total lineas](/Destello%20Total%20lineas)
  **Destello Transacciones:** | <https://access-global.net/vba-transacciones> | [Destello Transacciones](/Destello%20Transacciones)
  **Destello TreeView:** | <https://access-global.net/drag-drop-en-access> | [Destello TreeView](/Destello%20TreeView)
