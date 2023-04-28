@@ -133,13 +133,14 @@
  **Destello ShellExecute:** | <https://access-global.net/vba-shellexecute> | [Destello ShellExecute](/Destello%20ShellExecute)
  **Destello Sólo números:** | <https://access-global.net/vba-estas-obligado-a-escribir-solo-numeros> | [Destello Sólo números](/Destello%20Sólo%20números)
  **Destello Sonido en App:** | <https://access-global.net/vba-sonido-en-mi-app> | [Destello Sonido_en_App](/Destello%20Sonido_en_App)
- **Destello SortArray:** | <https://access-global.net/vba-vba-ordenar-los-elementos-de-una-matriz-con-una-linea-de-codigo/> | [Destello WizHook - SortArray](/Destello%20WizHook%20-%20SortArray)
+ **Destello SortArray:** | <https://access-global.net/vba-vba-ordenar-los-elementos-de-una-matriz-con-una-linea-de-codigo/https://access-global.net/vba-vba-ordenar-los-elementos-de-una-matriz-con-una-linea-de-codigo/> | [Destello SortArray](/Destello%20SortArray)
  **Destello Total lineas:** | <https://access-global.net/vbide-verificar-si-una-linea-es-un-comentario/https://access-global.net/vbide-verificar-si-una-linea-es-un-comentario/> | [Destello Total lineas](/Destello%20Total%20lineas)
  **Destello Transacciones:** | <https://access-global.net/vba-transacciones> | [Destello Transacciones](/Destello%20Transacciones)
  **Destello TreeView:** | <https://access-global.net/drag-drop-en-access> | [Destello TreeView](/Destello%20TreeView)
  **Destello Usar referencia ejecucion:** | <https://access-global.net/vba-utilizar-una%20referencia-en-tiempo-de-ejecucion> | [Destello Usar referencia ejecucion](/Destello%20Usar%20referencia%20ejecucion)
  **Destello Vincular tabla:** | <https://access-global.net/vba-vincular-mi-primera-tabla-de-access/> | [Destello Vincular tabla](/Destello%20Vincular%20tabla)
  **Destello WhatsApp:** | <https://access-global.net/vba-sencilla-forma-de-enviar-mensaje-de-whatsapp> | [Destello WhatsApp](/Destello%20WhatsApp)
+ **Destello WizHook - MsgBox:** | <https://access-global.net/Wizhook-series-WizMsgBox/> | [Destello WizHook - MsgBox](/Destello%20WizHook%20-%20MsgBox)
 <br>
 
 
