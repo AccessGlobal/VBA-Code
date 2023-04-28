@@ -10,7 +10,7 @@
  -----------|-------------------|--------------- 
  **MasterClass Drag&Drop:** | <https://access-global.net/drag-drop-en-access> | [MasterClass Drag&Drop](/MasterClass%20Drag&Drop)
  **MasterClass ListBox dinámicos:** | <https://access-global.net/listbox-dinamicos/> | [ListBox dinámicos](/ListBox%20dinámicos)
- **MasterClass MsgBox personalizado:** | <https://access-global.net/msgbox-personalizado/https://access-global.net/msgbox-personalizado/> | [MasterClass MsgBox personalizado](/MasterClass%20MsgBox%20personalizado)
+ **MasterClass MsgBox personalizado:** | <https://access-global.net/msgbox-personalizado/> | [MasterClass MsgBox personalizado](/MasterClass%20MsgBox%20personalizado)
 <br>
 
 
@@ -19,14 +19,14 @@
   **_Título_** | **_Artículo_** | **_Ruta_** 
  -----------|-------------------|--------------- 
  **AS EsBisiesto:** | <https://access-global.net/saber-si-un-ano-es-bisiesto/> | [AS_EsBisiesto](/AS_EsBisiesto)
- **Destello Abre form con info acceso:** | <https://access-global.net/vba-abre-un-formulario-con-informacion-de-tu-ultimo-acceso/https://access-global.net/vba-abre-un-formulario-con-informacion-de-tu-ultimo-acceso/> | [Destello Abre form con info acceso](/Destello%20Abre%20form%20con%20info%20acceso)
+ **Destello Abre form con info acceso:** | <https://access-global.net/vba-abre-un-formulario-con-informacion-de-tu-ultimo-acceso/> | [Destello Abre form con info acceso](/Destello%20Abre%20form%20con%20info%20acceso)
  **Destello Abrir fichero texto:** | <https://access-global.net/vba-metodo-opentextfile> | [Destello Abrir fichero texto](/Destello%20Abrir%20fichero%20texto)
  **Destello Bloquear cerrar access:** | <https://access-global.net/bloquear-cerrar-access/> | [Destello Bloquear_cerrar_access](/Destello%20Bloquear_cerrar_access)
  **Destello BracketString:** | <https://access-global.net/vba-bracketString/> | [Destello BracketString](/Destello%20BracketString)
  **Destello ByRef - ByVal:** | <https://access-global.net/vba-byval-vs-byref> | [Destello ByRef - ByVal](/Destello%20ByRef%20-%20ByVal)
  **Destello Cabecera modulo:** | <https://access-global.net/vba-cabecera-de-modulo> | [Destello Cabecera modulo](/Destello%20Cabecera%20modulo)
  **Destello Calcular DNI:** | <https://access-global.net/vba-comprueba-un-dni-o-un-nie> | [Destello Calcular DNI](/Destello%20Calcular%20DNI)
- **Destello Calendario:** | <https://access-global.net/vbide-sencillo-y-rapido-calendario-personalizado/https://access-global.net/vbide-sencillo-y-rapido-calendario-personalizado/> | [Destello Calendario](/Destello%20Calendario)
+ **Destello Calendario:** | <https://access-global.net/vbide-sencillo-y-rapido-calendario-personalizado/> | [Destello Calendario](/Destello%20Calendario)
  **Destello Cambio horario:** | <https://access-global.net/vba-horario-de-verano> | [Destello Cambio horario](/Destello%20Cambio%20horario)
  **Destello Captura Pantalla:** | <https://access-global.net/vba-captura-de-pantalla> | [Destello Captura Pantalla](/Destello%20Captura%20Pantalla)
  **Destello Cerrar formularios:** | <https://access-global.net/vba-cerrar-todos-los-formularios> | [Destello Cerrar formularios](/Destello%20Cerrar%20formularios)
@@ -112,7 +112,7 @@
  **Destello Mundo de las APIs:** | <https://access-global.net/vba-el-fascinante-mundo-de-las-api> | [Destello Mundo de las APIs](/Destello%20Mundo%20de%20las%20APIs)
  **Destello Notificaciones Pop-Up:** | <https://access-global.net/vba-notificaciones-popup> | [Destello Notificaciones Pop-Up](/Destello%20Notificaciones%20Pop-Up)
  **Destello Objeto Err:** | <https://access-global.net/tratamiento-de-errores-objeto-err> | [Destello Objeto Err](/Destello%20Objeto%20Err)
- **Destello Obtener código:** | <https://access-global.net/vbide-obtener-codigo/https://access-global.net/vbide-obtener-codigo/> | [Destello Obtener código](/Destello%20Obtener%20código)
+ **Destello Obtener código:** | <https://access-global.net/vbide-obtener-codigo/> | [Destello Obtener código](/Destello%20Obtener%20código)
  **Destello Obtener IP local:** | <https://access-global.net/vba-obtener-mi-ip-local> | [Destello Obtener IP local](/Destello%20Obtener%20IP%20local)
  **Destello Obtener IP pública:** | <https://access-global.net/vba-obtener-mi-ip-publica> | [Destello Obtener IP pública](/Destello%20Obtener%20IP%20pública)
  **Destello Ocultar Access:** | <https://access-global.net/access-ocultar-access/> | [Destello Ocultar_Access](/Destello%20Ocultar_Access)
@@ -133,14 +133,14 @@
  **Destello ShellExecute:** | <https://access-global.net/vba-shellexecute> | [Destello ShellExecute](/Destello%20ShellExecute)
  **Destello Sólo números:** | <https://access-global.net/vba-estas-obligado-a-escribir-solo-numeros> | [Destello Sólo números](/Destello%20Sólo%20números)
  **Destello Sonido en App:** | <https://access-global.net/vba-sonido-en-mi-app> | [Destello Sonido_en_App](/Destello%20Sonido_en_App)
- **Destello SortArray:** | <https://access-global.net/vba-vba-ordenar-los-elementos-de-una-matriz-con-una-linea-de-codigo/https://access-global.net/vba-vba-ordenar-los-elementos-de-una-matriz-con-una-linea-de-codigo/> | [Destello SortArray](/Destello%20SortArray)
- **Destello Total lineas:** | <https://access-global.net/vbide-verificar-si-una-linea-es-un-comentario/https://access-global.net/vbide-verificar-si-una-linea-es-un-comentario/> | [Destello Total lineas](/Destello%20Total%20lineas)
+ **Destello Total lineas:** | <https://access-global.net/vbide-verificar-si-una-linea-es-un-comentario/> | [Destello Total lineas](/Destello%20Total%20lineas)
  **Destello Transacciones:** | <https://access-global.net/vba-transacciones> | [Destello Transacciones](/Destello%20Transacciones)
  **Destello TreeView:** | <https://access-global.net/drag-drop-en-access> | [Destello TreeView](/Destello%20TreeView)
  **Destello Usar referencia ejecucion:** | <https://access-global.net/vba-utilizar-una%20referencia-en-tiempo-de-ejecucion> | [Destello Usar referencia ejecucion](/Destello%20Usar%20referencia%20ejecucion)
  **Destello Vincular tabla:** | <https://access-global.net/vba-vincular-mi-primera-tabla-de-access/> | [Destello Vincular tabla](/Destello%20Vincular%20tabla)
  **Destello WhatsApp:** | <https://access-global.net/vba-sencilla-forma-de-enviar-mensaje-de-whatsapp> | [Destello WhatsApp](/Destello%20WhatsApp)
  **Destello WizHook - MsgBox:** | <https://access-global.net/Wizhook-series-WizMsgBox/> | [Destello WizHook - MsgBox](/Destello%20WizHook%20-%20MsgBox)
+ **Destello WizHook - SortArray:** | <https://access-global.net/vba-vba-ordenar-los-elementos-de-una-matriz-con-una-linea-de-codigo/> | [Destello WizHook - SortArray](/Destello%20WizHook%20-%20SortArray)
 <br>
 
 
