@@ -141,6 +141,7 @@
  **Destello WhatsApp:** | <https://access-global.net/vba-sencilla-forma-de-enviar-mensaje-de-whatsapp> | [Destello WhatsApp](/Destello%20WhatsApp)
  **Destello WizHook - MsgBox:** | <https://access-global.net/Wizhook-series-WizMsgBox/> | [Destello WizHook - MsgBox](/Destello%20WizHook%20-%20MsgBox)
  **Destello WizHook - SortArray:** | <https://access-global.net/vba-vba-ordenar-los-elementos-de-una-matriz-con-una-linea-de-codigo/> | [Destello WizHook - SortArray](/Destello%20WizHook%20-%20SortArray)
+ **Destello WizHook 3 métodos para cerrar una base de datos:** | <https://access-global.net/Wizhook-series-CerrarBD/> | [Destello WizHook 3 métodos para cerrar una base de datos](/Destello%20WizHook%203%20métodos%20para%20cerrar%20una%20base%20de%20datos)
 <br>
 
 
