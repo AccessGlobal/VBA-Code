@@ -139,9 +139,10 @@
  **Destello Usar referencia ejecucion:** | <https://access-global.net/vba-utilizar-una%20referencia-en-tiempo-de-ejecucion> | [Destello Usar referencia ejecucion](/Destello%20Usar%20referencia%20ejecucion)
  **Destello Vincular tabla:** | <https://access-global.net/vba-vincular-mi-primera-tabla-de-access/> | [Destello Vincular tabla](/Destello%20Vincular%20tabla)
  **Destello WhatsApp:** | <https://access-global.net/vba-sencilla-forma-de-enviar-mensaje-de-whatsapp> | [Destello WhatsApp](/Destello%20WhatsApp)
+ **Destello WizHook - GetTextLength:** | <https://access-global.net/wizhook-series-adaptar-un-cuadro-de-texto-a-su-contenido/> | [Destello WizHook - GetTextLength](/Destello%20WizHook%20-%20GetTextLength)
  **Destello WizHook - MsgBox:** | <https://access-global.net/Wizhook-series-WizMsgBox/> | [Destello WizHook - MsgBox](/Destello%20WizHook%20-%20MsgBox)
  **Destello WizHook - SortArray:** | <https://access-global.net/vba-vba-ordenar-los-elementos-de-una-matriz-con-una-linea-de-codigo/> | [Destello WizHook - SortArray](/Destello%20WizHook%20-%20SortArray)
- **Destello WizHook 3 métodos para cerrar una base de datos:** | <https://access-global.net/Wizhook-series-CerrarBD/> | [Destello WizHook 3 métodos para cerrar una base de datos](/Destello%20WizHook%203%20métodos%20para%20cerrar%20una%20base%20de%20datos)
+ **Destello WizHook 3 métodos para cerrar una base de datos:** | <https://access-global.net/wizhook-series-3-metodos-para-cerrar-una-base-de-datos-y-wizhook/> | [Destello WizHook 3 métodos para cerrar una base de datos](/Destello%20WizHook%203%20métodos%20para%20cerrar%20una%20base%20de%20datos)
 <br>
 
 
