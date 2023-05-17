@@ -70,6 +70,7 @@
  **Destello Freefile:** | <https://access-global.net/vba-freefile-function> | [Destello Freefile](/Destello%20Freefile)
  **Destello FSO completo:** | <https://access-global.net/vba-objeto-fso-recopilacion> | [Destello FSO completo](/Destello%20FSO%20completo)
  **Destello FTP con Access:** | <https://access-global.net/vba-ftp-con-access> | [Destello FTP con Access](/Destello%20FTP%20con%20Access)
+ **Destello Función LOC:** | <https://access-global.net/vba-funcion-loc/> | [Destello Función LOC](/Destello%20Función%20LOC)
  **Destello función StrPtr:** | <https://access-global.net/vba-controlar-respuesta-inputbox/> | [Destello función StrPtr](/Destello%20función%20StrPtr)
  **Destello Funciones de Dominio Remoto:** | <https://access-global.net/vba-funciones-de-dominio-de-alba-funciones-remotas> | [Destello Funciones de Dominio Remoto](/Destello%20Funciones%20de%20Dominio%20Remoto)
  **Destello Funciones Dominio Alba:** | <https://access-global.net/funciones-de-dominio-de-alba/> | [Destello Funciones Dominio Alba](/Destello%20Funciones%20Dominio%20Alba)
