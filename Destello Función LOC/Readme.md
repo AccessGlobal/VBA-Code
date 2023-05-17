@@ -10,5 +10,5 @@ Luis Viadel | https://cowtechnologies.net
 
 ## Descripción de la herramienta
 1. Contar las líneas de un fichero de texto
-
+2. Recuperar la cantidad de texto que se desee
 
