@@ -10,7 +10,7 @@ End Function
 
 Public Function VBIDE_Estadisticas() As Variant
 '---------------------------------------------------------------------------------------------------------------------------------------------------
-' Fuente            : https://access-global.net/vbide-series-
+' Fuente            : https://access-global.net/vbide-algunas-estadisticas/
 '---------------------------------------------------------------------------------------------------------------------------------------------------
 ' Título            : EstadisticasReferencias
 ' Autor original    : Luis Viadel

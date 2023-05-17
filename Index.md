@@ -31,6 +31,7 @@
  **Destello Captura Pantalla:** | <https://access-global.net/vba-captura-de-pantalla> | [Destello Captura Pantalla](/Destello%20Captura%20Pantalla)
  **Destello Cerrar formularios:** | <https://access-global.net/vba-cerrar-todos-los-formularios> | [Destello Cerrar formularios](/Destello%20Cerrar%20formularios)
  **Destello CheckInternet:** | <https://access-global.net/vba-tengo-conexion-a-internet> | [Destello CheckInternet](/Destello%20CheckInternet)
+ **Destello Clase ErrorHandler:** | <https://access-global.net/vba-clsErrorHandler/> | [Destello Clase ErrorHandler](/Destello%20Clase%20ErrorHandler)
  **Destello Codigo Postal Google:** | <https://access-global.net/vba-conocer-codigo-postal-y-coordenadas-con-la-api-de-google-maps> | [Destello Codigo Postal Google](/Destello%20Codigo%20Postal%20Google)
  **Destello Colores:** | <https://access-global.net/vba-descubre-los-colores> | [Destello Colores](/Destello%20Colores)
  **Destello ComboBox dependientes:** | <https://access-global.net/access-combos-dependientes> | [Destello ComboBox dependientes](/Destello%20ComboBox%20dependientes)
