@@ -59,6 +59,7 @@
  **Destello Error Handling API:** | <https://access-global.net/error-handling-api> | [Destello Error Handling API](/Destello%20Error%20Handling%20API)
  **Destello Error Personalizado:** | <https://access-global.net/tratamiento-de-errores-errores-personalizados> | [Destello Error Personalizado](/Destello%20Error%20Personalizado)
  **Destello Es 64 bits:** | <https://access-global.net/vba-es-accde> | [Destello Es 64 bits](/Destello%20Es%2064%20bits)
+ **Destello Estadísticas VBIDE:** | <https://access-global.net/vbide-series-> | [Destello Estadísticas VBIDE](/Destello%20Estadísticas%20VBIDE)
  **Destello Estado formulario:** | <https://access-global.net/vba-estado-de-un-formulario/> | [Destello Estado formulario](/Destello%20Estado%20formulario)
  **Destello Existe carpeta:** | <https://access-global.net/vba-metodo-folderexists> | [Destello Existe carpeta](/Destello%20Existe%20carpeta)
  **Destello Existe fichero:** | <https://access-global.net/vba-metodo-fileexists> | [Destello Existe fichero](/Destello%20Existe%20fichero)
