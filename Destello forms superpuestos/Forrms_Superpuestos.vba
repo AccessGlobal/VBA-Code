@@ -19,7 +19,7 @@ Dim ancho As Long, alto As Long
 
 Public Function posForm(frm As Form)
 '---------------------------------------------------------------------------------------------------------------------------------------------
-' Fuente            : https://access-global.net/vba-crear-modificar-o-eliminar-origen-de-datos-en-tiempo-de-ejecucion/
+' Fuente            : https://access-global.net/vba-formularios-emergentes-superpuestos/
 '                      Destello formativo 334
 '---------------------------------------------------------------------------------------------------------------------------------------------
 ' Título            : PosForm
