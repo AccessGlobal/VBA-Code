@@ -70,6 +70,7 @@
  **Destello Filtros por form:** | <https://access-global.net/vba-gestionamos-el-filtro-por-formulario> | [Destello Filtros por form](/Destello%20Filtros%20por%20form)
  **Destello form abierto:** | <https://access-global.net/vba-esta-abierto-el-formulario/> | [Destello form abierto](/Destello%20form%20abierto)
  **Destello Form redondo:** | <https://access-global.net/diseno-formularios-redondos> | [Destello Form redondo](/Destello%20Form%20redondo)
+ **Destello forms superpuestos:** | <https://access-global.net/vba-formularios-emergentes-superpuestos/> | [Destello forms superpuestos](/Destello%20forms%20superpuestos)
  **Destello Freefile:** | <https://access-global.net/vba-freefile-function> | [Destello Freefile](/Destello%20Freefile)
  **Destello FSO completo:** | <https://access-global.net/vba-objeto-fso-recopilacion> | [Destello FSO completo](/Destello%20FSO%20completo)
  **Destello FTP con Access:** | <https://access-global.net/vba-ftp-con-access> | [Destello FTP con Access](/Destello%20FTP%20con%20Access)
