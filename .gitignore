@@ -11,3 +11,4 @@ VBA-Code.code-workspace
 Generador_Backup.accdb
 *.accdb
 *.bak
+.vscode/*.*

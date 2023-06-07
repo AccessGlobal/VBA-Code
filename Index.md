@@ -66,6 +66,7 @@
  **Destello Existe carpeta:** | <https://access-global.net/vba-metodo-folderexists> | [Destello Existe carpeta](/Destello%20Existe%20carpeta)
  **Destello Existe fichero:** | <https://access-global.net/vba-metodo-fileexists> | [Destello Existe fichero](/Destello%20Existe%20fichero)
  **Destello Exporta Excel:** | <https://access-global.net/access-exportar-contenido-de-un-recordset-a-excel-copyfromrecordset> | [Destello Exporta Excel](/Destello%20Exporta%20Excel)
+ **Destello Extraer email:** | <https://access-global.net/vba-extraer-email-de-una-cadena-de-texto/> | [Destello Extraer email](/Destello%20Extraer%20email)
  **Destello Fechas semana:** | <https://access-global.net/obtener-la-fecha-del-primer-dia-de-la-semana-o-ultimo-dia-de-la-semana-en-access-vba/> | [Destello Fechas_semana](/Destello%20Fechas_semana)
  **Destello Filtros por form:** | <https://access-global.net/vba-gestionamos-el-filtro-por-formulario> | [Destello Filtros por form](/Destello%20Filtros%20por%20form)
  **Destello form abierto:** | <https://access-global.net/vba-esta-abierto-el-formulario/> | [Destello form abierto](/Destello%20form%20abierto)
