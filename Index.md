@@ -28,6 +28,7 @@
  **Destello Calcular DNI:** | <https://access-global.net/vba-comprueba-un-dni-o-un-nie> | [Destello Calcular DNI](/Destello%20Calcular%20DNI)
  **Destello Calendario:** | <https://access-global.net/vbide-sencillo-y-rapido-calendario-personalizado/> | [Destello Calendario](/Destello%20Calendario)
  **Destello Cambio horario:** | <https://access-global.net/vba-horario-de-verano> | [Destello Cambio horario](/Destello%20Cambio%20horario)
+ **Destello Captura de firma:** | <https://access-global.net/vba-captura-de-firma/> | [Destello Captura de firma](/Destello%20Captura%20de%20firma)
  **Destello Captura Pantalla:** | <https://access-global.net/vba-captura-de-pantalla> | [Destello Captura Pantalla](/Destello%20Captura%20Pantalla)
  **Destello Cerrar formularios:** | <https://access-global.net/vba-cerrar-todos-los-formularios> | [Destello Cerrar formularios](/Destello%20Cerrar%20formularios)
  **Destello CheckInternet:** | <https://access-global.net/vba-tengo-conexion-a-internet> | [Destello CheckInternet](/Destello%20CheckInternet)
