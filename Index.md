@@ -144,6 +144,7 @@
  **Destello Transacciones:** | <https://access-global.net/vba-transacciones> | [Destello Transacciones](/Destello%20Transacciones)
  **Destello TreeView:** | <https://access-global.net/drag-drop-en-access> | [Destello TreeView](/Destello%20TreeView)
  **Destello Usar referencia ejecucion:** | <https://access-global.net/vba-utilizar-una%20referencia-en-tiempo-de-ejecucion> | [Destello Usar referencia ejecucion](/Destello%20Usar%20referencia%20ejecucion)
+ **Destello Vericar tarjeta:** | <https://access-global.net/vba-verificar-tarjeta-de-credito/> | [Destello Vericar tarjeta](/Destello%20Vericar%20tarjeta)
  **Destello Vincular tabla:** | <https://access-global.net/vba-vincular-mi-primera-tabla-de-access/> | [Destello Vincular tabla](/Destello%20Vincular%20tabla)
  **Destello WhatsApp:** | <https://access-global.net/vba-sencilla-forma-de-enviar-mensaje-de-whatsapp> | [Destello WhatsApp](/Destello%20WhatsApp)
  **Destello WizHook - GetTextLength:** | <https://access-global.net/wizhook-series-adaptar-un-cuadro-de-texto-a-su-contenido/> | [Destello WizHook - GetTextLength](/Destello%20WizHook%20-%20GetTextLength)
