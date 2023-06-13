@@ -1,5 +1,5 @@
 ﻿![Access-global](/blob/main/Images/Logo1.png)
-# Destello Vericar tarjeta
+# Destello Verificar tarjeta
 ## Enlace al artículo
 [https://access-global.net/vba-verificar-tarjeta-de-credito/](https://access-global.net/vba-verificar-tarjeta-de-credito/)
 ## Autor/es
