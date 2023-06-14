@@ -1,7 +1,7 @@
 ﻿![Access-global](/blob/main/Images/Logo1.png)
 # Destello ListBox personalizable
 ## Enlace al artículo
-[https://access-global.net/vba-cuadro-de-lista-personalizado/](https://access-global.net/vba-cuadro-de-lista-personalizado/)
+[https://access-global.net/vba-cuadro-de-lista-personalizable/](https://access-global.net/vba-cuadro-de-lista-personalizable/)
 ## Autor/es
 Luis Viadel | luisviadel@access-global.net
 ## Colaborador/es
