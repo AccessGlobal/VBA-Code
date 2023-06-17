@@ -11,4 +11,5 @@ Luis Viadel | luisviadel@access-global.net
 ## Descripción de la herramienta
 alinear a la derecha las columnas numéricas de un listbox
 
-
+## Nota
+Se incluye ejemplo descargable en formato zip
