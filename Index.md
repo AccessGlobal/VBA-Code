@@ -18,10 +18,11 @@
 
   **_Título_** | **_Artículo_** | **_Ruta_** 
  -----------|-------------------|--------------- 
- **Alinear Campo ListBox:** | <https://access-global.net/vba-alinear-campo-de-listbox-a-la-derecha/> | [Destello Alinear Campo ListBox](/Destello%20Alinear%20Campo%20ListBox)
+ **Alinear campo ListBox:** | <https://access-global.net/vba-alinear-campo-de-listbox-a-la-derecha/> | [Destello alinear campo ListBox](/Destello%20alinear%20campo%20ListBox)
  **AS EsBisiesto:** | <https://access-global.net/saber-si-un-ano-es-bisiesto/> | [AS_EsBisiesto](/AS_EsBisiesto)
  **Destello Abre form con info acceso:** | <https://access-global.net/vba-abre-un-formulario-con-informacion-de-tu-ultimo-acceso/> | [Destello Abre form con info acceso](/Destello%20Abre%20form%20con%20info%20acceso)
  **Destello Abrir fichero texto:** | <https://access-global.net/vba-metodo-opentextfile> | [Destello Abrir fichero texto](/Destello%20Abrir%20fichero%20texto)
+ **Destello Adaptar ListBox a contenido:** | <https://access-global.net/vba-adaptar-columnas-de-un-listbox-a-su-contenido/> | [Destello Adaptar ListBox a contenido](/Destello%20Adaptar%20ListBox%20a%20contenido)
  **Destello Bloquear cerrar access:** | <https://access-global.net/bloquear-cerrar-access/> | [Destello Bloquear_cerrar_access](/Destello%20Bloquear_cerrar_access)
  **Destello BracketString:** | <https://access-global.net/vba-bracketString/> | [Destello BracketString](/Destello%20BracketString)
  **Destello ByRef - ByVal:** | <https://access-global.net/vba-byval-vs-byref> | [Destello ByRef - ByVal](/Destello%20ByRef%20-%20ByVal)
