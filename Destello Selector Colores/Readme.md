@@ -11,4 +11,5 @@ Luis Viadel | luisviadel@access-global.net
 ## Descripción de la herramienta
 disponer de un selector de colores personalizado
 
-
+## NOTA:
+Incluye fichero zip con ejemplo. (Destello_343.zip)
