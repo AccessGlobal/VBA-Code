@@ -76,7 +76,7 @@ End Sub
 
 Private Sub btnP10_Click()
     
-    Me.P10.BackColor = SelecColor(Me.P10.BackColor)
+        Me.P10.BackColor = SelecColor(Me.P10.BackColor)
     
 End Sub
 
