@@ -10,7 +10,7 @@ Option Explicit
 ' Propósito         : mostrar el uso de todas las posibilidad del objeto FSO en un único ejemplo
 '-----------------------------------------------------------------------------------------------------------------------------------------------
 ' Referencia        : https://learn.microsoft.com/en-us/office/vba/language/reference/user-interface-help/filesystemobject-object
-' Más información   : diferentes funciones que recorren el PC del usuario y van creando un fichero de texto con todo lo que este contiene.
+' Más información   : Módulo con diferentes funciones que recorren el PC del usuario y van creando un fichero de texto con todo lo que este contiene.
 '                     - Directorios
 '                     - Carpetas
 '                     - Ficheros y sus propiedades
