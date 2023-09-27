@@ -26,9 +26,9 @@ Const ForWriting = 2
 Const ForAppending = 8
 Const TristateUseDefault = &HFFFFFFFE '-2
 
-Sub recorrePC()
+Sub RecorrePC()
 '-----------------------------------------------------------------------------------------------------------------------------------------------
-' Título            : recorrePC
+' Título            : RecorrePC
 ' Autor original    : Alba Salvá
 ' Creado            : diferentes fechas
 ' Propósito         : recorrer el PC del usuario extrayendo unidades y sus propiedades
@@ -139,9 +139,9 @@ Dim strMsg As String
     
 End Sub
 
-Sub recorreCarpetas(strCarpeta As String)
+Sub RecorreCarpetas(strCarpeta As String)
 '-----------------------------------------------------------------------------------------------------------------------------------------------
-' Título            : recorreCarpetas
+' Título            : RecorreCarpetas
 ' Autor original    : Alba Salvá
 ' Creado            : diferentes fechas
 ' Propósito         : recorrer las diferentes carpetas del PC del usuario extrayendo propiedades de las mismas, obteniendo así, el árbol de
@@ -308,9 +308,9 @@ Sub recorreCarpetas(strCarpeta As String)
 End Sub
 
 
-Function sacaAtributos(Atrib As Integer) As String
+Function SacaAtributos(Atrib As Integer) As String
 '-----------------------------------------------------------------------------------------------------------------------------------------------
-' Título            : sacaAtributos
+' Título            : SacaAtributos
 ' Autor original    : Alba Salvá
 ' Creado            : diferentes fechas
 ' Propósito         : extrayendo los atributos las diferentes carpetas. Se usa con la función "recorreCarpetas"
