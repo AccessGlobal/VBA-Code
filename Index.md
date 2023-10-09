@@ -49,6 +49,7 @@
  **Destello CopyFile:** | <https://access-global.net/vba-metodo-copyfile> | [Destello CopyFile](/Destello%20CopyFile)
  **Destello Crear ACCDE:** | <https://access-global.net/vba-crear-accde-en-tiempo-de-ejecucion> | [Destello Crear ACCDE](/Destello%20Crear%20ACCDE)
  **Destello Crear controles:** | <https://access-global.net/vba-evolucion-de-carga-artesano/> | [Destello Crear controles](/Destello%20Crear%20controles)
+ **Destello Crear Form Y Controles ejecución:** | <https://access-global.net/vba-crea-formulario-en-tiempo-de-ejecucion> | [Destello Crear Form Y Controles ejecución](/Destello%20Crear%20Form%20Y%20Controles%20ejecución)
  **Destello Crear Nuevo DSN:** | <https://access-global.net/vba-crear-modificar-o-eliminar-origen-de-datos-en-tiempo-de-ejecucion/> | [Destello Crear Nuevo DSN](/Destello%20Crear%20Nuevo%20DSN)
  **Destello Crear QR:** | <https://access-global.net/vba-la-forma-mas-sencilla-de-crear-un-codigo-qr/> | [Destello Crear QR](/Destello%20Crear%20QR)
  **Destello Cuenta atrás:** | <https://access-global.net/access-cuenta-atras/> | [Destello Cuenta atrás](/Destello%20Cuenta%20atrás)
