@@ -1,7 +1,7 @@
 'Módulo estándar 
 Public Function IsBlank(arg As Variant) As Boolean
 '-----------------------------------------------------------------------------------------------------------------------------------------------
-' Fuente            : https://access-global.net/vba-cadenas-nulas
+' Fuente            : https://access-global.net/vba-esta-vacio-es-blanco-es-nulo-se-ha-perdido/
 '                     Destello formativo 361
 '-----------------------------------------------------------------------------------------------------------------------------------------------
 ' Título            : IsBlank
