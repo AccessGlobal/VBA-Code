@@ -45,6 +45,7 @@
  **Destello Construir ruta:** | <https://access-global.net/vba-metodo-BuildPath> | [Destello Construir ruta](/Destello%20Construir%20ruta)
  **Destello Controlar tabla:** | <https://access-global.net/vba-crear-y-manipular-una-tabla-en-tiempo-de-ejecucion> | [Destello Controlar tabla](/Destello%20Controlar%20tabla)
  **Destello ControlarTablaSQL:** | <https://access-global.net/vba-crear-y-manipular-una-tabla-en-tiempo-de-ejecucion-runsql> | [Destello ControlarTablaSQL](/Destello%20ControlarTablaSQL)
+ **Destello Conversor Macros:** | <https://access-global.net/vba-convertir-macros-a-vba-sin-asistente/> | [Destello Conversor Macros](/Destello%20Conversor%20Macros)
  **Destello Convertir PDF a Word:** | <https://access-global.net/vba-convertir-pdf-a-word> | [Destello Convertir PDF a Word](/Destello%20Convertir%20PDF%20a%20Word)
  **Destello CopyFile:** | <https://access-global.net/vba-metodo-copyfile> | [Destello CopyFile](/Destello%20CopyFile)
  **Destello Crear ACCDE:** | <https://access-global.net/vba-crear-accde-en-tiempo-de-ejecucion> | [Destello Crear ACCDE](/Destello%20Crear%20ACCDE)
