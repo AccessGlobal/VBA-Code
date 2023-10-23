@@ -247,17 +247,17 @@ Sub CierraTodosObjetos()
 '-----------------------------------------------------------------------------------------------------------------------------------------------
 Dim obj As Object
 
-    For Each obj In Application.CurrentProject.AllForms
-        If obj.IsLoaded = True Then
-            DoCmd.Close acForm, obj.Name, acSaveNo
-        End If
-    Next obj
-    
     For Each obj In Application.CurrentProject.AllReports
         If obj.IsLoaded = True Then
             DoCmd.Close acReport, obj.Name, acSaveNo
         End If
     Next
+
+    For Each obj In Application.CurrentProject.AllForms
+        If obj.IsLoaded = True Then
+            DoCmd.Close acForm, obj.Name, acSaveNo
+        End If
+    Next obj
        
     Set obj = Nothing
     

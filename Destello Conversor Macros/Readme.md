@@ -11,4 +11,4 @@ Alba Salvá // Alba Salvá
 ## Descripción de la herramienta
 pasar todas las macros a código VBA
 
-
+Se incluye BBDD de ejemplo.

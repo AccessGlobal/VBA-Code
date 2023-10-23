@@ -9,6 +9,5 @@ Cargar_tree.vba
 Index copy.md
 VBA-Code.code-workspace
 Generador_Backup.accdb
-*.accdb
 *.bak
 .vscode/*.*
