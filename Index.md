@@ -55,6 +55,7 @@
  **Destello Crear QR:** | <https://access-global.net/vba-la-forma-mas-sencilla-de-crear-un-codigo-qr/> | [Destello Crear QR](/Destello%20Crear%20QR)
  **Destello Cuenta atrás:** | <https://access-global.net/access-cuenta-atras/> | [Destello Cuenta atrás](/Destello%20Cuenta%20atrás)
  **Destello Dato en ListBox:** | <https://access-global.net/vba-Seleccionar-un-dato-concreto-de-un-listbox/> | [Destello Dato en ListBox](/Destello%20Dato%20en%20ListBox)
+ **Destello Datos Temporales:** | <https://access-global.net/vba-datos-temporales/> | [Destello Datos Temporales](/Destello%20Datos%20Temporales)
  **Destello Descarga Versión:** | <https://access-global.net/vba-mas-sobre-la-descarga-de-archivos> | [Destello Descarga Versión](/Destello%20Descarga%20Versión)
  **Destello Desvincular tabla:** | <https://access-global.net/vba-desvincular-mi-primera-tabla-de-access/> | [Destello Desvincular tabla](/Destello%20Desvincular%20tabla)
  **Destello dimensiones de ventanas y formularios:** | <https://access-global.net/vba-dimensiones-de-ventanas-y-formularios> | [Destello dimensiones de ventanas y formularios](/Destello%20dimensiones%20de%20ventanas%20y%20formularios)
