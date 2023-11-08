@@ -11,4 +11,4 @@ Luis Viadel | https://cowtechnologies.net | luisviadel@cowtechnologies.net
 ## Descripción de la herramienta
 trabajar con tablas temporales para crear consultas complejas
 
-
+Se incluye fichero zip: Destello_formativo_374.zip
