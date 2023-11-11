@@ -132,6 +132,7 @@
  **Destello Mover formulario:** | <https://access-global.net/diseno-mover-formulario> | [Destello Mover_formulario](/Destello%20Mover_formulario)
  **Destello Mundo de las APIs:** | <https://access-global.net/vba-el-fascinante-mundo-de-las-api> | [Destello Mundo de las APIs](/Destello%20Mundo%20de%20las%20APIs)
  **Destello Notificaciones Pop-Up:** | <https://access-global.net/vba-notificaciones-popup> | [Destello Notificaciones Pop-Up](/Destello%20Notificaciones%20Pop-Up)
+ **Destello Nube etiquetas:** | <https://access-global.net/vba-nube-de-etiquetas/> | [Destello Nube etiquetas](/Destello%20Nube%20etiquetas)
  **Destello Números aleatorios:** | <https://access-global.net/vba-numeros-aleatorios> | [Destello Números aleatorios](/Destello%20Números%20aleatorios)
  **Destello Objeto Err:** | <https://access-global.net/tratamiento-de-errores-objeto-err> | [Destello Objeto Err](/Destello%20Objeto%20Err)
  **Destello Obtener código:** | <https://access-global.net/vbide-obtener-codigo/> | [Destello Obtener código](/Destello%20Obtener%20código)
