@@ -1,7 +1,7 @@
 ﻿![Access-global](/blob/main/Images/Logo1.png)
 # Destello Buscar carpeta
 ## Enlace al artículo
-[https://access-global.net/vba-busca-carpetas/](https://access-global.net/vba-busca-carpetas/)
+[https://access-global.net/vba-busca-carpeta/](https://access-global.net/vba-busca-carpeta/)
 ## Autor/es
 desconocido
 ## Colaborador/es

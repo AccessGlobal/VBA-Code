@@ -26,7 +26,7 @@
  **Destello Auditoría:** | <https://access-global.net/access-auditoria/> | [Destello Auditoría](/Destello%20Auditoría)
  **Destello Bloquear cerrar access:** | <https://access-global.net/bloquear-cerrar-access/> | [Destello Bloquear_cerrar_access](/Destello%20Bloquear_cerrar_access)
  **Destello BracketString:** | <https://access-global.net/vba-bracketString/> | [Destello BracketString](/Destello%20BracketString)
- **Destello Buscar carpeta:** | <https://access-global.net/vba-busca-carpetas/> | [Destello Buscar carpeta](/Destello%20Buscar%20carpeta)
+ **Destello Buscar carpeta:** | <https://access-global.net/vba-busca-carpeta/> | [Destello Buscar carpeta](/Destello%20Buscar%20carpeta)
  **Destello ByRef - ByVal:** | <https://access-global.net/vba-byval-vs-byref> | [Destello ByRef - ByVal](/Destello%20ByRef%20-%20ByVal)
  **Destello Cabecera modulo:** | <https://access-global.net/vba-cabecera-de-modulo> | [Destello Cabecera modulo](/Destello%20Cabecera%20modulo)
  **Destello Calcular DNI:** | <https://access-global.net/vba-comprueba-un-dni-o-un-nie> | [Destello Calcular DNI](/Destello%20Calcular%20DNI)
