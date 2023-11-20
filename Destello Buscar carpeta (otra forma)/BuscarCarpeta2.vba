@@ -3,7 +3,7 @@ Option Explicit
 
 Function BrowseFolder(Inicio As String) As String
 '-----------------------------------------------------------------------------------------------------------------------------------------------
-' Fuente            : https://access-global.net/vba-busca-carpeta-otra-vez/
+' Fuente            : https://access-global.net/vba-busca-carpeta-de-otra-forma/
 '                     Destello formativo 381
 '-----------------------------------------------------------------------------------------------------------------------------------------------
 ' Título            : BrowseFolder
