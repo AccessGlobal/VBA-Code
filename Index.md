@@ -127,6 +127,7 @@
  **Destello ListBox personalizable:** | <https://access-global.net/vba-cuadro-de-lista-personalizable/> | [Destello ListBox personalizable](/Destello%20ListBox%20personalizable)
  **Destello ListBox selección múltiple:** | <https://access-global.net/access-cuadro-de-lista-con-seleccion-multiple/> | [Destello ListBox selección múltiple](/Destello%20ListBox%20selección%20múltiple)
  **Destello Macros embebidas:** | <https://access-global.net/vba-comprobar-macros-incrustadas/> | [Destello Macros embebidas](/Destello%20Macros%20embebidas)
+ **Destello Manejar datos adjuntos:** | <https://access-global.net/vba-como-manejar-el-tipo-datos-adjuntos-mediante-vba/> | [Destello Manejar datos adjuntos](/Destello%20Manejar%20datos%20adjuntos)
  **Destello Minicalendario:** | <https://access-global.net/access-minicalendario/> | [Destello Minicalendario](/Destello%20Minicalendario)
  **Destello Moda - Mediana:** | <https://access-global.net/vba-moda-mediana-y-algo-mas> | [Destello Moda - Mediana](/Destello%20Moda%20-%20Mediana)
  **Destello Modificar ratón:** | <https://access-global.net/diseno-crea-tu-propio-icono-de-raton> | [Destello Modificar_ratón](/Destello%20Modificar_ratón)
