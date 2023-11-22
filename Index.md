@@ -121,6 +121,7 @@
  **Destello IDE4 - Complementos 1 (Listar):** | <https://access-global.net/vbide-series-complementos-listar-complementos/> | [Destello IDE4 - Complementos 1 (Listar)](/Destello%20IDE4%20-%20Complementos%201%20(Listar))
  **Destello IDE4 - Complementos 2 (Conectar-desconectar):** | <https://access-global.net/vbide-series-complementos-conectar-y-desconectar-complementos> | [Destello IDE4 - Complementos 2 (Conectar-desconectar)](/Destello%20IDE4%20-%20Complementos%202%20(Conectar-desconectar))
  **Destello IDE5 - Modulos Anexo 1:** | <https://access-global.net/vbide-otros-ejemplos-tipos-de-modulo-segun-contenido/> | [Destello IDE5 - Modulos Anexo 1](/Destello%20IDE5%20-%20Modulos%20Anexo%201)
+ **Destello Imagemagick:** | <https://access-global.net/access-imagemagick/> | [Destello Imagemagick](/Destello%20Imagemagick)
  **Destello instalar fuente:** | <https://access-global.net/vba-nueva-fuente> | [Destello instalar fuente](/Destello%20instalar%20fuente)
  **Destello Join Array:** | <https://access-global.net/vba-funcion-join> | [Destello Join Array](/Destello%20Join%20Array)
  **Destello Kill Access:** | <https://access-global.net/access-kill-access> | [Destello Kill Access](/Destello%20Kill%20Access)
