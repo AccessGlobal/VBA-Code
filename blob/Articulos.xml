@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Articulos.xsd" generated="2023-11-29T20:11:03">
+<Articulos>
+<Tipo>1</Tipo>
+<Num>1</Num>
+<Titulo>MasterClass ListBox dinámicos:</Titulo>
+<Articulo>#https://access-global.net/listbox-dinamicos/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>1</Tipo>
+<Num>2</Num>
+<Titulo>MasterClass Drag&amp;Drop:</Titulo>
+<Articulo>#https://access-global.net/drag-drop-en-access#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>1</Tipo>
+<Num>3</Num>
+<Titulo>MasterClass MsgBox personalizado:</Titulo>
+<Articulo>#https://access-global.net/msgbox-personalizado/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>1</Num>
+<Titulo>Destello Fechas semana:</Titulo>
+<Articulo>#https://access-global.net/obtener-la-fecha-del-primer-dia-de-la-semana-o-ultimo-dia-de-la-semana-en-access-vba/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>28</Num>
+<Titulo>Destello envío correo HTML:</Titulo>
+<Articulo>#https://access-global.net/diseno-enviar-bonitos-correos-en-html/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>29</Num>
+<Titulo>Destello Kill Access:</Titulo>
+<Articulo>#https://access-global.net/access-kill-access#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>32</Num>
+<Titulo>Destello Ocultar Access:</Titulo>
+<Articulo>#https://access-global.net/access-ocultar-access/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>33</Num>
+<Titulo>Destello Bloquear cerrar access:</Titulo>
+<Articulo>#https://access-global.net/bloquear-cerrar-access/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>35</Num>
+<Titulo>Destello Ocultar maximizar:</Titulo>
+<Articulo>#https://access-global.net/ocultar-maximizar-access/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>40</Num>
+<Titulo>AS EsBisiesto:</Titulo>
+<Articulo>#https://access-global.net/saber-si-un-ano-es-bisiesto/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>43</Num>
+<Titulo>Destello Minicalendario:</Titulo>
+<Articulo>#https://access-global.net/access-minicalendario/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>44</Num>
+<Titulo>Destello Efectos Forms:</Titulo>
+<Articulo>#https://access-global.net/diseno-efectos-ventana/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>50</Num>
+<Titulo>Destello Estado formulario:</Titulo>
+<Articulo>#https://access-global.net/vba-estado-de-un-formulario/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>70</Num>
+<Titulo>Destello Mover formulario:</Titulo>
+<Articulo>#https://access-global.net/diseno-mover-formulario#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>71</Num>
+<Titulo>Destello Freefile:</Titulo>
+<Articulo>#https://access-global.net/vba-freefile-function#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>72</Num>
+<Titulo>Destello WhatsApp:</Titulo>
+<Articulo>#https://access-global.net/vba-sencilla-forma-de-enviar-mensaje-de-whatsapp#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>74</Num>
+<Titulo>Destello CheckInternet:</Titulo>
+<Articulo>#https://access-global.net/vba-tengo-conexion-a-internet#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>79</Num>
+<Titulo>Destello Posicionar form:</Titulo>
+<Articulo>#https://access-global.net/access-redimensionar-y-posicionar-formulario#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>82</Num>
+<Titulo>Destello Sonido en App:</Titulo>
+<Articulo>#https://access-global.net/vba-sonido-en-mi-app#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>83</Num>
+<Titulo>Destello Modificar ratón:</Titulo>
+<Articulo>#https://access-global.net/diseno-crea-tu-propio-icono-de-raton#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>84</Num>
+<Titulo>Destello Cabecera modulo:</Titulo>
+<Articulo>#https://access-global.net/vba-cabecera-de-modulo#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>86</Num>
+<Titulo>Destello Cambio horario:</Titulo>
+<Articulo>#https://access-global.net/vba-horario-de-verano#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>90</Num>
+<Titulo>Destello Emoticonos:</Titulo>
+<Articulo>#https://access-global.net/diseno-utiliza-emoticonos-en-tus-aplicaciones#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>93</Num>
+<Titulo>Destello Pluralize:</Titulo>
+<Articulo>#https://access-global.net/vba-funcion-pluralize-by-mike-wolfe/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>94</Num>
+<Titulo>Destello ListBox selección múltiple:</Titulo>
+<Articulo>#https://access-global.net/access-cuadro-de-lista-con-seleccion-multiple/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>96</Num>
+<Titulo>Destello Semana fecha:</Titulo>
+<Articulo>#https://access-global.net/vba-en-que-semana-estamos#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>97</Num>
+<Titulo>Destello función StrPtr:</Titulo>
+<Articulo>#https://access-global.net/vba-controlar-respuesta-inputbox/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>98</Num>
+<Titulo>Destello habla:</Titulo>
+<Articulo>#https://access-global.net/access-que-te-lo-diga-access#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>109</Num>
+<Titulo>Destello Ocultar Minimizar Access:</Titulo>
+<Articulo>#https://access-global.net/vba-ocultar-minimizar-access/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>112</Num>
+<Titulo>Destello Es 64 bits:</Titulo>
+<Articulo>#https://access-global.net/vba-es-accde#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>114</Num>
+<Titulo>Destello Hora decimal:</Titulo>
+<Articulo>#https://access-global.net/vba-convertir-hora-en-decimal#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>120</Num>
+<Titulo>Destello ShellExecute:</Titulo>
+<Articulo>#https://access-global.net/vba-shellexecute#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>129</Num>
+<Titulo>Destello Filtros por form:</Titulo>
+<Articulo>#https://access-global.net/vba-gestionamos-el-filtro-por-formulario#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>130</Num>
+<Titulo>Destello Codigo Postal Google:</Titulo>
+<Articulo>#https://access-global.net/vba-conocer-codigo-postal-y-coordenadas-con-la-api-de-google-maps#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>131</Num>
+<Titulo>Destello Distancia entre coordenadas:</Titulo>
+<Articulo>#https://access-global.net/vba-google-maps-api-calcular-la-distancia-entre-dos-coordenadas#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>132</Num>
+<Titulo>Destello Distancia Pitagoras:</Titulo>
+<Articulo>#https://access-global.net/vba-google-maps-api-calcular-la-distancia-entre-dos-coordenadas-pitagoras#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>133</Num>
+<Titulo>Destello distancia Vicenty:</Titulo>
+<Articulo>#https://access-global.net/vba-google-maps-api-calcular-la-distancia-entre-dos-coordenadas-vincenty#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>135</Num>
+<Titulo>Destello Pausar codigo:</Titulo>
+<Articulo>#https://access-global.net/vba-la-forma-mas-eficiente-de-pausar-el-codigo#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>140</Num>
+<Titulo>Destello Form redondo:</Titulo>
+<Articulo>#https://access-global.net/diseno-formularios-redondos#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>143</Num>
+<Titulo>Destello Exporta Excel:</Titulo>
+<Articulo>#https://access-global.net/access-exportar-contenido-de-un-recordset-a-excel-copyfromrecordset#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>147</Num>
+<Titulo>Destello Sólo números:</Titulo>
+<Articulo>#https://access-global.net/vba-estas-obligado-a-escribir-solo-numeros#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>148</Num>
+<Titulo>Destello Enviar a papelera:</Titulo>
+<Articulo>#https://access-global.net/vba-enviar-fichero-a-la-papelera#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>149</Num>
+<Titulo>Destello Captura Pantalla:</Titulo>
+<Articulo>#https://access-global.net/vba-captura-de-pantalla#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>150</Num>
+<Titulo>Destello Recupera papelera:</Titulo>
+<Articulo>#https://access-global.net/vba-recuperar-el-fichero-enviado-a-la-papelera#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>151</Num>
+<Titulo>Destello GetCapsLock:</Titulo>
+<Articulo>#https://access-global.net/vba-detectar-capslock#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>152</Num>
+<Titulo>Destello GetAttr:</Titulo>
+<Articulo>#https://access-global.net/vba-getattr#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>157</Num>
+<Titulo>Destello Ordenar formularios:</Titulo>
+<Articulo>#https://access-global.net/vba-una-funcion-para-ordenar-todos-los-formularios#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>158</Num>
+<Titulo>Destello Obtener IP pública:</Titulo>
+<Articulo>#https://access-global.net/vba-obtener-mi-ip-publica#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>159</Num>
+<Titulo>Destello Obtener IP local:</Titulo>
+<Articulo>#https://access-global.net/vba-obtener-mi-ip-local#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>160</Num>
+<Titulo>Destello Existe fichero:</Titulo>
+<Articulo>#https://access-global.net/vba-metodo-fileexists#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>161</Num>
+<Titulo>Destello Existe carpeta:</Titulo>
+<Articulo>#https://access-global.net/vba-metodo-folderexists#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>162</Num>
+<Titulo>Destello ParentFolder:</Titulo>
+<Articulo>#https://access-global.net/vba-metodo-GetParentFolderName#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>163</Num>
+<Titulo>Destello GetExtensioName:</Titulo>
+<Articulo>#https://access-global.net/vba-metodo-GetExtensionName#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>164</Num>
+<Titulo>Destello Construir ruta:</Titulo>
+<Articulo>#https://access-global.net/vba-metodo-BuildPath#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>165</Num>
+<Titulo>Destello CopyFile:</Titulo>
+<Articulo>#https://access-global.net/vba-metodo-copyfile#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>169</Num>
+<Titulo>Destello GetFolder:</Titulo>
+<Articulo>#https://access-global.net/vba-metodo-getfolder#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>170</Num>
+<Titulo>Destello Getfolder-Subfolders:</Titulo>
+<Articulo>#https://access-global.net/vba-metodo-getfolder-subfolders#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>171</Num>
+<Titulo>Destello Getfolder-IsRootFolder:</Titulo>
+<Articulo>#https://access-global.net/vba-metodo-getfolder-IsRootFolder-ParentFolder#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>175</Num>
+<Titulo>Destello Listar Unidades disco:</Titulo>
+<Articulo>#https://access-global.net/vba-listar-unidades-de-disco#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>176</Num>
+<Titulo>Destello Cerrar formularios:</Titulo>
+<Articulo>#https://access-global.net/vba-cerrar-todos-los-formularios#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>177</Num>
+<Titulo>Destello Abrir fichero texto:</Titulo>
+<Articulo>#https://access-global.net/vba-metodo-opentextfile#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>178</Num>
+<Titulo>Destello Efectos Wipe y Shrink:</Titulo>
+<Articulo>#https://access-global.net/diseno-efectos-wipe-y-shrink#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>179</Num>
+<Titulo>Destello Configurar usuario:</Titulo>
+<Articulo>#https://access-global.net/vba-metodo-createtextfile#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>180</Num>
+<Titulo>Destello Recupera config usuario:</Titulo>
+<Articulo>#https://access-global.net/vba-declaracion-open#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>181</Num>
+<Titulo>Destello Listar ficheros propiedades:</Titulo>
+<Articulo>#https://access-global.net/vba-coleccion-files#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>184</Num>
+<Titulo>Destello Calcular DNI:</Titulo>
+<Articulo>#https://access-global.net/vba-comprueba-un-dni-o-un-nie#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>187</Num>
+<Titulo>Destello ComboBox dependientes:</Titulo>
+<Articulo>#https://access-global.net/access-combos-dependientes#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>189</Num>
+<Titulo>Destello FSO completo:</Titulo>
+<Articulo>#https://access-global.net/vba-objeto-fso-recopilacion#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>190</Num>
+<Titulo>Destello instalar fuente:</Titulo>
+<Articulo>#https://access-global.net/vba-nueva-fuente#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>191</Num>
+<Titulo>Destello Controlar tabla:</Titulo>
+<Articulo>#https://access-global.net/vba-crear-y-manipular-una-tabla-en-tiempo-de-ejecucion#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>192</Num>
+<Titulo>Destello Notificaciones Pop-Up:</Titulo>
+<Articulo>#https://access-global.net/vba-notificaciones-popup#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>193</Num>
+<Titulo>Destello ControlarTablaSQL:</Titulo>
+<Articulo>#https://access-global.net/vba-crear-y-manipular-una-tabla-en-tiempo-de-ejecucion-runsql#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>194</Num>
+<Titulo>Destello Convertir PDF a Word:</Titulo>
+<Articulo>#https://access-global.net/vba-convertir-pdf-a-word#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>202</Num>
+<Titulo>Destello Recuento De Registros:</Titulo>
+<Articulo>#https://access-global.net/vba-contar-registros#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>218</Num>
+<Titulo>Destello TreeView:</Titulo>
+<Articulo>#https://access-global.net/drag-drop-en-access#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>223</Num>
+<Titulo>Destello Cuenta atrás:</Titulo>
+<Articulo>#https://access-global.net/access-cuenta-atras/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>228</Num>
+<Titulo>Destello Mundo de las APIs:</Titulo>
+<Articulo>#https://access-global.net/vba-el-fascinante-mundo-de-las-api#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>240</Num>
+<Titulo>Destello Transacciones:</Titulo>
+<Articulo>#https://access-global.net/vba-transacciones#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>246</Num>
+<Titulo>Destello dimensiones de ventanas y formularios:</Titulo>
+<Articulo>#https://access-global.net/vba-dimensiones-de-ventanas-y-formularios#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>248</Num>
+<Titulo>Destello FTP con Access:</Titulo>
+<Articulo>#https://access-global.net/vba-ftp-con-access#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>249</Num>
+<Titulo>Destello Descarga Versión:</Titulo>
+<Articulo>#https://access-global.net/vba-mas-sobre-la-descarga-de-archivos#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>250</Num>
+<Titulo>Destello Colores:</Titulo>
+<Articulo>#https://access-global.net/vba-descubre-los-colores#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>252</Num>
+<Titulo>Destello Usar referencia ejecucion:</Titulo>
+<Articulo>#https://access-global.net/vba-utilizar-una%20referencia-en-tiempo-de-ejecucion#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>254</Num>
+<Titulo>Destello IDE1 - Referencias 1 ( Listar ):</Titulo>
+<Articulo>#https://access-global.net/vbide-series-referencias-listar-referencias/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>255</Num>
+<Titulo>Destello IDE1 - Referencias 2 (Verificar):</Titulo>
+<Articulo>#https://access-global.net/vbide-series-referencias-verificar-la-existencia-de-una-referencia#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>256</Num>
+<Titulo>Destello IDE1 - Referencias 3 (Agregar):</Titulo>
+<Articulo>#https://access-global.net/vbide-series-referencias-agregar-referencias#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>257</Num>
+<Titulo>Destello IDE1 - Referencias 4 (Borrar):</Titulo>
+<Articulo>#https://access-global.net/vbide-series-referencias-eliminar-referencias#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>258</Num>
+<Titulo>Destello Reinicio Access:</Titulo>
+<Articulo>#https://access-global.net/vba-reiniciar-ms-access#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>259</Num>
+<Titulo>Destello IDE2 - Modulos 1 (Listar):</Titulo>
+<Articulo>#https://access-global.net/vbide-series-modulos-listar-modulos/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>260</Num>
+<Titulo>Destello IDE2 - Modulos 2 (Agregar):</Titulo>
+<Articulo>#https://access-global.net/vbide-series-modulos-agregar-modulo/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>261</Num>
+<Titulo>Destello IDE2 - Modulos 3 (Eliminar):</Titulo>
+<Articulo>#https://access-global.net/vbide-series-modulos-borrar-modulo/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>262</Num>
+<Titulo>Destello IDE2 - Modulos 4 (Renombrar):</Titulo>
+<Articulo>#https://access-global.net/vbide-series-modulos-renombrar-modulo/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>263</Num>
+<Titulo>Destello IDE2 - Modulos 5 (Exportar):</Titulo>
+<Articulo>#https://access-global.net/vbide-series-modulos-exportar-modulo/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>264</Num>
+<Titulo>Destello IDE3 - Procedimientos 1 (Listar):</Titulo>
+<Articulo>#https://access-global.net/vbide-series-procedimientos-listar-procedimientos/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>265</Num>
+<Titulo>Destello IDE3 - Procedimientos 2 (Agregar):</Titulo>
+<Articulo>#https://access-global.net/vbide-series-procedimientos-agregar-procedimientos/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>266</Num>
+<Titulo>Destello IDE3 - Procedimientos 3 (Borrar):</Titulo>
+<Articulo>#https://access-global.net/vbide-series-procedimientos-borrar-procedimiento/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>267</Num>
+<Titulo>Destello IDE3 - Procedimientos 4 (Eventos):</Titulo>
+<Articulo>#https://access-global.net/vbide-series-procedimientos-cambiamos-el-evento-click-de-un-boton-en-tiempo-de-ejecucion/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>268</Num>
+<Titulo>Destello IDE3 -Procedimientos 5 (Final):</Titulo>
+<Articulo>#https://access-global.net/vbide-series-procedimientos-consideraciones-finales-y-una-funcion-inutil#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>269</Num>
+<Titulo>Destello IDE4 - Complementos 1 (Listar):</Titulo>
+<Articulo>#https://access-global.net/vbide-series-complementos-listar-complementos/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>270</Num>
+<Titulo>Destello IDE4 - Complementos 2 (Conectar-desconectar):</Titulo>
+<Articulo>#https://access-global.net/vbide-series-complementos-conectar-y-desconectar-complementos#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>271</Num>
+<Titulo>Destello Complementos Access:</Titulo>
+<Articulo>#https://access-global.net/vba-complementos-de-access#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>272</Num>
+<Titulo>Destello IDE5 - Modulos Anexo 1:</Titulo>
+<Articulo>#https://access-global.net/vbide-otros-ejemplos-tipos-de-modulo-segun-contenido/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>273</Num>
+<Titulo>Destello ByRef - ByVal:</Titulo>
+<Articulo>#https://access-global.net/vba-byval-vs-byref#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>274</Num>
+<Titulo>Destello Proteger proyecto:</Titulo>
+<Articulo>#https://access-global.net/vba-proteger-proyecto/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>277</Num>
+<Titulo>Destello Vincular tabla:</Titulo>
+<Articulo>#https://access-global.net/vba-vincular-mi-primera-tabla-de-access/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>279</Num>
+<Titulo>Destello Desvincular tabla:</Titulo>
+<Articulo>#https://access-global.net/vba-desvincular-mi-primera-tabla-de-access/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>280</Num>
+<Titulo>Destello Ocultar tabla:</Titulo>
+<Articulo>#https://access-global.net/vba-donde-esta-mi-tabla</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>287</Num>
+<Titulo>Destello BracketString:</Titulo>
+<Articulo>#https://access-global.net/vba-bracketString/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>288</Num>
+<Titulo>Destello Funciones Dominio Alba:</Titulo>
+<Articulo>#https://access-global.net/funciones-de-dominio-de-alba/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>289</Num>
+<Titulo>Destello Moda - Mediana:</Titulo>
+<Articulo>#https://access-global.net/vba-moda-mediana-y-algo-mas</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>290</Num>
+<Titulo>Destello Hay control errores:</Titulo>
+<Articulo>#https://access-global.net/mis-procedimientos-tienen-tratamiento-de-errores</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>291</Num>
+<Titulo>Destello Objeto Err:</Titulo>
+<Articulo>#https://access-global.net/tratamiento-de-errores-objeto-err</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>296</Num>
+<Titulo>Destello Error Personalizado:</Titulo>
+<Articulo>#https://access-global.net/tratamiento-de-errores-errores-personalizados</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>299</Num>
+<Titulo>Destello Error Handling API:</Titulo>
+<Articulo>#https://access-global.net/error-handling-api</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>300</Num>
+<Titulo>Destello Comprueba Cuenta Bancaria</Titulo>
+<Articulo>#https://access-global.net/vba-vba-verificacion-de-una-cuenta-bancaria/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>301</Num>
+<Titulo>Destello Total lineas:</Titulo>
+<Articulo>#https://access-global.net/vbide-verificar-si-una-linea-es-un-comentario/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>302</Num>
+<Titulo>Destello Obtener código:</Titulo>
+<Articulo>#https://access-global.net/vbide-obtener-codigo/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>303</Num>
+<Titulo>Destello form abierto:</Titulo>
+<Articulo>#https://access-global.net/vba-esta-abierto-el-formulario/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>304</Num>
+<Titulo>Destello Macros embebidas:</Titulo>
+<Articulo>#https://access-global.net/vba-comprobar-macros-incrustadas/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>305</Num>
+<Titulo>Destello Calendario:</Titulo>
+<Articulo>#https://access-global.net/vbide-sencillo-y-rapido-calendario-personalizado/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>306</Num>
+<Titulo>Destello Funciones de Dominio Remoto:</Titulo>
+<Articulo>#https://access-global.net/vba-funciones-de-dominio-de-alba-funciones-remotas</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>307</Num>
+<Titulo>Destello Crear ACCDE:</Titulo>
+<Articulo>#https://access-global.net/vba-crear-accde-en-tiempo-de-ejecucion</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>311</Num>
+<Titulo>Destello Abre form con info acceso:</Titulo>
+<Articulo>#https://access-global.net/vba-abre-un-formulario-con-informacion-de-tu-ultimo-acceso/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>313</Num>
+<Titulo>Destello Crear Nuevo DSN:</Titulo>
+<Articulo>#https://access-global.net/vba-crear-modificar-o-eliminar-origen-de-datos-en-tiempo-de-ejecucion/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>314</Num>
+<Titulo>Destello WizHook - SortArray:</Titulo>
+<Articulo>#https://access-global.net/vba-vba-ordenar-los-elementos-de-una-matriz-con-una-linea-de-codigo/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>315</Num>
+<Titulo>Destello WizHook - MsgBox:</Titulo>
+<Articulo>#https://access-global.net/Wizhook-series-WizMsgBox/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>316</Num>
+<Titulo>Destello WizHook 3 métodos para cerrar una base de datos:</Titulo>
+<Articulo>#https://access-global.net/wizhook-series-3-metodos-para-cerrar-una-base-de-datos-y-wizhook/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>317</Num>
+<Titulo>Destello WizHook - GetTextLength:</Titulo>
+<Articulo>#https://access-global.net/wizhook-series-adaptar-un-cuadro-de-texto-a-su-contenido/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>320</Num>
+<Titulo>Destello Función LOC:</Titulo>
+<Articulo>#https://access-global.net/vba-funcion-loc/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>321</Num>
+<Titulo>Destello Estadísticas VBIDE:</Titulo>
+<Articulo>#https://access-global.net/vbide-series-</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>324</Num>
+<Titulo>Destello Clase ErrorHandler:</Titulo>
+<Articulo>#https://access-global.net/vba-clsErrorHandler/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>329</Num>
+<Titulo>Destello Crear QR:</Titulo>
+<Articulo>#https://access-global.net/vba-la-forma-mas-sencilla-de-crear-un-codigo-qr/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>334</Num>
+<Titulo>Destello forms superpuestos:</Titulo>
+<Articulo>#https://access-global.net/vba-formularios-emergentes-superpuestos/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>336</Num>
+<Titulo>Destello Extraer email:</Titulo>
+<Articulo>#https://access-global.net/vba-extraer-email-de-una-cadena-de-texto/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>337</Num>
+<Titulo>Destello Captura de firma:</Titulo>
+<Articulo>#https://access-global.net/vba-captura-de-firma/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>338</Num>
+<Titulo>Destello Verificar tarjeta:</Titulo>
+<Articulo>#https://access-global.net/vba-verificar-tarjeta-de-credito/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>340</Num>
+<Titulo>Destello ListBox personalizable:</Titulo>
+<Articulo>#https://access-global.net/vba-cuadro-de-lista-personalizable/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>341</Num>
+<Titulo>Alinear campo ListBox:</Titulo>
+<Articulo>#https://access-global.net/vba-alinear-campo-de-listbox-a-la-derecha/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>342</Num>
+<Titulo>Destello Adaptar ListBox a contenido:</Titulo>
+<Articulo>#https://access-global.net/vba-adaptar-columnas-de-un-listbox-a-su-contenido/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>343</Num>
+<Titulo>Destello Selector Colores:</Titulo>
+<Articulo>#https://access-global.net/access-mi-selector-de-colores/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>348</Num>
+<Titulo>Destello Auditoría:</Titulo>
+<Articulo>#https://access-global.net/access-auditoria/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>349</Num>
+<Titulo>Destello Dato en ListBox:</Titulo>
+<Articulo>#https://access-global.net/vba-Seleccionar-un-dato-concreto-de-un-listbox/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>350</Num>
+<Titulo>Destello Evolución Carga:</Titulo>
+<Articulo>#https://access-global.net/vba-evolucion-de-carga-artesano/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>356</Num>
+<Titulo>Destello Crear controles:</Titulo>
+<Articulo>#https://access-global.net/vba-evolucion-de-carga-artesano/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>358</Num>
+<Titulo>Destello Formato condicional en ejecución:</Titulo>
+<Articulo>#https://access-global.net/vba-formato-condicionalen-tiempo-de-ejecucion/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>359</Num>
+<Titulo>Destello Crear Form Y Controles ejecución:</Titulo>
+<Articulo>#https://access-global.net/vba-crea-formulario-en-tiempo-de-ejecucion</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>361</Num>
+<Titulo>Destello Vacío, Blanco, Nulo:</Titulo>
+<Articulo>#https://access-global.net/vba-esta-vacio-es-blanco-es-nulo-se-ha-perdido/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>362</Num>
+<Titulo>Destello Números aleatorios:</Titulo>
+<Articulo>#https://access-global.net/vba-numeros-aleatorios</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>363</Num>
+<Titulo>Destello Join Array:</Titulo>
+<Articulo>#https://access-global.net/vba-funcion-join</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>366</Num>
+<Titulo>Destello Conversor Macros:</Titulo>
+<Articulo>#https://access-global.net/vba-convertir-macros-a-vba-sin-asistente/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>371</Num>
+<Titulo>Destello Datos Temporales:</Titulo>
+<Articulo>#https://access-global.net/vba-datos-temporales/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>373</Num>
+<Titulo>Destello Color Treeview:</Titulo>
+<Articulo>#https://access-global.net/vba-cambiar-color-de-treeview/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>374</Num>
+<Titulo>Destello Consultas complejas:</Titulo>
+<Articulo>#https://access-global.net/access-consultas-complejas</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>377</Num>
+<Titulo>Destello Nube etiquetas:</Titulo>
+<Articulo>#https://access-global.net/vba-nube-de-etiquetas/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>380</Num>
+<Titulo>Destello Buscar carpeta:</Titulo>
+<Articulo>#https://access-global.net/vba-busca-carpeta/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>381</Num>
+<Titulo>Destello Buscar carpeta (otra forma):</Titulo>
+<Articulo>#https://access-global.net/vba-busca-carpeta-de-otra-forma/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>382</Num>
+<Titulo>Destello Manejar datos adjuntos:</Titulo>
+<Articulo>#https://access-global.net/vba-como-manejar-el-tipo-datos-adjuntos-mediante-vba/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>383</Num>
+<Titulo>Destello Guardar y recuperar imágenes:</Titulo>
+<Articulo>#https://access-global.net/vba-guardar-y-recuperar-imagenes/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>384</Num>
+<Titulo>Destello Imagemagick:</Titulo>
+<Articulo>#https://access-global.net/access-imagemagick/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>385</Num>
+<Titulo>Destello Buscar acentos:</Titulo>
+<Articulo>#https://access-global.net/vba-buscar-acentos/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>388</Num>
+<Titulo>Destello Acceso directo:</Titulo>
+<Articulo>#https://access-global.net/vba-crear-un-acceso-directo-a-mi-programa/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>3</Tipo>
+<Num>1</Num>
+<Titulo>Crear un gráfico con Google Chart API:</Titulo>
+<Articulo>#https://access-global.net/crear-un-grafico-con-google-chart-api/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>3</Tipo>
+<Num>2</Num>
+<Titulo>Post-It:</Titulo>
+<Articulo>#https://access-global.net/post-it/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>3</Tipo>
+<Num>3</Num>
+<Titulo>Grabadora de notas:</Titulo>
+<Articulo>#https://access-global.net/grabadora-de-notas/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>3</Tipo>
+<Num>4</Num>
+<Titulo>Eliminar una carpeta y todo su contenido:</Titulo>
+<Articulo>#https://access-global.net/eliminar-una-carpeta-y-todo-su-contenido/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>3</Tipo>
+<Num>5</Num>
+<Titulo>Crear Carpertas encadenadas:</Titulo>
+<Articulo>#https://access-global.net/crear-carpetas-encadenadas/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>3</Tipo>
+<Num>6</Num>
+<Titulo>Trocito código SendKeys:</Titulo>
+<Articulo>#https://access-global.net/sendkeys/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>3</Tipo>
+<Num>7</Num>
+<Titulo>Cuadro de diálogo __Abrir archivo__:</Titulo>
+<Articulo>#https://access-global.net/mcfiledialog-cuadro-de-dialogo-abrir-archivo#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>3</Tipo>
+<Num>8</Num>
+<Titulo>Encriptar una cadena de texto (método Rot13):</Titulo>
+<Articulo>#https://access-global.net/encriptar-una-cadena-de-texto#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>3</Tipo>
+<Num>9</Num>
+<Titulo>Es accde o accdb:</Titulo>
+<Articulo>#https://access-global.net/es-accde-o-accdb/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>3</Tipo>
+<Num>10</Num>
+<Titulo>Hacer una pausa:</Titulo>
+<Articulo>#https://access-global.net/hagamos-una-pausa/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>3</Tipo>
+<Num>11</Num>
+<Titulo>Mc Ultimo dia de mes:</Titulo>
+<Articulo>#https://access-global.net/conocer-el-ultimo-dia-de-un-mes-mcdtmfinddatelastdayofmonth/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>3</Tipo>
+<Num>12</Num>
+<Titulo>Establecer cuenta Outlook:</Titulo>
+<Articulo>#https://access-global.net/establecer-una-cuenta-personalizada-en-un-nuevo-mensaje-de-correo-de-outlook/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>3</Tipo>
+<Num>13</Num>
+<Titulo>mc Acceso directo:</Titulo>
+<Articulo>#https://access-global.net/crear-un-acceso-directo-personalizado-en-el-escritorio#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>3</Tipo>
+<Num>14</Num>
+<Titulo>Actualizar ODBC:</Titulo>
+<Articulo>#https://access-global.net/actualizar-una-conexion-odbc-en-tiempo-de-ejecucion#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>3</Tipo>
+<Num>15</Num>
+<Titulo>TC Convertir a ASCII:</Titulo>
+<Articulo>#https://access-global.net/funcion-que-convierte-cualquier-caracter-a-texto-puramente-ascii-access-vba</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>3</Tipo>
+<Num>16</Num>
+<Titulo>Mc Primer dia mes:</Titulo>
+<Articulo>#https://access-global.net/conocer-el-primer-dia-de-un-mes-mcdtmfinddatefirstdayofmonth/#</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>3</Tipo>
+<Num>17</Num>
+<Titulo>Transparencias forms:</Titulo>
+<Articulo>#https://access-global.net/aplicar-transparencia-a-un-formulario#</Articulo>
+</Articulos>
+</dataroot>
