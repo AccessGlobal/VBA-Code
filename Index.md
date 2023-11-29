@@ -26,6 +26,7 @@
  **Destello Auditoría:** | <https://access-global.net/access-auditoria/> | [Destello Auditoría](/Destello%20Auditoría)
  **Destello Bloquear cerrar access:** | <https://access-global.net/bloquear-cerrar-access/> | [Destello Bloquear_cerrar_access](/Destello%20Bloquear_cerrar_access)
  **Destello BracketString:** | <https://access-global.net/vba-bracketString/> | [Destello BracketString](/Destello%20BracketString)
+ **Destello Buscar acentos:** | <https://access-global.net/vba-buscar-acentos/> | [Destello Buscar acentos](/Destello%20Buscar%20acentos)
  **Destello Buscar carpeta (otra forma):** | <https://access-global.net/vba-busca-carpeta-de-otra-forma/> | [Destello Buscar carpeta (otra forma)](/Destello%20Buscar%20carpeta%20(otra%20forma))
  **Destello Buscar carpeta:** | <https://access-global.net/vba-busca-carpeta/> | [Destello Buscar carpeta](/Destello%20Buscar%20carpeta)
  **Destello ByRef - ByVal:** | <https://access-global.net/vba-byval-vs-byref> | [Destello ByRef - ByVal](/Destello%20ByRef%20-%20ByVal)
