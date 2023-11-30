@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Articulos.xsd" generated="2023-11-29T20:11:03">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Articulos.xsd" generated="2023-12-01T00:02:55">
 <Articulos>
 <Tipo>1</Tipo>
 <Num>1</Num>
@@ -959,6 +959,12 @@
 <Num>385</Num>
 <Titulo>Destello Buscar acentos:</Titulo>
 <Articulo>#https://access-global.net/vba-buscar-acentos/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>387</Num>
+<Titulo>Destello Registro accesos:</Titulo>
+<Articulo>#https://access-global.net/vba-registro-de-accesos/</Articulo>
 </Articulos>
 <Articulos>
 <Tipo>2</Tipo>

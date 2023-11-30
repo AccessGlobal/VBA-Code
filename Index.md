@@ -158,6 +158,7 @@
  **Destello Recuento De Registros:** | <https://access-global.net/vba-contar-registros> | [Destello Recuento De Registros](/Destello%20Recuento%20De%20Registros)
  **Destello Recupera config usuario:** | <https://access-global.net/vba-declaracion-open> | [Destello Recupera config usuario](/Destello%20Recupera%20config%20usuario)
  **Destello Recupera papelera:** | <https://access-global.net/vba-recuperar-el-fichero-enviado-a-la-papelera> | [Destello Recupera papelera](/Destello%20Recupera%20papelera)
+ **Destello Registro accesos:** | <https://access-global.net/vba-registro-de-accesos/> | [Destello Registro accesos](/Destello%20Registro%20accesos)
  **Destello Reinicio Access:** | <https://access-global.net/vba-reiniciar-ms-access> | [Destello Reinicio Access](/Destello%20Reinicio%20Access)
  **Destello Selector Colores:** | <https://access-global.net/access-mi-selector-de-colores/> | [Destello Selector Colores](/Destello%20Selector%20Colores)
  **Destello Semana fecha:** | <https://access-global.net/vba-en-que-semana-estamos> | [Destello Semana fecha](/Destello%20Semana%20fecha)
