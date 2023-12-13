@@ -1,5 +1,5 @@
 ﻿![Access-global](/blob/main/Images/Logo1.png)
-# Destello Conectar BBDD SQL
+# Destello Conectar BBDD PostgreSQL
 ## Enlace al artículo
 [https://access-global.net/vba-conectar-una-base-de-datos-sql/](https://access-global.net/vba-conectar-una-base-de-datos-sql/)
 ## Autor/es
