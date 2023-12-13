@@ -47,6 +47,7 @@
  **Destello Complementos Access:** | <https://access-global.net/vba-complementos-de-access> | [Destello Complementos Access](/Destello%20Complementos%20Access)
  **Destello Comprueba Cuenta Bancaria** | <https://access-global.net/vba-vba-verificacion-de-una-cuenta-bancaria/> | [Destello Error Personalizado](/Destello%20Error%20Personalizado)
  **Destello Conectar BBDD Access:** | <https://access-global.net/vba-conectar-una-base-de-datos-de-access/> | [Destello Conectar BBDD Access](/Destello%20Conectar%20BBDD%20Access)
+ **Destello Conectar BBDD PostgreSQL:** | <https://access-global.net/vba-conectar-una-base-de-datos-sql/> | [Destello Conectar BBDD PostgreSQL](/Destello%20Conectar%20BBDD%20PostgreSQL)
  **Destello Configurar usuario:** | <https://access-global.net/vba-metodo-createtextfile> | [Destello Configurar usuario](/Destello%20Configurar%20usuario)
  **Destello Construir ruta:** | <https://access-global.net/vba-metodo-BuildPath> | [Destello Construir ruta](/Destello%20Construir%20ruta)
  **Destello Consultas complejas:** | <https://access-global.net/access-consultas-complejas> | [Destello Consultas complejas](/Destello%20Consultas%20complejas)
