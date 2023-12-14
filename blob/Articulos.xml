@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Articulos.xsd" generated="2023-12-01T00:02:55">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Articulos.xsd" generated="2023-12-14T15:41:41">
 <Articulos>
 <Tipo>1</Tipo>
 <Num>1</Num>
@@ -971,6 +971,24 @@
 <Num>388</Num>
 <Titulo>Destello Acceso directo:</Titulo>
 <Articulo>#https://access-global.net/vba-crear-un-acceso-directo-a-mi-programa/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>390</Num>
+<Titulo>Destello Conectar BBDD Access:</Titulo>
+<Articulo>#https://access-global.net/vba-conectar-una-base-de-datos-de-access/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>391</Num>
+<Titulo>Destello Conectar BBDD SQL:</Titulo>
+<Articulo>#https://access-global.net/vba-conectar-una-base-de-datos-sql/</Articulo>
+</Articulos>
+<Articulos>
+<Tipo>2</Tipo>
+<Num>392</Num>
+<Titulo>Destello modDSN:</Titulo>
+<Articulo>#https://access-global.net/vba-mas-cosas-sobre-los-DSN/</Articulo>
 </Articulos>
 <Articulos>
 <Tipo>3</Tipo>
