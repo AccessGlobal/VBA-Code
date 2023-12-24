@@ -1,7 +1,7 @@
 ﻿![Access-global](/blob/main/Images/Logo1.png)
 # Destello imágenes MSO
 ## Enlace al artículo
-[https://access-global.net/vba-imagenes-mso/](https://access-global.net/vba-imagenes-mso/)
+[https://access-global.net/access-imagenes-mso/](https://access-global.net/access-imagenes-mso/)
 ## Autor/es
 Alba Salvá | albasalvaaccess-global.net // Alba Salvá | albasalvaaccess-global.net // Alba Salvá | albasalvaaccess-global.net
 ## Colaborador/es
