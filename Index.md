@@ -24,6 +24,7 @@
  **Destello Abrir fichero texto:** | <https://access-global.net/vba-metodo-opentextfile> | [Destello Abrir fichero texto](/Destello%20Abrir%20fichero%20texto)
  **Destello Acceso directo:** | <https://access-global.net/vba-crear-un-acceso-directo-a-mi-programa/> | [Destello Acceso directo](/Destello%20Acceso%20directo)
  **Destello Adaptar ListBox a contenido:** | <https://access-global.net/vba-adaptar-columnas-de-un-listbox-a-su-contenido/> | [Destello Adaptar ListBox a contenido](/Destello%20Adaptar%20ListBox%20a%20contenido)
+ **Destello Aplicación tipo App:** | <https://access-global.net/access-aplicacion-tipo-app/> | [Destello Aplicación tipo App](/Destello%20Aplicación%20tipo%20App)
  **Destello Auditoría:** | <https://access-global.net/access-auditoria/> | [Destello Auditoría](/Destello%20Auditoría)
  **Destello Bloquear cerrar access:** | <https://access-global.net/bloquear-cerrar-access/> | [Destello Bloquear_cerrar_access](/Destello%20Bloquear_cerrar_access)
  **Destello BracketString:** | <https://access-global.net/vba-bracketString/> | [Destello BracketString](/Destello%20BracketString)
