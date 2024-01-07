@@ -14,7 +14,7 @@
 <od:index index-name="Id" index-key="Num " primary="no" unique="no" clustered="no" order="asc"/>
 <od:tableProperty name="Orientation" type="2" value="0"/>
 <od:tableProperty name="OrderByOn" type="1" value="0"/>
-<od:tableProperty name="NameMap" type="11" value="CswOVQAAAACuXcaQjBKgRpGe2cWzNa0FAAAAAC2FBp1wGeZAAAAAAAAAAABBAGQA
+<od:tableProperty name="NameMap" type="11" value="CswOVQAAAACuXcaQjBKgRpGe2cWzNa0FAAAAAI9FXkd4GeZAAAAAAAAAAABBAGQA
 aQBjAGkAbwBuAGEAbABlAHMAAAAAAAAAIOyCQRZj4UKchmTOsIR5FAcAAACuXcaQ
 jBKgRpGe2cWzNa0FTgB1AG0AAAAAAAAACobXOGj2zE+9EQ2nnrmuXQcAAACuXcaQ
 jBKgRpGe2cWzNa0FVABpAHAAbwAAAAAAAAB7603D4p2WRaBa+ZnOCqHFBwAAAK5d
@@ -111,7 +111,7 @@ TAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAUAAAAAAAAAAAAAAAAAAAAAAA==
 <xsd:element name="File_URL" minOccurs="0" od:jetType="hyperlink" od:sqlSType="ntext" od:hyperlink="yes">
 <xsd:annotation>
 <xsd:appinfo>
-<od:fieldProperty name="ColumnWidth" type="3" value="-1"/>
+<od:fieldProperty name="ColumnWidth" type="3" value="11325"/>
 <od:fieldProperty name="ColumnOrder" type="3" value="0"/>
 <od:fieldProperty name="ColumnHidden" type="1" value="0"/>
 <od:fieldProperty name="Required" type="1" value="0"/>

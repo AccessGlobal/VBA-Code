@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Archivos.xsd" generated="2023-12-24T02:47:31">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Archivos.xsd" generated="2024-01-08T00:23:21">
 <Archivos>
 <Num>1</Num>
 <Tipo>2</Tipo>
@@ -987,8 +987,32 @@
 <Archivos>
 <Num>396</Num>
 <Tipo>2</Tipo>
-<NombreArchivo>Readme.vba</NombreArchivo>
-<File_URL>#https://github.com/AccessGlobal/VBA-Code/raw/main/Destello%20Aplicación%20tipo%20App/Readme.vba</File_URL>
+<NombreArchivo>Readme_md.vba</NombreArchivo>
+<File_URL>#https://github.com/AccessGlobal/VBA-Code/raw/main/Destello%20Aplicación%20tipo%20App/Readme_md.vba</File_URL>
+</Archivos>
+<Archivos>
+<Num>397</Num>
+<Tipo>2</Tipo>
+<NombreArchivo>Readme_md.vba</NombreArchivo>
+<File_URL>#https://github.com/AccessGlobal/VBA-Code/raw/main/Destello%20Plantilla%20Asistente/Readme_md.vba</File_URL>
+</Archivos>
+<Archivos>
+<Num>398</Num>
+<Tipo>2</Tipo>
+<NombreArchivo>Readme_md.vba</NombreArchivo>
+<File_URL>#https://github.com/AccessGlobal/VBA-Code/raw/main/Destello%20Rutas%20distribucion/Readme_md.vba</File_URL>
+</Archivos>
+<Archivos>
+<Num>399</Num>
+<Tipo>2</Tipo>
+<NombreArchivo>SelectoresFechas.vba</NombreArchivo>
+<File_URL>#https://github.com/AccessGlobal/VBA-Code/raw/main/Destello%20Selectores%20fechas/SelectoresFechas.vba</File_URL>
+</Archivos>
+<Archivos>
+<Num>400</Num>
+<Tipo>2</Tipo>
+<NombreArchivo>Readme_md.vba</NombreArchivo>
+<File_URL>#https://github.com/AccessGlobal/VBA-Code/raw/main/Destello%20Access-Github/Readme_md.vba</File_URL>
 </Archivos>
 <Archivos>
 <Num>1</Num>
